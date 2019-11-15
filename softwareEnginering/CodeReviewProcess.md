@@ -71,6 +71,14 @@ When you invite someone to a code review; you are saying:
 
 Intended Culture: "It is height of bad manners to refuse and offer of code review" (A reference to Red Dwarf: Series 4: Holo-ship)
 
+A culture of *professional comradery* is a key component to effective collaboration.
+If developers don't like being in each others company, they will want the code review to be over a quickly as possible. The code review will not be thorough.
+
+Managers
+* Must be tollerant of 
+* When hiring, it is important to consider _team fit_. Imagine how this new hire would communicate with the existing team.
+
+
 ### Why have such regular reviews?
 
 > Analogy: Why do you brush your teeth twice a day? You could just see a dentist/hygienist once every 6 months for a clean and maybe a filling
@@ -173,4 +181,11 @@ Pair Programming.
 
 Pair Programming is a *tool* in a toolbox.
 It is not effective or required that every task is paired on.
+
+
+## Further Reading
+
+* [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/)
+* Counterpoints
+    * [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule'](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)
 
