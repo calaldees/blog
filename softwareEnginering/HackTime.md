@@ -38,20 +38,6 @@ What would developers use 'Hack Time' for?
 * The business may be unaware of process's/workflows that are difficult. This allows/incentivise developers space to correct these issues and make business efficiency gains
 * Sharing/Demoing programming techniques/case-studies upskills the whole team (Some might consider this to have already been covered but other business knowledge-share initiatives, but is here for completeness)
 
-Hack-time -> External Dev Meetups
----------------------------------
-* Attending 'External Developers Meetups' should be part of expected business outreach strategy
-* Developers are visible in the community _our company have some great developers_
-* Our developers get valuable insight into usecass and new technologies from other problem domains.
-* Developers can passively evangelise our workplace and form part of recruitment strategy.
-    * (This does not mean wearing branded t-shirts and only giving presentations about work projects. Other developers can smell this business bullshit)
-    * Dramatically reduces recruiter costs
-    * Typically yields a higher grade of passionate developer (rather than people just looking for the next job)
-* Allow developers to trade an 'afternoon of hack-time' for an 'evening at a developer meetup'
-    * Some developers have families and other personal commitments
-    * To be an inclusive employer we should not limit developer growth to mandatory personal time
-
-
 Summary of Benefits
 -------------------
 * Increase developer engagement
@@ -104,6 +90,19 @@ They set aside entire days to get developers to be a ThinkTank around a particul
 This allows multiple teams to team-build across departments/disciplines while creating business value.
 Some companies even open these up to external contributors to create an active public image and get external perspective on their problems.
 This in turn facilitate our engineers being invited to other company's hack days (in a similar business domain) and raising the profile of our company/engineers.
+
+Hack-time -> External Dev Meetups
+---------------------------------
+* Attending 'External Developers Meetups' should be part of expected business outreach strategy
+* Developers are visible in the community _our company have some great developers_
+* Our developers get valuable insight into usecass and new technologies from other problem domains.
+* Developers can passively evangelise our workplace and form part of recruitment strategy.
+    * (This does not mean wearing branded t-shirts and only giving presentations about work projects. Other developers can smell this business bullshit)
+    * Dramatically reduces recruiter costs
+    * Typically yields a higher grade of passionate developer (rather than people just looking for the next job)
+* Allow developers to trade an 'afternoon of hack-time' for an 'evening at a developer meetup'
+    * Some developers have families and other personal commitments
+    * To be an inclusive employer we should not limit developer growth to mandatory personal time
 
 Problems with 'Hack Time'
 -------------------------
