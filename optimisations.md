@@ -21,8 +21,9 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * I have a folding bike. The handlebars are a T shape. I can hang a normal rucksack on the front handlebars.
             * My back is clear (for hi-vis vests) (extra cooling, no sweaty back)
             * I don't have to fiddle with clipping things down with bungees or crap
-            * I can carry huge weights (weight is over the front weel and stable)
+            * I can carry huge weights (weight is over the front wheel and stable)
                 * The bike can double as a push trolly when critically loaded. I have regularly transported weekly shopping for 4 people consistently
+        * Folding bike + train combo means I can use train time to be productive
 * Home/Space/Domestic
     * Robot vacuum cleaner
         * It cleans regularly when I'm out. Consistently useable environment
@@ -31,7 +32,6 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Wash up immediately
         * Wether you wash up now or 2 days time the time taken is the same
             * (maybe not because food drys and hardens)
-            * you are trading 7 small 4min cleaning session for one massive 30min session
         * A sink that is full of shit, is not useable as a sink for other things
         * Every item that is dirty is unusable until it is cleaned
         * Get a dishwasher (it cleans better (bacteria), with less water)
@@ -39,6 +39,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Every item should have a place where it goes. If you ever find the object not in it's correct place and it is not actively in use, return it to it's correct location.
         * By virtue of moving around your house you will clean/tidy as you go
         * Water droplets left in the shower will turn into crap, wipe them every day
+            * Plastic body scrubbers do not retain water and smell like sponges or flanenls
         * You will have multiple people using shared facilities. Keep all bottles/items out of the bathroom, (this inhibits efficient cleaning as they all have to moved to wipe any surface).
     * Kitchen sponges are bacterial colonies
         * Put them in microwave for 60seconds often
@@ -51,10 +52,10 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
 * Social
     * No facebook or social media
         * These detract from genuine human interactions, trivialize other people
-        * The content is often of poor quality, vapid, low end bellendry. These are distractions
+        * Social media content is often of poor quality, vapid, low end bellendry. These are distractions
     * Your social circle should push/correct/inspire/grow
         * Cultivate your friends - support each other in growing
-        * identify toxically, don't be afraid to challenge
+        * Identify toxically, don't be afraid to challenge
             * Your _inaction_ has consequences
             * Loose the bellends
             * Challenge mobile use in social situations
@@ -92,6 +93,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
                     * Used for minor cuts/injury
                 * light headphones
                 * earplugs
+                * hand cream (non greesy)
             * Umbrella (cheap, light)
             * Extra plastic bags (folded) (waterproof + carrying capacity if need)
     * Have a laptop - be productive anywhere
@@ -99,8 +101,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
             * You need to be free to communicate and be productive anywhere
         * No smartphone
             * I have a simple phone to functionally text and meet people, or for emergencies
-            * I control my mental space.
-            * I can't consume and focus on meaning media on a phone
+            * I control my mental space
+            * I can't consume and digest effectively meaningful media on a phone
             * I can't respond effectively or deeply with the restrictive input device
     * Items should be modular whenever possible
         * Coats
@@ -140,6 +142,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Makes notes when you read non-fiction
         * review your notes
     * Have more than one career plan/path/skill-set
-        * Never be in a position where you are locked into a job you hate because you think you cant do anything else. This perception will boost mental health
+        * Never be in a position where you are locked into a job you hate because you think you can't do anything else. This perception will boost mental health
         * If one career does not go to plan, you have another. Limits the sense of failure.
-        * The world _will_ change in your working lifetime
+        * The world _will_ change in your working lifetime because the world is constantly changing
+    * Understand the concept of _Compound Interest_ (in all aspects of life not just financially)
