@@ -18,6 +18,8 @@ There are suggestions of how to crudely measure technical debt
 * https://dzone.com/articles/what-technical-debt-it-and-how-to-calculate-it
 [Managing Technical Debt: Reducing Friction in Software Development](https://www.amazon.co.uk/gp/product/013564593X/)
 * https://realpython.com/python-code-quality/
+* [The #1 bug predictor is not technical, it's organizational complexity](https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/)
+    * Precision and recall
 
 The important factors for a technical debt metric
 -------------------------------------------------
@@ -41,9 +43,14 @@ We could include
     * Maintainability Index
     * Coupling
         * How many dependencies between modules
+    * Dependencies
+        * External libs + depth
     * Linting rules
         * We can measure code quality with layout/structural rules
         * Portability (python3 warnings?)
+* Test Coverage
+* Code Churn
+    * Measures the number of changes in version control of a module
 * Performance
     * Load test and measure to a known threshold?
     * API endpoint benchmark?
@@ -58,6 +65,10 @@ We could include
     * errors in live (relative to request?)
     * Size of processing queue?
     * Number of manual interventions
+* Organizational Complexity
+    * Number of developers worked on a module
+    * Team size
+    * (see reference above for detailed description)
 
 All the metrics should be
 

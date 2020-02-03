@@ -135,8 +135,10 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
         * Don't use the phrase 'Im to busy', use the phrase 'I have other priorities'
+        * More efficient tools/products/automation raise standards - everyone now works to a higher standard
     * Discipline gets shit done
         * Have a routine. Leaving things to 'when you feel in the mood' will not make progress
+        * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
     * Your parents are not you
         * Their judgments should not affect your life
     * Makes notes when you read non-fiction
@@ -146,3 +148,4 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * If one career does not go to plan, you have another. Limits the sense of failure.
         * The world _will_ change in your working lifetime because the world is constantly changing
     * Understand the concept of _Compound Interest_ (in all aspects of life not just financially)
+    * No human is independent

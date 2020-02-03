@@ -60,7 +60,7 @@ A possible model:
     * Hack time!
         * An efficient use of (sometimes, a less productive) time
 
-If Hack Time is placed within normal print time, there is a tendency to use Hack Time for completing sprint tickets. Placing Hack Time in-between sprints could alleviate this.
+If Hack Time is placed within normal sprint time, there is a tendency to use Hack Time for completing sprint tickets. Placing Hack Time in-between sprints could alleviate this.
 
 Examples of previous 'Hack Time' projects
 -----------------------------------------
@@ -95,7 +95,7 @@ Hack-time -> External Dev Meetups
 ---------------------------------
 * Attending 'External Developers Meetups' should be part of expected business outreach strategy
 * Developers are visible in the community _our company have some great developers_
-* Our developers get valuable insight into usecass and new technologies from other problem domains.
+* Our developers get valuable insight into usecases and new technologies from other problem domains.
 * Developers can passively evangelise our workplace and form part of recruitment strategy.
     * (This does not mean wearing branded t-shirts and only giving presentations about work projects. Other developers can smell this business bullshit)
     * Dramatically reduces recruiter costs
@@ -107,6 +107,10 @@ Hack-time -> External Dev Meetups
 Problems with 'Hack Time'
 -------------------------
 * Some developers use this as an opportunity to implement their own business features and direct the business efforts
-    * A developer could claim that the feature is finished and should be merged/used
+    * A developer could claim that a feature created in hack-time is 'finished' and should be merged/used
     * This is NOT the purpose of Hack Time
     * The decision should always be with the business. New business features should always go though the business specification process
+
+Further Reading
+---------------
+* [Learning at work, is work](https://sloanreview.mit.edu/article/learning-for-a-living/)

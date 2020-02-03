@@ -2,7 +2,7 @@
 
 Just raising a PR online and waiting for the comments to 'come back' is not effective code review.
 Code reviews are the cornerstone of shared understanding, growth, and higher quality products.
-A teams attitudes to Code Review can transform a teams effectiveness.
+A team's attitudes to Code Review can transform a teams effectiveness.
 
 ## Objectives of a Code Review Process
 
@@ -16,12 +16,12 @@ A teams attitudes to Code Review can transform a teams effectiveness.
 * Detect complications sooner rather than later
     * To avoid poor quality solutions
 * Breakup large/heavy/intensive cognitive work
-    * Humans cant focus at 100% capacity for long periods of time
-* Efficiency use developers time
-    * Maximize our developers understanding as efficiently as possible
+    * Humans can't focus at 100% capacity for long periods of time
+* Efficiently use developers' time
+    * Maximize our developers' understanding as efficiently as possible
         * What is quicker?
-            * 3 people independently spending 15min of source driving to find the answer
-            * or one 60second explanation to 3 people
+            * 3 people independently spending 15 min of source diving to find the answer
+            * or one 60 second explanation to 3 people
 * Verify/check thinking/approach
     * No single person is code Jesus. I've seen great developers make bad calls occasionally
 * Consolidate/Unify the teams code style, patterns and thinking
@@ -42,8 +42,8 @@ Two (or more) developers should discuss the technical approach to the ticket
 
 (Side note: the ticket is written as a story requirement and will have been deliberately crafted to remove implementation directives)
 
-* The prelimer's decide on
-    * Class's to create?
+* The prelimers decide on
+    * Classes to create?
     * Likely files to be edited?
     * Any possible overlap with any other tickets in this sprint? (should have been covered at sprint planning, prelim with developers on overlap)
     * Expected algorithm or query structure?
@@ -53,47 +53,47 @@ Two (or more) developers should discuss the technical approach to the ticket
 ### Interim Code Review (Fast Feedback)
 
 * Spin-up time to get quality feedback it minimal (as reviewers were involved in prelim and other smaller reviews)
-* We can now have small 15min code reviews that don't wipe out an afternoon.
-    * Developers are more likely to accept a code review as it's just a few minuets out of their flow
-        * They are already familiar with the implementation direction, it's not a huge cognitive overhead to switch tasks
-    * It's perfectly acceptable for a reviewer to postpone a review-request for 15min while they finish something
+* We can now have small 15 min code reviews that don't wipe out an afternoon.
+    * Developers are more likely to accept a code review as it's just a few minutes out of their flow
+        * They are already familiar with the implementation direction. It's not a huge cognitive overhead to switch tasks
+    * It's perfectly acceptable for a reviewer to postpone a review-request for 15 min while they finish something
         * Postponing for any more than a few hours is actively discouraged
         * Postponing longer than half a day is seen as disruptive
-            * (no single developer should ever be rushing or stressed or working on something so critical that it should prevent them from performing any other task (like code review) for half a day. Something is wrong with the process)
+            * (No single developer should ever be rushing or stressed or working on something so critical that it should prevent them from performing any other task (like code review) for half a day. Something is wrong with that process)
 
 ## Team attitude to code review
 
 When you invite someone to a code review; you are saying:
 * I value your professional opinion and skill
-* I want you to challenge my thinking, Any solution can be improved
+* I want you to challenge my thinking; Any solution can be improved
 * I want to help you grow
-* I need further insight from you on parts of the system/experience I am unfamiliar
+* I need further insight from you on parts of the system/experience I am unfamiliar with
 
-Intended Culture: "It is height of bad manners to refuse and offer of code review" (A reference to Red Dwarf: Series 4: Holo-ship)
+Intended Culture: "It is height of bad manners to refuse and offer of code review". (A reference to Red Dwarf: Series 4: Holo-ship)
 
 A culture of *professional comradery* is a key component to effective collaboration.
 If developers don't like being in each others company, they will want the code review to be over a quickly as possible. The code review will not be thorough.
 
 Managers
-* Must be tollerant of 
+* Must be tolerant of ???
 * When hiring, it is important to consider _team fit_. Imagine how this new hire would communicate with the existing team.
 
 
 ### Why have such regular reviews?
 
-> Analogy: Why do you brush your teeth twice a day? You could just see a dentist/hygienist once every 6 months for a clean and maybe a filling
+> Analogy: Why do you brush your teeth twice a day? You could just see a dentist/hygienist once every 6 months for a clean and maybe a filling.
 
 ## Presenting (one of) your (many mini) Reviews
 
-1. Welcome attendees, describe addenda/table-of-content
+1. Welcome attendees, describe agenda/table-of-content
 2. Show the original ticket on screen
-    * Most developers would have been present at sizing and seen the ticket before, this is a good reminder
-3. Check your reviewers understanding. Do not assume.
+    * Most developers would have been present at sizing and seen the ticket before. This is a good reminder
+3. Check your reviewers understanding. Do not assume
     * Check their level of understanding about the ticket/feature
         * Just because you've linked them to the ticket beforehand does not mean it has been read or understood
     * Give them business context
     * Check what parts of the system they have seen/used before. Ask them if they want a refresher
-        * Normal Developers, Junior Developers and Half-management-(distracted) Developers will often need prompting/checking/guiding
+        * Normal Developers, Junior developers and Half-management-(distracted) developers will often need prompting/checking/guiding
             * Do this in a constructive, supportive, respectful, professional way
 4. Demo: Show them the code/feature working/or-progress
     * Give them context _then_ show them the code
@@ -109,28 +109,28 @@ Managers
 
 ### Indicators of poor business process (are any of these familiar?)
 
-* A senior developer attends the review at the last stage and slams it - I could have told you to not take this approach. The ticket remains blocked with un-constructive comments like "replace all of this"
-    * Have prelims.
-* When testing, someone asks: Why are we doing this in the first place? This flow is utterly inefficient. Did the user ask for this feature directly? Why didn't we ask them 'Why' they want it
-    * Size your tickets. Product Owner + The team should reject tickets without understanding the use-case/reasons
-* I don't' know anything about this part of the system. I can't really help you on this review
-    * Size you tickets, have prelims
+* A senior developer attends the review at the last stage and slams it - I could have told you to not take this approach. The ticket remains blocked with un-constructive comments like, "Replace all of this."
+    * Have prelims
+* When testing, someone asks, "Why are we doing this in the first place? This flow is utterly inefficient. Did the user ask for this feature directly? Why didn't we ask them 'Why' they want it."
+    * Size your tickets. Product owner + the team should reject tickets without understanding the use-case/reasons
+* I don't know anything about this part of the system. I can't really help you on this review
+    * Size your tickets. Have prelims
 * It's too late. Were just going to have to merge it and suffer the consequences because we need to ship the feature
     * Ongoing Incremental Fast feedback. The team would know if this ticket needs more time/attention
-* I've just spent 15 minuets writing my comment against a change that was suggested to me. Sadly I don't think this reviewer gets my point. This is the 3rd comment exchange and this review has been open 2 days now
+* I've just spent 15 mins writing my comment against a change that was suggested to me. Sadly I don't think this reviewer gets my point. This is the 3rd comment exchange and this review has been open 2 days now
     * Have more than 2 people in a review
-* I've asked 3 times on slack. Everyone is busy as it's the end of sprint on their own tickets and I don't think I can get my ticket thorough as their is no one to review it
+* I've asked 3 times on slack. Everyone is busy as it's the end of sprint on their own tickets and I don't think I can get my ticket through as there is no one to review it
     * Have incremental code reviews
-    * Why is the team focused on individual delivery? Culture
-* I've just been given a 2000 line PR from an email notification, my heart just sank
+    * Why is the team focused on individual delivery? Culture???
+* I've just been given a 2000 line PR from an email notification. My heart just sank
     * Have incremental code reviews
-    * Have prelims (you know you're going to be involved later in this ticket)
-    * Talk/invite people at standup - be a human
+    * Have prelims (you know you're going to be involved later in this ticket.)
+    * Talk/invite people at standup - Be a human
 * I just sat though a 3 hour code review. I contributed nothing. I still feel like I have little understanding of the feature
     * The whole team sizes tickets (so they all should have some knowledge)
     * The presenter should have checked the attendees knowledge understanding
 * Can you review this code. The tests are failing because I'm running CI for the first time. I'll get to them later
-    * This is too late, (Tests are part of development)
+    * This is too late; tests are part of development
     * Commits should be made regularly - CI should give ongoing feedback
 * I'm desperate to get my feature through but the rest of the team are being aggressive and elitist and refuse to accept my changed even after 3 rounds of changes
     * Do not block all progress - as long as quality does not decrease
@@ -181,6 +181,8 @@ Pair Programming.
 
 Pair Programming is a *tool* in a toolbox.
 It is not effective or required that every task is paired on.
+
+https://martinfowler.com/articles/on-pair-programming.html
 
 
 ## Further Reading

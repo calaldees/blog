@@ -16,3 +16,10 @@ Why Agile
         * Not a never-ending mountain
 
 Assignee - single person - pah!
+
+
+Post-Agile
+==========
+
+* [living-in-the-age-of-software-fuckery](https://web.archive.org/web/20190713163433/https://medium.com/@bryanedds/living-in-the-age-of-software-fuckery-8859f81ca877)
+    * [sharing-is-the-root-of-all-contention](https://web.archive.org/web/20190713163113/https://medium.com/@bryanedds/sharing-is-the-root-of-all-contention-f1ba6b9b82fc)
