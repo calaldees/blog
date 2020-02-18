@@ -3,15 +3,21 @@ Bring linting/formatting to your legacy projects
 
 Remove all discussion about formatting/layout with an auto-formatter
 
+This is an example of migrating a codebase to using the python-formatter [black](https://black.readthedocs.io/) - The uncompromising code formatter
+
+> By using Black, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters.
+
+> Black makes code review faster by producing the smallest diffs possible. Blackened code looks the same regardless of the project you’re reading. Formatting becomes transparent after a while and you can focus on the content instead.
+
+
 Problem
 -------
 
-Blocker to implementing on existing codebase's
-People fear enforcing auto-formatters/linters because:
-* Noise (If applied to files touched by a feature)
+People fear enforcing auto-formatters/linters on existing codebase's because:
+* Noise (If applied to incrementally touched files for a feature)
     * A new feature is contaminated by layout modifications that obscure the intended logic
 * Damage/loss to valuable code history (If applied to the whole repo)
-    * Every line that is changed is obscured. This original history/comments/intent are berried
+    * Every line that is changed is obscures the history. This original history/comments/intent are berried
 
 Solution
 --------
