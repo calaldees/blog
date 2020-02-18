@@ -102,3 +102,8 @@ Technologies/Libs/Services/Packages
         * https://martin-thoma.com/testing-python-code/#radon
     * https://pypi.org/project/pynocle/
     * https://www.sourcemeter.com/resources/python/
+
+Other References
+----------------
+
+Visulisation of code [nDepend](https://blog.ndepend.com/mythical-man-month-10-lines-per-developer-day/)
