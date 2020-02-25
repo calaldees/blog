@@ -106,4 +106,5 @@ Technologies/Libs/Services/Packages
 Other References
 ----------------
 
-Visulisation of code [nDepend](https://blog.ndepend.com/mythical-man-month-10-lines-per-developer-day/)
+* [The Original Sin of Software Metrics](https://www.infoq.com/articles/metrics-original-sin/) - Metrics are not everything
+* Visulisation of code [nDepend](https://blog.ndepend.com/mythical-man-month-10-lines-per-developer-day/)

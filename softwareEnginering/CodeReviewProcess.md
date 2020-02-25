@@ -190,4 +190,5 @@ https://martinfowler.com/articles/on-pair-programming.html
 * [Developers mentoring other developers: practices I've seen work well](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/)
 * Counterpoints
     * [Makers, Don't Let Yourself Be Forced Into the 'Manager Schedule'](https://blog.nuclino.com/makers-don-t-let-yourself-be-forced-into-the-manager-schedule)
-
+* [How to write the perfect pull request ](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)
+* [thoughtbot: code-review](https://github.com/thoughtbot/guides/tree/master/code-review)

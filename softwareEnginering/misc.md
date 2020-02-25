@@ -79,3 +79,4 @@ Further Reading
 ---------------
 
 https://www.atlassian.com/agile/project-management/estimation
+https://github.com/thoughtbot/guides

@@ -46,23 +46,34 @@ Rewrite git history
     # Safety first
     git remote rm origin
 
-    # Extract subfolder as repo root and format every commit with formatter
-    git filter-branch \
+    cleanup () {
+        # Prune all unrelated/unlinked refs
+        git reset --hard
+        git for-each-ref --format="%(refname)" refs/original/ | xargs -n 1 git update-ref -d
+        git reflog expire --expire=now --all
+        git gc --aggressive --prune=now
+    }
+
+    # Extract subfolder as repo root
+    # 10 min
+    FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch \
         --tag-name-filter cat \
         --prune-empty \
-        --subdirectory-filter ./ \
+        --subdirectory-filter xxx/yyy/zzz \
+    -- --all
+    cleanup
+
+    # Format every commit with formatter
+    # 10 hours
+    FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch \
+        --tag-name-filter cat \
+        --prune-empty \
         --tree-filter '\
             black --target-version=py27 ./ || \
             echo "Error formatting, possibly invalid py file" \
         '\
     -- --all
-    # TODO: Optimization: format only changed files: $(git show $GIT_COMMIT --name-status | egrep ^[AM] | grep .py | cut -f2)
-
-    # Prune all unrelated/unlinked refs
-    git reset --hard
-    git for-each-ref --format="%(refname)" refs/original/ | xargs -n 1 git update-ref -d
-    git reflog expire --expire=now --all
-    git gc --aggressive --prune=now
+    cleanup
 
     # Push to the new repo
     git remote add origin git@NEW_REPO
@@ -95,9 +106,33 @@ Continuous integration enforcement
 ```
 
 
+Appendix
+--------
+
+### How is `black` different from [pylint](https://www.pylint.org/)?
+
+PyLint is a checker. It provides information/warnings but does not change files.
+Black applies changes and modifies the layout of files.
+PyLint can be configured to give warnings on more complex flows (much like MsWord provides grammar suggestions). It can also be programmed with custom rules if needed.
+Black could be used in conjunction with tools like PyLint
+
+PyLint could enforce things like
+    * Enforcing if variable names are well-formed according to your coding standard
+    * Enforcing depreciated modules use/import are treated as an error
+
+They are parallel technologies that are implemented in similar ways.
+Both would use similar setup methods:
+1. Add some kind of config file in the root of the repo
+2. Setup some kind of pre-commit hook to check them
+3. Setup CI to reject/fail commits that break the rules
+You could start by having `.pylintrc` file that has _no-rules_ and begin to setup pre-commit/ci without disrupting current development. Then slowly we can add rules incrementally.
+
+
 References
 ----------
 
+* http://books.agiliq.com/projects/essential-python-tools/en/latest/linters.html
+* http://www.locallyoptimal.com/blog/2019/08/23/why-you-should-use-black-for-your-python-style-linting/
 * https://www.mattlayman.com/blog/2018/python-code-black/
 * https://stackoverflow.com/a/359759/3356840
 * https://medium.com/millennial-falcon-technology/reformatting-your-code-base-using-prettier-or-eslint-without-destroying-git-history-35052f3d853e
