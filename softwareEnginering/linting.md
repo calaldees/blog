@@ -43,6 +43,8 @@ Rewrite git history
 ```
 
 ```bash
+    git clone ???
+
     # Safety first
     git remote rm origin
 

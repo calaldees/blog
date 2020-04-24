@@ -52,7 +52,8 @@ Disaplin
 Other Opinions
 --------------
 
-[Things I Believe About Software Engineering](https://blog.wesleyac.com/posts/engineering-beliefs)
+* [Things I Believe About Software Engineering](https://blog.wesleyac.com/posts/engineering-beliefs)
+  * [HackerNews Discussion](https://news.ycombinator.com/item?id=22222137)
 [six-domains-agility-cultivating-high-performance](https://www.linkedin.com/pulse/six-domains-agility-cultivating-high-performance-agile-karim-harbott/)
 
 > I believe the change needs to be actively driven by leadership
@@ -74,9 +75,60 @@ https://commitizen.github.io/cz-cli/
 
 [Good Code](https://xkcd.com/844/)
 
+Objectives with Key Results
+---------------------------
+
+https://felipecastro.com/en/okr/what-is-okr/
+
+https://medium.com/startup-tools/okrs-5afdc298bc28
+
+Quantifiable Measurable Objectives
+Living documents? (Teacher Workbook example)
+
+### Uber
+More Demand -> More Drivers -> More Geographics Coverage
+  -> Less Driver Downtime -> Lower Prices
+  -> Faster Pickups
+-> More Demand
+
+
+Hiring
+------
+
+* [The software industry's greatest sin: hiring](https://www.neilwithdata.com/developer-hiring)
+  * hiring on raw algorithmic prowess ignores many other attributes
+
 
 Further Reading
 ---------------
 
 https://www.atlassian.com/agile/project-management/estimation
 https://github.com/thoughtbot/guides
+
+[Blameless Postmortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+
+[You’re not writing code, you’re solving problems](https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems/)
+
+[state of devops 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
+
+
+deployments a day
+-----------------
+
+https://medium.com/@keithos80/100-deployments-a-day-b07181807d59
+https://resources.stottandmay.com/one-hundred-deployments-a-day
+Vodafone are working towards setting up a continuous delivery pipeline to help reach the target of 100 deployments a day.
+https://www.infoq.com/news/2014/03/etsy-deploy-50-times-a-day/
+How Etsy Deploys More Than 50 Times a Day 
+https://www.slideshare.net/oscarrenalias/50-production-deployments-a-day-at-least
+https://engineering.fb.com/web/rapid-release-at-massive-scale/
+We decided to move facebook.com to a quasi-continuous “push from master” system in April 2016. Over the next year, we gradually rolled it out, first to 50 percent of employees, then from 0.1 percent to 1 percent to 10 percent of production web traffic. Each of these progressions allowed us to test the ability of our tools and processes to handle the increased push frequency and get real-world signal. 
+https://www.netsolutions.com/insights/why-do-great-product-companies-release-software-to-production-multiple-times-a-day/
+Leading tech companies were the early adopters of DevOps. Facebook, for instance, releases 100 million lines of code daily. By 2015, Amazon developers were doing a production deployment every 1 second.
+
+
+Keep documentation in the repo
+------------------------------
+
+Update on merge to master
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/

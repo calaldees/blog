@@ -31,12 +31,13 @@ What would developers use 'Hack Time' for?
 * Developers feel personally invested by having the freedom to work in an area that interests them rather than being told what to do 100% of the time
 * Developers can progress their knowledge base rather than being trapped in their role
 * Developers can be a vital think tank to explore new ideas the business may not have been aware of
-* Developers individualism is identified and visible
+* Developers individualism is identified and visible (rather than just always implementing what the business ticket describes)
 * Teams that have a culture of creating and sharing (via passive peer pressure) encourage everyone to explore and contribute
     * Non contributors are immediately visible
 * Create focused engagement (e.g. Friday afternoon, orderly concentration would wane/wonder)
 * The business may be unaware of process's/workflows that are difficult. This allows/incentivise developers space to correct these issues and make business efficiency gains
 * Sharing/Demoing programming techniques/case-studies upskills the whole team (Some might consider this to have already been covered but other business knowledge-share initiatives, but is here for completeness)
+* Hack presentations could provide a regular forum for normally separate technical teams to interact. This ongoing team-building strengthens business communication.
 
 Summary of Benefits
 -------------------
@@ -44,15 +45,17 @@ Summary of Benefits
 * Provide business with 'ThinkTank' of exploitative ideas
 * Publicly raise the profile of the development team
 * Incentivise growth/change to allow more efficient working
+* Presentations provide a forum for inter-technical-team building/communication
 
 How
 ---
 A possible model:
 
 * Friday After Lunch
-    * Team demos
+    * Team demos (A vital component)
         * We all gather and team members present if they have something to present
             * E.g in a team of 12 people you would expect a normal minimum of 2 informal presentations a week
+        * Presentations should be relaxed and informal
     * Team update
         * Team members give a 30second verbal update of what they will be using their hack time for
         * Team members without a plan can pair with others or are directed by the team to possible areas of investigation

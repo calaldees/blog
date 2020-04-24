@@ -182,8 +182,9 @@ Pair Programming.
 Pair Programming is a *tool* in a toolbox.
 It is not effective or required that every task is paired on.
 
-https://martinfowler.com/articles/on-pair-programming.html
-
+* https://martinfowler.com/articles/on-pair-programming.html
+* https://wiki.c2.com/?PairProgrammingEconomics
+* https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_21
 
 ## Further Reading
 
