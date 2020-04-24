@@ -1,0 +1,1 @@
+[People may know the best decision—and not make it: study](https://medicalxpress.com/news/2020-04-people-decisionand.html)
