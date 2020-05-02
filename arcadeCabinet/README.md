@@ -6,9 +6,9 @@ The _Mark1_ (History)
 
 * A freestanding single unit with SVGA-CRT-Touchscreen hard mounted
     * Single sheets of MDF
-* Created in 2005 (and lated until 2019).
+* Created in 2005 (and lasted until 2019).
 * Freeform design
-    * I laid down next to the sheet of mdf and with a pen just scribbled the height of the joysticks and screen
+    * I laid down next to the sheet of MDF and with a pen just scribbled the height of the joysticks and screen
 * Pre-built [X-Arcade Dual Joystick](https://shop.xgaming.com/collections/arcade-joysticks/products/x-arcade-dual-joystick-usb-included)
 * [ELO 1945C 19" CRT Touchmonitor](https://www.elotouch.com/catalog/product/view/id/1036)
 * Painted with gloss and roller (looked awefull)
@@ -94,33 +94,37 @@ Components
 ----------
 
 * Emulated system
-    * Low spec PC
+    * Low spec PC (chosen solution)
         * 2.xGhz, 4GB RAM, 1TB Storage
         * Low Profile ATX Case (1u rack?)
-        * Radeon HD 5450 - Modifiable for driving 15khz CRT display
+        * [ATI Radeon HD 5450](https://www.ebay.co.uk/sch/i.html?_nkw=Radeon+HD+5450) - Modifiable for driving 15khz CRT display
             * [A guide to connecting your Windows PC to an SD CRT TV, PVM or Arcade Monitor](https://www.aussiearcade.com/forum/arcade/m-a-m-e-emulation-projects-and-discussion/89704-a-guide-to-connecting-your-windows-pc-to-an-sd-crt-tv-pvm-or-arcade-monitor?viewfull=1)
         * [GroovyArcade live-CD](http://forum.arcadecontrols.com/index.php?board=52.0)
-            * Mame ROMs, CHD's and MediaMedia
-    * Raspberry Pi
+            * Arch linux with hacked Radeon drivers for CGA CRT output
+    * Raspberry Pi (possible alternate solution)
         * [pi2scart and pi2jamma](http://pi2jamma.info/)
             * from [ArcadeForge](http://arcadeforge.net/Pi2Jamma-Pi2SCART/PI2SCART::264.html)
+    * All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
+        * [Game Elf](https://www.google.com/search?q=game+elf+JAMMA)
+        * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
 * Input - 4 player controls
     * Options
-        * Custom
+        * Custom (chosen solution)
             * 12mm Ply (610mm x 1220mm)
             * 3 cuts with circular saw
                 * Circular Saw (with ability to set rough angle)
                 * 30mm Flat Bit Wood Drill
-        * Pre-cut
+        * Pre-cut (possible alternate solution)
             * [Bitcade - 4 Player Control Panel Kit](https://bitcade.co.uk/products/bitcade-4-player-control-panel-kit?variant=6546959761435)
-    * Components from [Arcade World UK](https://www.arcadeworlduk.com/)
+                * There are no games that I know that you 6 buttons for players 3 and 4
+    * Control Components (from [Arcade World UK](https://www.arcadeworlduk.com/))
         * Joysticks
         * Arcade Buttons (SuzuHapp Ultimate)
-        * TrackBall + Metal Surface Plate
+        * SuzuHapp 3inc TrackBall + Metal Surface Plate
         * SpinTrak Rotary Control
             * Flyweight
             * Spinner Tops
-        * Insulated Crimped Wire
+        * Pre Crimped Insulated Wire
         * Daisy Chain Harness Wires (for ground)
     * Control Interfaces by [Ultramarc](https://www.ultimarc.com/) (Available form arcadeworlduk.com)
         * [J-Pac](https://www.ultimarc.com/control-interfaces/j-pac-en/)
@@ -139,15 +143,15 @@ Components
 * Output
     * PAL CRT TV SCART 4:3 (20inc+)
     * Speakers and amp
-* JAMMA interface
+* JAMMA Interface for PAL SCART TV
     * [RetroElectronik Supergun ProGamer Arcade Jamma](https://www.r2tronik.com/en/supergun/145-supergun-progamer-arcade-jamma-autofirevoltmeter-included-0715235390870.html)
         * [Retroelectronik Supergun Pro GamerUser Manual](http://www.r2tronik.com/soft/progamer_en.pdf)
-    * ATX power supply
+    * ATX power supply (Required to power arcade board)
     * L Type Mounting Plastic PCB Feet with Screw for Arcade JAMMA
 
 
-Making of MarkII
-----------------
+Making of Mark2
+---------------
 
 ![1](./IMG_20200119_190404.jpg)
 ![2](./IMG_20200212_204931.jpg)
@@ -155,7 +159,10 @@ Making of MarkII
 ![4](./IMG_20190921_114102.jpg)
 ![5](./IMG_20200425_151958.jpg)
 ![6](./IMG_20200425_152023.jpg)
-
+![7](./IMG_20200502_232922.jpg)
+![9](./IMG_20200502_233030.jpg)
+![10](./IMG_20200502_233213.jpg)
+![8](./IMG_20200502_232941.jpg)
 
 Required Tools
 --------------
@@ -173,7 +180,7 @@ Required Tools
 Spinners
 --------
 
-* Each spinner is an axis
+* Each spinner is a mouse axis
 * 2 Mice
     * Mouse 1: X-Axis = Player1
     * Mouse 1: Y-Axis = Player2
