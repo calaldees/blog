@@ -1,11 +1,10 @@
 Arcade Cabinet
 ==============
 
-History (The _MarkI_)
+The _Mark1_ (History)
 ---------------------
 
-The _MarkI_
-* Freestanding single unit with SVGA-CRT-Touchscreen hard mounted
+* A freestanding single unit with SVGA-CRT-Touchscreen hard mounted
     * Single sheets of MDF
 * Created in 2005 (and lated until 2019).
 * Freeform design
@@ -15,7 +14,34 @@ The _MarkI_
 * Painted with gloss and roller (looked awefull)
 * Cut in half in 2011 to assist with mobility
 
-### 2005
+![7](./IMG_9334.jpg)
+
+### Use
+
+* Took to school as a teaching aid
+    * Students put in their own linux machine built themselves and touchscreen=mouse joysticks=keyboard
+* Tour of friends houses
+    * Too big for some of my rented accommodation; so friends borrowed it for some years at a time and passed it round
+
+### Problems with Mark1
+
+* Difficult to move
+* Just emulation via a PC (scaled high res display). Not overly authentic.
+* Played every permutation of 2 player joystick-based 6 button game
+
+### The Death of Mark1
+
+Eventually the capacitors in the ELO CRT screen started to degrade and it could not hold a solid image. I attempted to repair it but the components were not user serviceable. I should have found a specialist to repair it. It was a great rare screen. I regret not servicing it.
+
+### Conclusion
+
+The _Mark1_ was always a prototype; There was always the plan to build (what I called in hush tones) _The UltiCab_
+
+Proof of concept: Would an arcade cabinet be used? The answer was YES! YES! and YES!
+
+### Photos
+
+#### 2005: The making of
 ![1](./DVC00006.JPG)
 ![1](./DVC00009.JPG)
 ![1](./DVC00002.JPG)
@@ -25,14 +51,13 @@ The _MarkI_
 ![1](./DVC00030.JPG)
 ![1](./DSCF0003.JPG)
 
-### 2019
+#### 2019: The dismantling
 ![1](./IMG_9237.jpg)
 ![2](./IMG_9249.jpg)
 ![3](./IMG_9252.jpg)
 ![4](./IMG_9293.jpg)
 ![5](./IMG_9295.jpg)
 ![6](./IMG_9304.jpg)
-![7](./IMG_9334.jpg)
 ![8](./IMG_9344.jpg)
 ![9](./IMG_9351.jpg)
 ![10](./IMG_9366.jpg)
@@ -46,35 +71,17 @@ The _MarkI_
 ![18](./IMG_9377.jpg)
 ![19](./IMG_9379.jpg)
 
-### Use
 
-* Took to school as a teaching aid
-    * Put in linux machine built themselves and touchscreen=mouse joysticks=keyboard
-* Tour of friends houses
-    * It was huge; friends borrowed it for a year a time and passed it round.
-
-### Problems
-
-* Difficult to move
-* Played every permutation of 2 player joystick-based 6 button game
-* Just emulation via a PC
-
-The was always a prototype; There was always the plan to build (what I termed) _The UltiCab_
-The test was: Would an arcade cab be used? The answer was YES! YES! and YES!
-
-### The Death
-
-Eventually the capacitors in the ELO CRT screen started to degrade and it could not hold a solid image. I attempted to repair it but the components were not user serviceable. I should have found a specialist to repair it. It was a great rare screen. I regret not servicing it.
-
-
-Concept (for _The MarkII_)
---------------------------
+_The Mark2_ (Concept)
+---------------------
 
 * Real 15khz CRT screen
 * Use real JAMMA Boards or Emulation
-* Use of emulated machine to drive 15khz and JAMMA controls
+    * Use of emulated machine to drive 15khz and JAMMA controls
 * 4 players
+    * 3 players+ == more social
 * Spinners + Trackball
+    * Interesting control methods that can't be emulated with a common joypad
 * Modular design; To facilitate
     * Moving
     * Slimming down (if 4 players too big)
