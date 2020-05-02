@@ -14,10 +14,10 @@ Problem
 -------
 
 People fear enforcing auto-formatters/linters on existing codebase's because:
-* Noise (If applied to incrementally touched files for a feature)
+* Noise (If linting is applied to comited files incrementally for a feature)
     * A new feature is contaminated by layout modifications that obscure the intended logic
 * Damage/loss to valuable code history (If applied to the whole repo)
-    * Every line that is changed is obscures the history. This original history/comments/intent are berried
+    * Every line that is formatted obscures the original history. The original history/comments/intent are berried
 
 Solution
 --------
@@ -119,8 +119,8 @@ PyLint can be configured to give warnings on more complex flows (much like MsWor
 Black could be used in conjunction with tools like PyLint
 
 PyLint could enforce things like
-    * Enforcing if variable names are well-formed according to your coding standard
-    * Enforcing depreciated modules use/import are treated as an error
+* Enforce if variable names are well-formed according to your coding standard
+* Enforce depreciated modules use/import are treated as an error
 
 They are parallel technologies that are implemented in similar ways.
 Both would use similar setup methods:

@@ -132,3 +132,19 @@ Keep documentation in the repo
 
 Update on merge to master
 https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+
+
+
+---
+
+Teams are like mini starups
+long term goal
+cross disaplin cross functional
+autonomus
+
+if you have a consultant == you dont know what you are doing
+
+> Stop trying to borrow wisdom and think for yourself. Face your difficulties and think and think and think and solve your problems yourself. Suffering and difficulties provide opportunities to become better. Success is never giving up.
+[Taiichi Ohno](https://en.wikipedia.org/wiki/Taiichi_Ohno)
+
+Ask ballzy question in interview - first 30min = my time!

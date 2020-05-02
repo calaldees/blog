@@ -63,7 +63,19 @@ A possible model:
     * Hack time!
         * An efficient use of (sometimes, a less productive) time
 
-If Hack Time is placed within normal sprint time, there is a tendency to use Hack Time for completing sprint tickets. Placing Hack Time in-between sprints could alleviate this.
+### Caution
+
+* If Hack Time is placed within normal sprint time, there is a tendency to use Hack Time for completing sprint tickets. Placing Hack Time in-between sprints could alleviate this.
+* It is often tempting for developers to keep focused on the flow of their business work. This should be discouraged:
+    * These developers interupt hack time by requesting code-reviews etc from the others
+    * This can reach a tipping point where a team does not engage with hacktime and becomes the norm
+TODO: REWORD BELOW
+* Requires
+    * team buy-in
+    * business buy-in
+        * can show it values hacktime by turning up to demos and questioning/identifying sprint work in hacktime
+* business/team can ask for hacktime plans as part of standup
+
 
 Examples of previous 'Hack Time' projects
 -----------------------------------------

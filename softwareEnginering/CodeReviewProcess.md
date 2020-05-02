@@ -47,7 +47,8 @@ Two (or more) developers should discuss the technical approach to the ticket
     * Likely files to be edited?
     * Any possible overlap with any other tickets in this sprint? (should have been covered at sprint planning, prelim with developers on overlap)
     * Expected algorithm or query structure?
-    * List the titles of tests that would need to be created?
+    * How will we test it? (facilitate a developer-in-test? handoffs to separate testers later ==bad)
+        * List the titles of tests that would need to be created?
 * These should be recorded (maybe ticket comments?)
 
 ### Interim Code Review (Fast Feedback)
