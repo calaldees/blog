@@ -26,6 +26,9 @@ The _Mark1_ (History)
 ### Problems with Mark1
 
 * Difficult to move
+    * Would barely fit in a car
+    * Needed 3 people to move it
+    * Top heavy (screen), accident prone
 * Just emulation via a PC (scaled high res display). Not overly authentic.
 * Played every permutation of 2 player joystick-based 6 button game
 
@@ -81,13 +84,16 @@ _The Mark2_ (Concept)
 * 4 players
     * 3 players+ == more social
 * Spinners + Trackball
-    * Interesting control methods that can't be emulated with a common joypad
+    * Interesting control methods that can't be reproduced with a common joypad
 * Modular design; To facilitate
-    * Moving
-    * Slimming down (if 4 players too big)
+    * Move with a normal car
+    * Slimming down to 2 players (if 4 players too big for the next house)
     * Have individual components repaired or replaced
         * If the screen dies again or a controller gets damaged
 * Simple as possible to build and setup
+    * Avoid specialist high value components (screen)
+    * No soldering
+    * Only basic tools required
 
 
 Components
@@ -109,14 +115,18 @@ Components
         * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
 * Input - 4 player controls
     * Options
-        * Custom (chosen solution)
-            * 12mm Ply (610mm x 1220mm)
+        * Simple Custom Modular Plywood Controls (chosen solution)
+            * One sheet of 12mm Ply (610mm x 1220mm)
+            * Tools
+                * Circular Saw (with ability to set rough angle of 12deg?)
+                * 30mm Flat Bit Wood Drill (for buttons and joystick holes)
             * 3 cuts with circular saw
-                * Circular Saw (with ability to set rough angle)
-                * 30mm Flat Bit Wood Drill
+                * 8cm |(12deg)| 5cm |(90deg)| 23cm
+            * Separate interchangeable joystick/trackball controls
+                * Each controller is an independent Neo-Geo pad (DB15 connector)
+                * Can be bolted/screwed together to be reconfigured
         * Pre-cut (possible alternate solution)
             * [Bitcade - 4 Player Control Panel Kit](https://bitcade.co.uk/products/bitcade-4-player-control-panel-kit?variant=6546959761435)
-                * There are no games that I know that you 6 buttons for players 3 and 4
     * Control Components (from [Arcade World UK](https://www.arcadeworlduk.com/))
         * Joysticks
         * Arcade Buttons (SuzuHapp Ultimate)
@@ -142,12 +152,29 @@ Components
         * DB15 Extender (1m)
 * Output
     * PAL CRT TV SCART 4:3 (20inc+)
+        * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
+        * Real arcade screens are expensive, difficult to maintain, difficult to setup
+            * Tube is separate from electronics and requires a separate harness/frame
+        * The same technology is in a PAL TV; pre packaged, cheaper, more readily available
     * Speakers and amp
 * JAMMA Interface for PAL SCART TV
     * [RetroElectronik Supergun ProGamer Arcade Jamma](https://www.r2tronik.com/en/supergun/145-supergun-progamer-arcade-jamma-autofirevoltmeter-included-0715235390870.html)
         * [Retroelectronik Supergun Pro GamerUser Manual](http://www.r2tronik.com/soft/progamer_en.pdf)
     * ATX power supply (Required to power arcade board)
     * L Type Mounting Plastic PCB Feet with Screw for Arcade JAMMA
+* Cabinet
+    * Base (Normal Table or Dresser)
+        * Controls + Screen can be placed on a normal table or waist-high dresser/draws
+        * The heavier/stable the base the better (4 people pushing and pulling will make it jostle)
+    * Custom Simple Screen Stand (to fit over electronics)
+        * One sheet of 12mm Ply (610mm x 1220mm)
+            * Base is 2u (minimum)
+                * 40cm deep
+                * 44cm wide
+                * 18cm heigh (1u==9cm)
+            * TODO: Diagram of cuts + angle
+        * Shelf to angle the screen - put custom wood brace at back for your TV footprint
+    * Recommend fixing controls and screen to base (screws? duel-lock?)
 
 
 Making of Mark2
