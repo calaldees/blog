@@ -79,26 +79,46 @@ _The Mark2_ (Concept)
 ---------------------
 
 * Real 15khz CRT screen
-* Use real JAMMA Boards or Emulation
-    * Use of emulated machine to drive 15khz and JAMMA controls
-* 4 players
-    * 3 players+ == more social
+    * Authentic experience
+        * [Gaming on CRT Televisions, PVMs and BVMs :: RGB104 / MY LIFE IN GAMING](https://youtu.be/RAi8AVj9GV8)
+* [JAMMA Edge Connector](https://en.wikipedia.org/wiki/Japan_Amusement_Machine_and_Marketing_Association#Connector_standards)
+    > The JAMMA standard uses a 56-pin edge connector on the board with inputs and outputs common to most video games. These include power inputs (5 volts for the game and 12 volts for sound); inputs for two joysticks, each with three action buttons and one start button; analog RGB video output with negative composite sync; single-speaker sound output; and inputs for coin, service, test, and tilt.
+    * Facilitate
+        * the use real JAMMA Arcade Boards
+        * or an Emulated machine
+* 4 Players
+    * more players == more social
 * Spinners + Trackball
-    * Interesting control methods that can't be reproduced with a common joypad
+    * Interesting control methods that can't be reproduced with a common joypads
 * Modular design; To facilitate
     * Move with a normal car
     * Slimming down to 2 players (if 4 players too big for the next house)
     * Have individual components repaired or replaced
         * If the screen dies again or a controller gets damaged
-* Simple as possible to build and setup
-    * Avoid specialist high value components (screen)
-    * No soldering
+    * Screen could easily be rotated for vertical 3:4 games
+    * Quick to dismantle if needed (15min?)
+* Simple as possible to build
+    * Avoid specialist rare high value components (screen)
+    * No soldering or electronics knowledge
+    * No advanced software skills
     * Only basic tools required
+        * just a saw, drill and screws
+* Cheap (£100's not £1000's)
+    * Normal Plywood
+    * Normal CRT TV
+    * Normal Furniture (base)
+    * Normal Tools
 
 
 Components
 ----------
 
+* Real JAMMA Boards (Optional)
+    * eBay [Coin Operated Arcade Games Cartridges](https://www.ebay.co.uk/b/Coin-Operated-Arcade-Games-Cartridges/171921/bn_16567451)
+    * Cheap entrylevel
+        * eBay [neo geo mvs 1 slot](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=neo+geo+mvs+1+slot&_sacat=171921&LH_TitleDesc=0&_osacat=171921&_odkw=neo+geo+mvs)
+        * Multi-game cartridge (like a pre loaded flash cartridge with 160+ neo-geo games)
+    * No latency from emulation
 * Emulated system
     * Low spec PC (chosen solution)
         * 2.xGhz, 4GB RAM, 1TB Storage
@@ -137,14 +157,13 @@ Components
         * Pre Crimped Insulated Wire
         * Daisy Chain Harness Wires (for ground)
     * Control Interfaces by [Ultramarc](https://www.ultimarc.com/) (Available form arcadeworlduk.com)
-        * [J-Pac](https://www.ultimarc.com/control-interfaces/j-pac-en/)
-            * Interface a PC as a JAMMA arcade board
-            * Two joystick inputs (USB Keyboard)
+        * [J-Pac](https://www.ultimarc.com/control-interfaces/j-pac-en/) Interface a PC as a JAMMA arcade board
+            * Two joystick inputs (as USB Keyboard)
             * VGA output
-        * [Opti-Pac](https://www.ultimarc.com/control-interfaces/opti-pac/)
-            * USB Optical interface (for trackball and spinners)
-        * [I-Pac-2](https://www.ultimarc.com/control-interfaces/i-pacs/i-pac2/)
-            * Two joystick inputs (USB Keyboard)
+        * [Opti-Pac](https://www.ultimarc.com/control-interfaces/opti-pac/) Optical encoder
+            * Trackball and Spinners (as USB Mouse)
+        * [I-Pac-2](https://www.ultimarc.com/control-interfaces/i-pacs/i-pac2/) Keyboard encoder
+            * Two joystick inputs (as USB Keyboard)
                 * For players 3 and 4
                 * Also has 2 spinner inputs if needed
     * Cables (eBay)
@@ -156,11 +175,13 @@ Components
         * Real arcade screens are expensive, difficult to maintain, difficult to setup
             * Tube is separate from electronics and requires a separate harness/frame
         * The same technology is in a PAL TV; pre packaged, cheaper, more readily available
+        * PAL TV's can be driven at 60hz with RGB+Sync. NTSC TV's (america) have a harder time with this
     * Speakers and amp
-* JAMMA Interface for PAL SCART TV
+        * Normal TV's have poor builtin audio
+* JAMMA Interface (for PAL SCART TV + Controls + Power)
     * [RetroElectronik Supergun ProGamer Arcade Jamma](https://www.r2tronik.com/en/supergun/145-supergun-progamer-arcade-jamma-autofirevoltmeter-included-0715235390870.html)
         * [Retroelectronik Supergun Pro GamerUser Manual](http://www.r2tronik.com/soft/progamer_en.pdf)
-    * ATX power supply (Required to power arcade board)
+    * ATX power supply (Required to power JAMMA arcade board)
     * L Type Mounting Plastic PCB Feet with Screw for Arcade JAMMA
 * Cabinet
     * Base (Normal Table or Dresser)
