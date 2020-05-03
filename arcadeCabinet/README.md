@@ -134,14 +134,14 @@ Components
         * [Game Elf](https://www.google.com/search?q=game+elf+JAMMA)
         * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
 * Input - 4 player controls
-    * Options
+    * Housing
         * Simple Custom Modular Plywood Controls (chosen solution)
             * One sheet of 12mm Ply (610mm x 1220mm)
             * Tools
-                * Circular Saw (with ability to set rough angle of 12deg?)
+                * Circular Saw (with ability to set rough angle of 10deg?)
                 * 30mm Flat Bit Wood Drill (for buttons and joystick holes)
-            * 3 cuts with circular saw
-                * 8cm |(12deg)| 5cm |(90deg)| 23cm
+            * 3 cuts with circular saw (create a wood jig to cut straight along the 1220mm edge)
+                * 8cm |(10deg)| 5cm | 23cm
             * Separate interchangeable joystick/trackball controls
                 * Each controller is an independent Neo-Geo pad (DB15 connector)
                 * Can be bolted/screwed together to be reconfigured
@@ -166,9 +166,11 @@ Components
             * Two joystick inputs (as USB Keyboard)
                 * For players 3 and 4
                 * Also has 2 spinner inputs if needed
-    * Cables (eBay)
-        * DB15 Solderless (for neo-geo pad output)
+    * Cables
+        * DB15 Solderless - Female (for neo-geo pad output)
         * DB15 Extender (1m)
+        * [4pin LED Extender](https://www.amazon.co.uk/Liwinting-Extension-Connect-Female-Connector-2pcs-4pin-1m/dp/B078HG1BV6/) (1m) - For spinners
+        * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
 * Output
     * PAL CRT TV SCART 4:3 (20inc+)
         * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
@@ -211,6 +213,7 @@ Making of Mark2
 ![9](./IMG_20200502_233030.jpg)
 ![10](./IMG_20200502_233213.jpg)
 ![8](./IMG_20200502_232941.jpg)
+![11](./IMG_20200503_154458.jpg)
 
 Required Tools
 --------------
