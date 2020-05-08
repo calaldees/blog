@@ -129,3 +129,4 @@ Problems with 'Hack Time'
 Further Reading
 ---------------
 * [Learning at work, is work](https://sloanreview.mit.edu/article/learning-for-a-living/)
+* [My Love And Hate Relationship With Hackathons](https://www.devsurvival.com/my-love-and-hate-relationship-with-hackathons/) - Reasonable summary of hack days

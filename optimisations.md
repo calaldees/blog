@@ -149,3 +149,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * The world _will_ change in your working lifetime because the world is constantly changing
     * Understand the concept of _Compound Interest_ (in all aspects of life not just financially)
     * No human is independent
+    * > Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.
+        * Mark Twain
+        * [PEOPLE OVER 40](https://twitter.com/Thayer/status/1256664757215600640)
+        * > Get busy living or get busy dying
+            * Steven King (Sawshank redemption)
