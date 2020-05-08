@@ -214,6 +214,9 @@ Making of Mark2
 ![10](./IMG_20200502_233213.jpg)
 ![8](./IMG_20200502_232941.jpg)
 ![11](./IMG_20200503_154458.jpg)
+![12](./IMG_20200508_142053.jpg)
+![13](./IMG_20200508_142317.jpg)
+
 
 Required Tools
 --------------
@@ -245,3 +248,8 @@ Very few
 spinnerShooter
 * OS's only allow access to single mouse pointer
 
+
+Other references
+----------------
+
+* [arcadecontrols.com](http://www.arcadecontrols.com) community of arcade cabinet builders
