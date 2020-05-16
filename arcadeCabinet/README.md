@@ -169,8 +169,6 @@ Components
     * Cables
         * DB15 Solderless - Female (for neo-geo pad output)
         * DB15 Extender (1m)
-        * [4pin LED Extender](https://www.amazon.co.uk/Liwinting-Extension-Connect-Female-Connector-2pcs-4pin-1m/dp/B078HG1BV6/) (1m) - For spinners
-        * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
 * Output
     * PAL CRT TV SCART 4:3 (20inc+)
         * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
@@ -181,7 +179,7 @@ Components
     * Speakers and amp
         * Normal TV's have poor builtin audio
 * JAMMA Interface (for PAL SCART TV + Controls + Power)
-    * [RetroElectronik Supergun ProGamer Arcade Jamma](https://www.r2tronik.com/en/supergun/145-supergun-progamer-arcade-jamma-autofirevoltmeter-included-0715235390870.html)
+    * [RetroElectronik Supergun ProGamer Arcade JAMMA](https://www.r2tronik.com/en/supergun/145-supergun-progamer-arcade-jamma-autofirevoltmeter-included-0715235390870.html)
         * [Retroelectronik Supergun Pro GamerUser Manual](http://www.r2tronik.com/soft/progamer_en.pdf)
     * ATX power supply (Required to power JAMMA arcade board)
     * L Type Mounting Plastic PCB Feet with Screw for Arcade JAMMA
@@ -191,13 +189,14 @@ Components
         * The heavier/stable the base the better (4 people pushing and pulling will make it jostle)
     * Custom Simple Screen Stand (to fit over electronics)
         * One sheet of 12mm Ply (610mm x 1220mm)
-            * Base is 2u (minimum)
-                * 40cm deep
-                * 44cm wide
-                * 18cm heigh (1u==9cm)
             * TODO: Diagram of cuts + angle
+            * 39cm
+            * 11cm
         * Shelf to angle the screen - put custom wood brace at back for your TV footprint
+            * 80cm wide shelf
+        * Arms for mounting controls
     * Recommend fixing controls and screen to base (screws? duel-lock?)
+        * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
 
 
 Making of Mark2
@@ -217,6 +216,7 @@ Making of Mark2
 ![12](./IMG_20200508_142053.jpg)
 ![13](./IMG_20200508_142317.jpg)
 ![14](./IMG_20200509_200220.jpg)
+![15](./IMG_20200510_142519.jpg)
 
 Required Tools
 --------------
