@@ -191,3 +191,21 @@ From 'cooking from scratch'
     * 250ml water
     * Worstoshire sauce
 * 3 potatoes (mash)
+
+
+Mikes 'Rat'
+-----------
+
+Onion diced
+Black pepper
+Fry olive oil
+1 stick celery
+Diced aubergine
+2 tsp lazy garlic
+2 tsp itallian herb
+Tin tomatoes
+Courgette
+Mushrooms
+Could add stock?
+1/4 fine ged and gree pepper (optional)
+Simmer for 30min

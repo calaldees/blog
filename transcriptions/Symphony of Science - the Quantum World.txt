@@ -1,0 +1,126 @@
+Symphony of Science - Quantum World
+
+[Morgan Freeman] ---------------------------------------------------------------------------------
+(0:08)
+
+B: E5   E5   F#5  F#5  C#5D#5G#5    B C#5'D#5'G#5   F#'
+                             So, what are we really made of?
+
+B: E                                        F#                  G#m
+T: G#m                                      F#                  G#m
+V: D#  D#   B B    G#  B C#     B      G#   B    C# C#  C#      D#   D#D#D#   C# C#C#  D#  B  G#
+   Dig deep inside the atom and you'll find tiny particles      Held together by invisible forces
+
+(0:16)
+B: E                        F#                     G#m                           
+T:                                                 G#m1              G# A# B C# D#
+   Everything is made up of tiny packets of energy born in cosmic furnaces
+
+[Frank Close] (0:24) ----------------------------------------------------------------------------------
+B: E                                                               F#
+T: B or G#m7                                                       B2
+V: 
+   The atoms that we're made of have negatively charged electrons, whirling around a big bulky nucleus
+
+<refrain>
+[Michio Kaku] (0:31) ---------------------------------------------------------------------------------
+B:             E                                          F#                      
+T:             E             D#msus4                      F#                     D# F#
+V: F#  B   A#  G#  F# D#     F#G#F# G#   F#   D#F#G# F#   C# D#  C#
+   The Quantum Theory offers a very different explanation of our world
+
+[Brian Cox] (0:38) -----------------------------------------------------------------------------------
+B:                          E                           F#
+T:                          G#m2                        F#2                     G#m1
+L:                                                                              F#     G#B  G# G#  F# G# G# D#     F# G#  
+V: 
+   The universe is made of, twelve particles of matter, four forces of nature
+   The universe is made of, twelve particles of matter, four forces of nature,  That's a wonderful and significant story
+
+L: G#m widdle down 2 octaves
+</refrain>
+
+                                               
+
+[Richard Feynman] (0:57.5) --------------------------------------------------------------------------
+B:    E5 E5     F# F#         G#m
+T:    G#m1      D#msus4       G#m2      
+L:                            F#                            A#  B  C#  D#
+V: G# B    G#   F# G#  G#     G# G#   B G# A# F#    D# F#   G#A#F#   G#
+   Suppose that little things behaved very differently than anything big
+
+(1:06)
+B: E  E              F#                         G#
+L:                                              G#                    A#   B    C#    D#
+V:         B G#      F# G#  D# F# G#    G#   A# B ?->
+           Nothing's really as it seems it's so wonderfully different than anything big
+
+
+(1:13)
+(arpegiated choards)
+B:     G#m                                  F#
+T:     G#m2->B
+V:     D#    C# B C#  D#  B     D# D#C# B
+   The world is a dynamic mess, of jiggling things             it's hard to believe
+
+[Michio Kaku] -------------------------------------------------------------------------------------
+B:             E                                     F#
+T:             E2                                    F#1            
+V: G#  B   A#               B       G#  F# G#   A#B  A#  F#   D#  C#
+   The quantum theory is so strange and bizzare even Einstein couldn't get his head around it
+
+[Brian Cox] (1:29) ----------------------------------------------------------------------------------
+
+B:        G#m                                   F#
+T:        G#m1                                  C#sus4
+V: G# A#  B   A#  D#     D#  D#    F# G# F# D#  G#F#    C# G# F#    G#   A# B
+   In the quantum world, the world of particles nothing is certain, it's a world of probabilities
+
+
+(refrain 1:36.5)
+
+
+[Richard Feynman] (2:01) -------------------------------------------------------------------------------
+
+(instrimental bridge)
+B: G#       B         E        F#
+T: (BD#)*3 (Bd#)*3   (G#E)*3  (A#C#)*3 
+L:                       F# G# B   G#G#    F#G#        D#   F#   G#
+
+(2:09)
+B: same as instrimental bridge
+T: same as instrimental bridge with differnt end at F#
+T: alternate When fingering vocals keep near the patern of B
+S:                                                                              D#+>G#  F#  B
+V: D#   F#G# D#   C# BC#D#    
+   It's very hard to imagine, all the crazy things that things really are like
+
+(2:17)
+B: G#                                B                   E                           F#
+V: D#  B     B   G#   G#     G#'D#   D#    B B  G#  B    C#  D#   F# D#C#    F# G#   F#    D#C#B
+   Electrons act like waves, No they don't exactly, They act like particles, No they don't exactly
+
+[Stephen Hawking] (2:24.5) ------------------------------------------------------------------------------
+S:    D#                                                            B  G#  B  C#  F# B
+B:    G#                              B                                      E                            F#
+T:    G#m                             G#m                                    C#m2                         F#
+V:    D#   D#D#  D# B  C# D#D#    (   D#   D#D#  D# B  C# D#D#   )           C#    C#   B C#   D#  C#    (C#    C#   B C#   D#  C#   )
+   We need a theory of everything (We need a theory of everything), Which is still just beyond our grasp (still just beyond our grasp)
+
+B:    G#                                        E             F#                           G#
+T:    G#m                                       E2            F#7
+L:                                                                                         (run down G# 3 octaves)
+V:                                 B  C#    D#  E D#C#
+   We need a theory of everything, perhaps, The ultimate, The ultimate triump of science
+
+(instrumental bridge 2 2:44.8)
+
+B: E                     F#                          G#
+T: G#m
+L: C# D# G#    B C# G#   F#     ?-> B   G#   F#                G#- B A#  G#          G#'
+
+(refrain)
+
+[Feynman]
+I gotta stop somewhere
+I'll leave you something to imagine

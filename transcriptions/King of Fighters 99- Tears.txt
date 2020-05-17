@@ -1,0 +1,31 @@
+' denotes higher octave
+
+Acoustic:  A
+
+A: E B' E D' G F# F#' G F# G' G F#
+K: E                        B 
+L: B    A B A     G    F# F# G     B C B
+
+K: G D A B A G B G
+
+
+
+
+
+E----GEGEGA
+
+A: A -> B -> C -> D (all sus2?)
+
+C*3 B*3 E*3 D*3
+
+C D E D
+
+
+
+-
+-
+-
+-
+
+3:10 Bass
+C G C   B G B   G F# E E' B D  A B

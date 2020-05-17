@@ -1,0 +1,5 @@
+B: E5 G5 A5
+T: (D' E B) *2 E'
+
+B: F  C#  D# A#'
+T: ((F D# C)*2 G#)*2   (F D# C)*2 F G G# G    ((F D# C)*2 G#)*2    (F D# C)*2  G G# A# C D#

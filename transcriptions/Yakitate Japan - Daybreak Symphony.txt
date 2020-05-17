@@ -1,0 +1,51 @@
+Yakitate!! Japan
+Daybreak Symphony
+OST Track 4
+
+0.5 to 12.5
+Bass
+(E * 2) * 8
+
+12.5 to 24
+
+Trumpet
+B E G#  _  B e G# E G# _ _ A E A _ A E A * 1
+
+Synth
+B _ _ _ _ B C# D _ _ _ _ D _ C# _ B _ * 2
+
+24 to 25
+Drum Fill
+
+25 
+Synth
+
+B _ _ _ B C# D _ _ _ _C# _ B _ A _ B _
+
+
+Synth 36.5 43.5
+B    E    E F#    G     a  A
+
+
+
+
+Bass
+E _ _ _ _ _ _ _ _ G _ _ G _ F# F# _ _ E _ _ D _ _ E _ _ _ _
+
+
+
+
+49 to 
+Deep Strings
+E _ E _ D E _ E _ _ (D E) * 4  G F#
+E5 same
+
+Bass Chords
+E E D D E E G A
+
+
+
+Solo Widdle Bass Set
+
+E G A A
+E D F?F?
