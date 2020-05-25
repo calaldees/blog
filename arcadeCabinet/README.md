@@ -230,6 +230,48 @@ Required Tools
     * Various drill bit sizes
 * Cable ties, Screws, Nuts+Wingnuts (for joystick mounts)
 
+Wired
+-----
+
+Physical
+1 3 5
+2 4 6
+
+Software remap to
+1 2 3
+4 5 6
+
+Physical neo-geo layout
+
+### JPAC
+
+Just wite kick harness 5 + 6
+
+### IPAC-2
+
+[MacIPAC](https://evolutioninteractive.com/macipac/macipac.html) Programming tool for Ultimarc’s I-PACs
+
+MAME defaults for Player3/Player4 + extra button 4
+
+![1](./MacIPAC_1.png)
+![2](./MacIPAC_2.png)
+
+
+Software
+--------
+
+### MAME Controller Mapping
+
+[allan4p.cfg](./allan4p.cfg.xml)
+
+* http://forum.arcadecontrols.com/index.php?topic=51443.0
+* https://www.arcadeworlduk.com/pages/JPAC-Information.html
+* http://mirrors.arcadecontrols.com/easyemu/mameguidenew/mameguide-controlini.htm
+* https://docs.mamedev.org/usingmame/defaultkeys.html
+* https://docs.mamedev.org/advanced/devicemap.html
+* http://www.arcadeguns.com/download/MameUtility.pdf
+
+
 
 Spinners
 --------
@@ -253,3 +295,8 @@ Other references
 ----------------
 
 * [arcadecontrols.com](http://www.arcadecontrols.com) community of arcade cabinet builders
+
+Audio?
+https://www.arcadeworlduk.com/pages/JPAC-FAQ.html
+http://forum.arcadecontrols.com/index.php/topic,39106.0.html
+https://www.amazon.com/PM2038-2X5W-Stereo-Audio-Amplifier/dp/B01NABJTDJ

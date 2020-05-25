@@ -1,0 +1,295 @@
+<mameconfig version="10">
+	<system name="default">
+
+		<!--
+			Allan4p input configuration file
+		-->
+
+		<input>
+
+			<port type="UI_UP">
+				<newseq type="standard">KEYCODE_UP</newseq>
+			</port>
+			<port type="UI_DOWN">
+				<newseq type="standard">KEYCODE_DOWN</newseq>
+			</port>
+			<port type="UI_LEFT">
+				<newseq type="standard">KEYCODE_LEFT</newseq>
+			</port>
+			<port type="UI_RIGHT">
+				<newseq type="standard">KEYCODE_RIGHT</newseq>
+			</port>
+			<port type="UI_SELECT">
+				<newseq type="standard">KEYCODE_ENTER OR KEYCODE_LCONTROL</newseq>
+			</port>
+			<port type="UI_CONFIGURE">
+				<newseq type="standard">KEYCODE_TAB</newseq>
+			</port>
+			<port type="UI_CANCEL">
+				<newseq type="standard">KEYCODE_ESC OR MOUSECODE_1_BUTTON3 OR KEYCODE_2 KEYCODE_3</newseq>
+			</port>
+
+
+			<!-- Players 1 and 2 via JPAC - https://www.arcadeworlduk.com/pages/JPAC-Information.html -->
+
+			<!-- Player 1 -->
+			<port type="START1">
+				<newseq type="standard">KEYCODE_1</newseq>
+			</port>
+			<port type="COIN1">
+				<newseq type="standard">KEYCODE_5</newseq>
+			</port>
+			<port type="P1_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_UP</newseq>
+			</port>
+			<port type="P1_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_DOWN</newseq>
+			</port>
+			<port type="P1_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_LEFT</newseq>
+			</port>
+			<port type="P1_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_RIGHT</newseq>
+			</port>
+
+			<port type="P1_BUTTON1">
+				<newseq type="standard">KEYCODE_LCONTROL OR MOUSECODE_1_BUTTON1</newseq>
+			</port>
+			<port type="P1_BUTTON2">
+				<newseq type="standard">KEYCODE_SPACE</newseq>
+			</port>
+			<port type="P1_BUTTON3">
+				<newseq type="standard">KEYCODE_Z</newseq>
+			</port>
+			<port type="P1_BUTTON4">
+				<newseq type="standard">KEYCODE_LALT</newseq>
+			</port>
+			<port type="P1_BUTTON5">
+				<newseq type="standard">KEYCODE_LSHIFT</newseq>
+			</port>
+			<port type="P1_BUTTON6">
+				<newseq type="standard">KEYCODE_X</newseq>
+			</port>
+
+			<!-- Player1 Two Stick -->
+			<port type="P1_JOYSTICKRIGHT_UP">
+				<newseq type="standard">KEYCODE_UP</newseq>
+			</port>
+			<port type="P1_JOYSTICKRIGHT_DOWN">
+				<newseq type="standard">KEYCODE_DOWN</newseq>
+			</port>
+			<port type="P1_JOYSTICKRIGHT_LEFT">
+				<newseq type="standard">KEYCODE_LEFT</newseq>
+			</port>
+			<port type="P1_JOYSTICKRIGHT_RIGHT">
+				<newseq type="standard">KEYCODE_RIGHT</newseq>
+			</port>
+			<!-- Player1 Two Stick - P3 Joystick for P1_left -->
+			<port type="P1_JOYSTICKLEFT_UP">
+				<newseq type="standard">KEYCODE_I</newseq>
+			</port>
+			<port type="P1_JOYSTICKLEFT_DOWN">
+				<newseq type="standard">KEYCODE_K</newseq>
+			</port>
+			<port type="P1_JOYSTICKLEFT_LEFT">
+				<newseq type="standard">KEYCODE_J</newseq>
+			</port>
+			<port type="P1_JOYSTICKLEFT_RIGHT">
+				<newseq type="standard">KEYCODE_L</newseq>
+			</port>
+
+			<port type="P1_DIAL">
+				<newseq type="standard">MOUSECODE_1_XAXIS</newseq>
+			</port>
+
+
+			<!-- Player 2 -->
+			<port type="START2">
+				<newseq type="standard">KEYCODE_2</newseq>
+			</port>
+			<port type="COIN2">
+				<newseq type="standard">KEYCODE_6</newseq>
+			</port>
+			<port type="P2_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_R</newseq>
+			</port>
+			<port type="P2_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_F</newseq>
+			</port>
+			<port type="P2_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_D</newseq>
+			</port>
+			<port type="P2_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_G</newseq>
+			</port>
+			<port type="P2_BUTTON1">
+				<newseq type="standard">KEYCODE_A</newseq>
+			</port>
+			<port type="P2_BUTTON2">
+				<newseq type="standard">KEYCODE_Q</newseq>
+			</port>
+			<port type="P2_BUTTON3">
+				<newseq type="standard">KEYCODE_I</newseq>
+			</port>
+			<port type="P2_BUTTON4">
+				<newseq type="standard">KEYCODE_S</newseq>
+			</port>
+			<port type="P2_BUTTON5">
+				<newseq type="standard">KEYCODE_W</newseq>
+			</port>
+			<port type="P2_BUTTON6">
+				<newseq type="standard">KEYCODE_K</newseq>
+			</port>
+
+			<!-- Player2 Two Stick - P4 Joystick for P2_right -->
+			<port type="P2_JOYSTICKRIGHT_UP">
+				<newseq type="standard">KEYCODE_8PAD</newseq>
+			</port>
+			<port type="P2_JOYSTICKRIGHT_DOWN">
+				<newseq type="standard">KEYCODE_2PAD</newseq>
+			</port>
+			<port type="P2_JOYSTICKRIGHT_LEFT">
+				<newseq type="standard">KEYCODE_4PAD</newseq>
+			</port>
+			<port type="P2_JOYSTICKRIGHT_RIGHT">
+				<newseq type="standard">KEYCODE_6PAD</newseq>
+			</port>
+			<!-- Player2 Two Stick - P3 Joystick for P1_left -->
+			<port type="P2_JOYSTICKLEFT_UP">
+				<newseq type="standard">KEYCODE_R</newseq>
+			</port>
+			<port type="P2_JOYSTICKLEFT_DOWN">
+				<newseq type="standard">KEYCODE_F</newseq>
+			</port>
+			<port type="P2_JOYSTICKLEFT_LEFT">
+				<newseq type="standard">KEYCODE_D</newseq>
+			</port>
+			<port type="P2_JOYSTICKLEFT_RIGHT">
+				<newseq type="standard">KEYCODE_G</newseq>
+			</port>
+
+			<port type="P2_DIAL">
+				<newseq type="standard">MOUSECODE_1_YAXIS</newseq>
+			</port>
+
+
+			<!-- Players 3 and 4 via IPAC-2 (reconfigured to default mame keys) -->
+
+			<!-- Player 3 -->
+			<port type="START3">
+				<newseq type="standard">KEYCODE_3</newseq>
+			</port>
+			<port type="COIN3">
+				<newseq type="standard">KEYCODE_7</newseq>
+			</port>
+			<port type="P3_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_I</newseq>
+			</port>
+			<port type="P3_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_K</newseq>
+			</port>
+			<port type="P3_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_J</newseq>
+			</port>
+			<port type="P3_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_L</newseq>
+			</port>
+			<port type="P3_BUTTON1">
+				<newseq type="standard">KEYCODE_RCONTROL</newseq>
+			</port>
+			<port type="P3_BUTTON2">
+				<newseq type="standard">KEYCODE_ENTER</newseq>
+			</port>
+			<port type="P3_BUTTON3">
+				<newseq type="standard">KEYCODE_RSHIFT</newseq>
+			</port>
+			<port type="P3_BUTTON4">
+				<newseq type="standard">KEYCODE_RALT</newseq>
+			</port>
+			<port type="P3_DIAL">
+				<newseq type="standard">MOUSECODE_2_XAXIS</newseq>
+			</port>
+
+
+			<!-- Player 4 -->
+			<port type="START4">
+				<newseq type="standard">KEYCODE_4</newseq>
+			</port>
+			<port type="COIN4">
+				<newseq type="standard">KEYCODE_8</newseq>
+			</port>
+			<port type="P4_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_8PAD</newseq>
+			</port>
+			<port type="P4_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_2PAD</newseq>
+			</port>
+			<port type="P4_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_4PAD</newseq>
+			</port>
+			<port type="P4_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_6PAD</newseq>
+			</port>
+			<port type="P4_BUTTON1">
+				<newseq type="standard">KEYCODE_0PAD</newseq>
+			</port>
+			<port type="P4_BUTTON2">
+				<newseq type="standard">KEYCODE_ENTERPAD</newseq>
+			</port>
+			<port type="P4_BUTTON3">
+				<newseq type="standard">KEYCODE_DELPAD</newseq>
+			</port>
+			<port type="P4_BUTTON4">
+				<newseq type="standard">KEYCODE_PLUSPAD</newseq>
+			</port>
+			<port type="P4_DIAL">
+				<newseq type="standard">MOUSECODE_2_YAXIS</newseq>
+			</port>
+
+
+
+		</input>
+	</system>
+
+	<system name="neogeo">
+		<input>
+			<port type="P1_BUTTON1">
+				<newseq type="standard">KEYCODE_LCONTROL</newseq>
+			</port>
+			<port type="P1_BUTTON2">
+				<newseq type="standard">KEYCODE_LALT</newseq>
+			</port>
+			<port type="P1_BUTTON3">
+				<newseq type="standard">KEYCODE_SPACE</newseq>
+			</port>
+			<port type="P1_BUTTON4">
+				<newseq type="standard">KEYCODE_LSHIFT</newseq>
+			</port>
+			<port type="P1_BUTTON5">
+				<newseq type="standard">NONE</newseq>
+			</port>
+			<port type="P1_BUTTON6">
+				<newseq type="standard">NONE</newseq>
+			</port>
+			<port type="P2_BUTTON1">
+				<newseq type="standard">KEYCODE_A</newseq>
+			</port>
+			<port type="P2_BUTTON2">
+				<newseq type="standard">KEYCODE_S</newseq>
+			</port>
+			<port type="P2_BUTTON3">
+				<newseq type="standard">KEYCODE_Q</newseq>
+			</port>
+			<port type="P2_BUTTON4">
+				<newseq type="standard">KEYCODE_W</newseq>
+			</port>
+			<port type="P2_BUTTON5">
+				<newseq type="standard">NONE</newseq>
+			</port>
+			<port type="P2_BUTTON6">
+				<newseq type="standard">NONE</newseq>
+			</port>
+		</input>
+	</system>
+
+</mameconfig>
