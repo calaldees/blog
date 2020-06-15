@@ -108,3 +108,4 @@ Other References
 
 * [The Original Sin of Software Metrics](https://www.infoq.com/articles/metrics-original-sin/) - Metrics are not everything
 * Visulisation of code [nDepend](https://blog.ndepend.com/mythical-man-month-10-lines-per-developer-day/)
+* [Don’t (guess)timate your projects, forecast with confidence](https://www.reaktor.com/blog/forecasting-method/)

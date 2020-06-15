@@ -152,3 +152,7 @@ Ask ballzy question in interview - first 30min = my time!
 
 [Stephen Waring](http://agilebatman.com/) Scrum 101
 [Agile: a common sense way of working, rebranded](https://medium.com/@alex.shiell/agile-a-common-sense-way-of-working-rebranded-dfc5b3ad86b2)
+
+
+
+[The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450) - Management responsibilities (really agree with this guy)

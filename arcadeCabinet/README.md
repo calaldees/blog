@@ -169,6 +169,8 @@ Components
     * Cables
         * DB15 Solderless - Female (for neo-geo pad output)
         * DB15 Extender (1m)
+            * Alternatively - 'SNK AES MVS Famicom Neo Geo Controller Joystick Gamepad Extension Cable'
+                * Had to chop the ends off with a hacksaw to get it to fit
 * Output
     * PAL CRT TV SCART 4:3 (20inc+)
         * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
@@ -229,6 +231,11 @@ Required Tools
     * Countersync bit
     * Various drill bit sizes
 * Cable ties, Screws, Nuts+Wingnuts (for joystick mounts)
+
+Costs
+-----
+
+TODO: breakdown
 
 Wired
 -----

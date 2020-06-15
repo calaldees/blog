@@ -2,6 +2,7 @@ Blog post ideas
 ---------------
 
 * Training Testers
+    * Self susataining (graduates train)
 * I don't try to mimic the accent because that would be racist
 
 Teaching kids to code
@@ -28,3 +29,6 @@ Shitlab(Gitlab)
   - associating artifacts with releaseses
   - more
 
+Interesting
+[Welcome to the 21st Century: How To Plan For The Post-Covid Future](https://www.oreilly.com/tim/21stcentury/)
+[UCL Institute for Innovation and Public Purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about)

@@ -292,4 +292,94 @@
 		</input>
 	</system>
 
+
+	<system name="gauntlet">
+		<input>
+
+			<!-- P1 (was P3) -->
+			<port type="START1">
+				<newseq type="standard">KEYCODE_3</newseq>
+			</port>
+			<port type="COIN1">
+				<newseq type="standard">KEYCODE_7</newseq>
+			</port>
+			<port type="P1_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_I</newseq>
+			</port>
+			<port type="P1_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_K</newseq>
+			</port>
+			<port type="P1_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_J</newseq>
+			</port>
+			<port type="P1_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_L</newseq>
+			</port>
+			<port type="P1_BUTTON1">
+				<newseq type="standard">KEYCODE_RCONTROL</newseq>
+			</port>
+			<port type="P1_BUTTON2">
+				<newseq type="standard">KEYCODE_ENTER</newseq>
+			</port>
+
+
+			<!-- P2 (was P1) -->
+			<port type="START2">
+				<newseq type="standard">KEYCODE_1</newseq>
+			</port>
+			<port type="COIN2">
+				<newseq type="standard">KEYCODE_5</newseq>
+			</port>
+			<port type="P2_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_UP</newseq>
+			</port>
+			<port type="P2_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_DOWN</newseq>
+			</port>
+			<port type="P2_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_LEFT</newseq>
+			</port>
+			<port type="P2_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_RIGHT</newseq>
+			</port>
+			<port type="P2_BUTTON1">
+				<newseq type="standard">KEYCODE_LCONTROL</newseq>
+			</port>
+			<port type="P2_BUTTON2">
+				<newseq type="standard">KEYCODE_SPACE</newseq>
+			</port>
+
+			<!-- P3 (was P2) -->
+			<port type="START3">
+				<newseq type="standard">KEYCODE_2</newseq>
+			</port>
+			<port type="COIN3">
+				<newseq type="standard">KEYCODE_6</newseq>
+			</port>
+			<port type="P3_JOYSTICK_UP">
+				<newseq type="standard">KEYCODE_R</newseq>
+			</port>
+			<port type="P3_JOYSTICK_DOWN">
+				<newseq type="standard">KEYCODE_F</newseq>
+			</port>
+			<port type="P3_JOYSTICK_LEFT">
+				<newseq type="standard">KEYCODE_D</newseq>
+			</port>
+			<port type="P3_JOYSTICK_RIGHT">
+				<newseq type="standard">KEYCODE_G</newseq>
+			</port>
+			<port type="P3_BUTTON1">
+				<newseq type="standard">KEYCODE_A</newseq>
+			</port>
+			<port type="P3_BUTTON2">
+				<newseq type="standard">KEYCODE_Q</newseq>
+			</port>
+
+			<!-- P4 (does not need to be remaped) -->
+
+		</input>
+	</system>
+
+
+
 </mameconfig>
