@@ -31,7 +31,12 @@ Below are notes about the different categories of bugs that could be raised
 
 Other Bug Notes
 ---------------
-* We need to consider a consistent internal naming strategy. 'Feature Development Bugs' (normal development workflow) are VERY different from 'Feature Bugs' (live production issue affecting users/service). Are we going to refer to both of these as 'Bugs'?
+* We need to consider a consistent internal naming strategy. 'Feature Development Bugs' (normal development workflow) are VERY different from 'Live Feature Bugs' (live production issue affecting users/service). Are we going to refer to both of these as 'Bugs'?
+    * Development defect
+    * QA/Integration/ISO/End-to-End/Test defect
+    * Live defect
+        * Live defect of active business feature noticed by external party
+        * Live defect for deployed feature that is not yet actively used by business parties (e.g. deploying new WIP endpoint to API and issues have been observed by the internal dev team)
 * We do not size bugs. The business has already 'paid the cost' for the feature. When we spend a lot of time fixing bugs then our velocity will (correctly) decrease. As we improve our working practice and the quality of our code improves our velocity will increase. Feature Bugs are a metric of code quality.
 
 Ticket Selection Process

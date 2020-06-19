@@ -156,3 +156,5 @@ Ask ballzy question in interview - first 30min = my time!
 
 
 [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450) - Management responsibilities (really agree with this guy)
+
+[How many of you know deep down that the team is working on something that no customer wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)

@@ -11,3 +11,6 @@
     2. You will be punished for trying things that don't work
     3. You will be punished for trying to understand how good you are at something
     4. You will be punished for succeeding
+
+
+http://www.liberatingstructures.com/
