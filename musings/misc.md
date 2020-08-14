@@ -14,3 +14,10 @@
 
 
 http://www.liberatingstructures.com/
+
+
+[Defend free speech, even when it's offensive](https://www.latimes.com/opinion/story/2020-06-19/protests-free-speech-first-amendment)
+
+
+* [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Super Duper Senior software people that are shit and drive the good ones away
+* [How Software Groups Rot: Legacy of the Expert Beginner](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/) - Dysfucntional teams that reward the longest serving members with titles - drives good developers away

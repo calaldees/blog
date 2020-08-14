@@ -8,9 +8,9 @@ TODO
   1. "umm" or "errr"
     * Annicdote: Told the CEO 213 ums + 42 ums = 255 ums
     * Strategy: Practice a talk to someone and ask them to bang the table every time you do this.
-  2. "Basically"
+  2. "Basically" or "So" or "Ok" ...
     * or any other superfluous word
-    * You are on a word budget. Ration them.
+    * You are on a word budget. Ration your words!
 * Keep to time
 * Projection Tech
     * Raise font size (ctrl+=)

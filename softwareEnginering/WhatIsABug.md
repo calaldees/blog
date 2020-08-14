@@ -45,3 +45,14 @@ Ticket Selection Process
     * Bugs should be ranked based on business priority/metrics. NOT based on who shouts loudest or has the most senior position.
 * That is the process for a the business to select bugs/features for a sprint?
     * We must ensure that our process does not allow individuals to raise/implement tickets within a sprint. This offsets our sprint metrics and takes focus away from team/business objectives.
+
+
+unsorted
+--------
+
+overlaps with outages
+
+live defects
+ spotted by us - no used customer feature affected
+ spotted by customer - raised via formal methods
+ spotted by us - software has corruped data or give incorrect output to customer (maybe for a sustained period)

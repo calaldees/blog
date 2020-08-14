@@ -42,3 +42,7 @@ I think there is a necessary need to have a separate ‘restored’ and ‘recov
 We recovered our service after the outage but because multiple jobs had fail, they needed to be manually identified and rerun. Only once all the failed/disrupted jobs were restarted could the incident be considered ‘recovered’.
 A deployment may fail and be rolled back. What happens to our uptime stats
 The time to put the technical fix in place and ‘restored’ the service is distinctly separate from the service being ‘recovered’.
+
+
+
+outage and damage to data

@@ -307,3 +307,16 @@ Audio?
 https://www.arcadeworlduk.com/pages/JPAC-FAQ.html
 http://forum.arcadecontrols.com/index.php/topic,39106.0.html
 https://www.amazon.com/PM2038-2X5W-Stereo-Audio-Amplifier/dp/B01NABJTDJ
+
+
+[GroovyArcade debug video issues](http://forum.arcadecontrols.com/index.php/topic,163114.0.html)
+http://forum.arcadecontrols.com/index.php?board=52.0
+http://forum.arcadecontrols.com/index.php/topic,163092.0.html
+http://forum.arcadecontrols.com/index.php/topic,163064.0.html
+
+
+[Old PC and DOS games on the Sony BVM](https://imgur.com/r/crtgaming/8Q1vf)
+> Dosbox SVN Daum to force games to run in a 640x200
+
+
+https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921

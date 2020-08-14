@@ -158,3 +158,23 @@ Ask ballzy question in interview - first 30min = my time!
 [The Quiet Crisis unfolding in Software Development](https://medium.com/@billjordan1/the-quiet-crisis-unfolding-in-software-development-cffbdafbf450) - Management responsibilities (really agree with this guy)
 
 [How many of you know deep down that the team is working on something that no customer wants?](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
+
+
+[Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
+
+Blog Posts
+----------
+* [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
+  * Easy approval process, not many approvals necessary
+  * Few or no non-engineering approvals required
+* [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+  * Focus on the why
+
+
+Here is an example of a London based engineering teams blog.
+https://deliveroo.engineering/
+https://deliveroo.engineering/authors/
+Notice the URL. (Engineering is highly valued by the organisation)
+The authors have a public identity
+This is also an interesting article about successful engineering blogs. It makes a clear strong point.
+

@@ -34,6 +34,7 @@ Concepts to give Focused Retrospectives
     * Sprint goals delivered (yes/no) (tickets are not goals. Goals are like a title/objective for the sprint)
     * *'Points delivered' per 'available engineer day'* (this is important as it takes into account changing team size, holidays and shorter sprints (like Christmas and bank holidays))
         * This could be an automated process (we know holidays, team members and tickets delivered)
+        * More ideas at [Measure team performance with a sprint score](http://agilebatman.com/2020/06/measure-team-performance-with-a-sprint-score/)
 * Feedback/points/comments should be focus/restricted-to sprint deliverables
     * The team should focus/problem-solve about elements that are within their control that relate to team deliverables
         * Why did we not complete this ticket?
