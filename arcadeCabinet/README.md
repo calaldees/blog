@@ -301,7 +301,18 @@ spinnerShooter
 Other references
 ----------------
 
-* [arcadecontrols.com](http://www.arcadecontrols.com) community of arcade cabinet builders
+* Arcade Parts Retailers
+    * [ArcadeWorld.co.uk](https://www.smallcab.net/) (UK)
+    * [SmallCab.net](https://www.smallcab.net/) (France)
+        * Steering wheels and kick harness cabling
+    * [R2Tronik.com](https://www.r2tronik.com/en/) (France)
+        * Supergun
+* Communities
+    * [arcadecontrols.com](http://www.arcadecontrols.com) community of arcade cabinet builders
+
+
+Unsorted Notes
+==============
 
 Audio?
 https://www.arcadeworlduk.com/pages/JPAC-FAQ.html
@@ -320,3 +331,17 @@ http://forum.arcadecontrols.com/index.php/topic,163064.0.html
 
 
 https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921
+
+CPS2 Kick
+---------
+* [CPS1, CPS2 & CPS3 Connectors](https://wiki.arcadeotaku.com/w/CPS1,_CPS2_%26_CPS3_Connectors)
+    * [DB9 Supergun to Arcade CPS2 and CPS3 Kick Harness Cable](https://picclick.co.uk/DB9-Supergun-to-Arcade-CPS2-and-CPS3-Kick-193024026197.html)
+    * [Kick harness CPS2/CPS3 Supergun SmallCab](https://www.smallcab.net/kick-harness-cps2cps3-supergun-smallcab-p-809.html)
+
+Other Hardware
+--------------
+* [270° arcade steering wheel - potentiometer](https://www.smallcab.net/arcade-steering-wheel-potentiometer-p-1675.html)
+
+* [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) £60
+* JAMMA Clamp £20
+* JAMMA edge extension £10

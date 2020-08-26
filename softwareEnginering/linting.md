@@ -111,6 +111,13 @@ Continuous integration enforcement
 Appendix
 --------
 
+### Other static analysis tools
+
+> helps improve code quality by inspecting source code without even running it
+
+https://analysis-tools.dev/
+
+
 ### How is `black` different from [pylint](https://www.pylint.org/)?
 
 PyLint is a checker. It provides information/warnings but does not change files.

@@ -88,4 +88,4 @@ UNFINISHED
 
 
 * [That coworker who never stops refactoring](https://critter.blog/2020/08/11/that-coworker-who-never-stops-refactoring/) - We’ve all seen them. They drive the rest of the team crazy. How can we use them to our advantage?
-
+* [Most "mandatory requirements" in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
