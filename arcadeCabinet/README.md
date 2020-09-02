@@ -342,6 +342,6 @@ Other Hardware
 --------------
 * [270° arcade steering wheel - potentiometer](https://www.smallcab.net/arcade-steering-wheel-potentiometer-p-1675.html)
 
-* [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) £60
+* [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) GBS-8118 £60
 * JAMMA Clamp £20
 * JAMMA edge extension £10

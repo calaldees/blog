@@ -117,11 +117,12 @@ Mels recipe
     * 2 teaspoons ground cumin
     * 2 teaspoons ground paprika
     * 1 teaspoon ground turmeric
+    * 1 teaspoon salt
     * 1/2 teaspoon ground ginger
     * 1/2 teaspoon ground cayenne pepper
-    * 1 teaspoon salt
+    * (TODO: Consider garlic powder quantity)
 * Ingredients
-    * 2 cans chickpeas
+    * 2 cans chickpeas (TODO: calculate grams of dry chickpeas?)
     * 1 can chopped tomatoes
     * 1 can coconut milk
     * 1 Onion
