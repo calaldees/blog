@@ -12,7 +12,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * I have 2 hours on a train each day. I have a laptop. I get 10 hours a week to apply to my personal projects. This solace time can never be taken away from me.
         * The rest of my commute is cycling (see raise heart-rate above). This is not wasted time.
             * The constant risk of injury on the bike is countered by the long term health gains and quality of life later
-    * Have a useable transport solution
+    * Have a usable transport solution
         * Most of the people around me struggle to transport themselves and equipment
             * This limits their ability to
                 * Freely attend social events
@@ -22,31 +22,31 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
             * My back is clear (for hi-vis vests) (extra cooling, no sweaty back)
             * I don't have to fiddle with clipping things down with bungees or crap
             * I can carry huge weights (weight is over the front wheel and stable)
-                * The bike can double as a push trolly when critically loaded. I have regularly transported weekly shopping for 4 people consistently
+                * The bike can double as a push trolley when critically loaded. I have regularly transported weekly shopping for 4 people consistently
         * Folding bike + train combo means I can use train time to be productive
 * Home/Space/Domestic
     * Robot vacuum cleaner
-        * It cleans regularly when I'm out. Consistently useable environment
+        * It cleans regularly when I'm out. Consistently usable environment
     * Chairs are for humans to sit on
         * They are not storage space. The moment a chair is obstructed by items it fails to perform the task that it was constructed for
     * Wash up immediately
-        * Wether you wash up now or 2 days time the time taken is the same
+        * Whether you wash up now or 2 days time the time taken is the same
             * (maybe not because food drys and hardens)
-        * A sink that is full of shit, is not useable as a sink for other things
+        * A sink that is full of shit, is not usable as a sink for other things
         * Every item that is dirty is unusable until it is cleaned
         * Get a dishwasher (it cleans better (bacteria), with less water)
     * Tidy consistently/constantly
         * Every item should have a place where it goes. If you ever find the object not in it's correct place and it is not actively in use, return it to it's correct location.
         * By virtue of moving around your house you will clean/tidy as you go
         * Water droplets left in the shower will turn into crap, wipe them every day
-            * Plastic body scrubbers do not retain water and smell like sponges or flanenls
+            * Plastic body scrubbers do not retain water and smell like sponges or flannels
         * You will have multiple people using shared facilities. Keep all bottles/items out of the bathroom, (this inhibits efficient cleaning as they all have to moved to wipe any surface).
     * Kitchen sponges are bacterial colonies
         * Put them in microwave for 60seconds often
     * Bleach shoes
         * The moment they smell, cleanse them
     * A beds take a known area of a room
-        * Bunkbeds (space efficient)
+        * Bunk-beds (space efficient)
         * Desk under bed
     * If you haven't used an item in a year, you probably don't need it. Throw it away
 * Social
@@ -55,7 +55,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Social media content is often of poor quality, vapid, low end bellendry. These are distractions
     * Your social circle should push/correct/inspire/grow
         * Cultivate your friends - support each other in growing
-        * Identify toxically, don't be afraid to challenge
+        * Identify toxicity, don't be afraid to challenge
             * Your _inaction_ has consequences
             * Loose the bellends
             * Challenge mobile use in social situations
@@ -84,29 +84,29 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
             * Waterproof, clear sealable bag - survival kit
                 * Hand sanitizer
                     * Emergency wash (armpits), can also be used to deodorize cloths
-                * Screwdriver/alumkey
-                * Cableties
-                * foldable knife/fork/spoon
-                * memstick,sd,xd
+                * Screwdriver/alum-key
+                * Cable-ties
+                * fold-able knife/fork/spoon
+                * usb-stick,sd,xd
                 * mini sewing kit
-                * superglue
+                * super-glue
                     * Used for minor cuts/injury
                 * light headphones
                 * earplugs
-                * hand cream (non greesy)
+                * hand cream (non greasy)
             * Umbrella (cheap, light)
             * Extra plastic bags (folded) (waterproof + carrying capacity if need)
     * Have a laptop - be productive anywhere
         * Don't have a desktop computer
             * You need to be free to communicate and be productive anywhere
-        * No smartphone
+        * No smart phone
             * I have a simple phone to functionally text and meet people, or for emergencies
             * I control my mental space
             * I can't consume and digest effectively meaningful media on a phone
             * I can't respond effectively or deeply with the restrictive input device
     * Items should be modular whenever possible
         * Coats
-            * Light waterproof windproof coat (outer shell) + Jumper (for insulation)
+            * Light waterproof wind proof coat (outer shell) + Jumper (for insulation)
             * Both can be used in summer and winter effectively. You don't need a whole cupboard of different coats.
         * Duvet
             * Light tog duvets can be machine washing (bigger ones cannot)
@@ -129,8 +129,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Diet variety is mandatory
         * Picky eaters form social barriers
         * You need to develop a wide range of gut bacteria, protein sources and vitamins
-        * Traveling is easier
-        * If you are well nourished and exercise you will be more mobile and more resistent/recover from illness quicker
+        * Travelling is easier
+        * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness quicker
 * Attitudes and Ethos
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
@@ -140,7 +140,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Have a routine. Leaving things to 'when you feel in the mood' will not make progress
         * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
     * Your parents are not you
-        * Their judgments should not affect your life
+        * Their judgements should not affect your life
     * Makes notes when you read non-fiction
         * review your notes
     * Have more than one career plan/path/skill-set
@@ -154,3 +154,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * [PEOPLE OVER 40](https://twitter.com/Thayer/status/1256664757215600640)
         * > Get busy living or get busy dying
             * Steven King (Sawshank redemption)
+    * [A Cult of Ignorance - Isaac Asimov, 1980](https://en.wikiquote.org/wiki/Anti-intellectualism)
+        * > There is a cult of ignorance ... The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge"
+    * We do not know what skills children will need in a future that we know nothing about
+    * When rattled, ask yourself: How will I feel in 10min/10hours/10days/10months/10years
