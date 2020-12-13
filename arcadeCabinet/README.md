@@ -125,8 +125,9 @@ Components
         * Low Profile ATX Case (1u rack?)
         * [ATI Radeon HD 5450](https://www.ebay.co.uk/sch/i.html?_nkw=Radeon+HD+5450) - Modifiable for driving 15khz CRT display
             * [A guide to connecting your Windows PC to an SD CRT TV, PVM or Arcade Monitor](https://www.aussiearcade.com/forum/arcade/m-a-m-e-emulation-projects-and-discussion/89704-a-guide-to-connecting-your-windows-pc-to-an-sd-crt-tv-pvm-or-arcade-monitor?viewfull=1)
-        * [GroovyArcade live-CD](http://forum.arcadecontrols.com/index.php?board=52.0)
-            * Arch linux with hacked Radeon drivers for CGA CRT output
+        * GroovyArcade [live-CD](https://github.com/substring/os/releases/)
+            * [GitLab Wiki](https://gitlab.com/groovyarcade/support/-/wikis/home)
+            * Arch linux with hacked Radeon drivers for 15khzCGA CRT output
     * Raspberry Pi (possible alternate solution)
         * [pi2scart and pi2jamma](http://pi2jamma.info/)
             * from [ArcadeForge](http://arcadeforge.net/Pi2Jamma-Pi2SCART/PI2SCART::264.html)
@@ -346,3 +347,39 @@ Other Hardware
 * [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) GBS-8118 £60
 * JAMMA Clamp £20
 * JAMMA edge extension £10
+
+
+Voice Activation UI
+-------------------
+
+Selecting from 100,000 games with a joystick on a very low resolution screen was a pain.
+All the UI's felt clumsy and needed a lot of setup.
+I set about making my own voice recondition UI.
+* [rhasspy-load-mame](https://github.com/calaldees/rhasspy-load-mame)
+    * In docker container, extract game names from MAME xml and map them to rom names
+    * Run rhasspy in docker container with custom `sentences.ini`
+        * "PORCUPINE ... load x men children of the atom"
+        * "PORCUPINE ... load desert strike on the mega drive"
+    * Create mini python program to listen to rhasspy websocket intents
+        * Launch MAME
+        * Duck volume on activating keyword
+        * `grep` game names 
+* To run docker on GrooveyArcade
+    * [Arch Linux Docker Tutorial](https://linuxhint.com/arch-linux-docker-tutorial/)
+
+```bash
+    su root
+    pacman -Sy docker
+    pacman -Sy lib32-glibc
+    systemctl start docker.service
+    systemctl enable docker.service
+    #groupadd docker
+    gpasswd -a arcade docker
+
+    pacman -Sy python-pip
+    git clone https://github.com/calaldees/rhasspy-load-mame.git
+    cd rhasspy-load-mame
+    make build
+    make run
+    # go to localhost:12101 and download 100mb of packages + restart
+```

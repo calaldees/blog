@@ -135,7 +135,8 @@ https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 
 
 
----
+Unsorted
+========
 
 Teams are like mini starups
 long term goal
@@ -149,6 +150,7 @@ if you have a consultant == you dont know what you are doing
 
 Ask ballzy question in interview - first 30min = my time!
 
+[4 Clues to Identify a Destructive Leader](https://articles.tilt365.com/identify-destructive-leadership-patterns/)
 
 [Stephen Waring](http://agilebatman.com/) Scrum 101
 [Agile: a common sense way of working, rebranded](https://medium.com/@alex.shiell/agile-a-common-sense-way-of-working-rebranded-dfc5b3ad86b2)
@@ -178,3 +180,18 @@ Notice the URL. (Engineering is highly valued by the organisation)
 The authors have a public identity
 This is also an interesting article about successful engineering blogs. It makes a clear strong point.
 
+
+
+Code Ownership
+--------------
+
+https://www.osnews.com/story/19266/wtfsm/
+http://reviewthecode.blogspot.com/2016/01/wtf-per-minute-actual-measurement-for.html
+https://blog.codinghorror.com/whos-your-coding-buddy/
+
+https://jeremiahflaga.github.io/2017/06/20/code-review-solution-to-wtfs-per-minute/
+
+> When someone will be heard saying WTF (or any sign of displeasure) while reading code, each individual in the team will think of that as either an attack on the whole team (which includes the attacker of course :laughing:), or as an indicator of displeasure on his own code.
+> No one in the team will think that the one saying WTF is critisizing someone else.
+
+> He doesn’t want any single person owning code ...

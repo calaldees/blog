@@ -8,7 +8,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
 * Transport
     * Raise heart rate once per day (by virtue of existing)
         * As part of my commute, twice daily I raise my heart-rate. I don't have dedicate multiple hours for the gym. I get 45min of exercise a day
-    * _Use_ commute time (or aggressively minimize it as much as possible)
+    * _Use_ commute time (or aggressively minimize commute time as much as possible)
         * I have 2 hours on a train each day. I have a laptop. I get 10 hours a week to apply to my personal projects. This solace time can never be taken away from me.
         * The rest of my commute is cycling (see raise heart-rate above). This is not wasted time.
             * The constant risk of injury on the bike is countered by the long term health gains and quality of life later
@@ -44,15 +44,16 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Kitchen sponges are bacterial colonies
         * Put them in microwave for 60seconds often
     * Bleach shoes
-        * The moment they smell, cleanse them
+        * The moment they smell, cleanse them (50deg bleach - higher will melt the glue)
     * A beds take a known area of a room
         * Bunk-beds (space efficient)
         * Desk under bed
-    * If you haven't used an item in a year, you probably don't need it. Throw it away
+    * If you haven't used an item in a year, you probably don't need it. (Sell, pass-on-for-free or dispose)
 * Social
-    * No facebook or social media
+    * No personal use of social media (facebook)
         * These detract from genuine human interactions, trivialize other people
         * Social media content is often of poor quality, vapid, low end bellendry. These are distractions
+        * (social media use a professional tool this is useful for networking/outreach in moderation)
     * Your social circle should push/correct/inspire/grow
         * Cultivate your friends - support each other in growing
         * Identify toxicity, don't be afraid to challenge
@@ -130,7 +131,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Picky eaters form social barriers
         * You need to develop a wide range of gut bacteria, protein sources and vitamins
         * Travelling is easier
-        * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness quicker
+        * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
 * Attitudes and Ethos
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
@@ -141,13 +142,21 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
     * Your parents are not you
         * Their judgements should not affect your life
-    * Makes notes when you read non-fiction
-        * review your notes
+    * Always makes notes when you read non-fiction
+        * revisit the notes and highlight important concepts
+        * review your notes with spacing
+    * Research/Understand a range of mental models
+        * > “All models are wrong but some are useful” — George Box
+    * There are things that a factually true, but the world becomes better if you actively act as if they are not true
+        * Fixed vs Growth mindset
+        * Racial inequality
     * Have more than one career plan/path/skill-set
         * Never be in a position where you are locked into a job you hate because you think you can't do anything else. This perception will boost mental health
-        * If one career does not go to plan, you have another. Limits the sense of failure.
+        * If one career does not go to plan, you have another. Limits the sense of failure
         * The world _will_ change in your working lifetime because the world is constantly changing
     * Understand the concept of _Compound Interest_ (in all aspects of life not just financially)
+    * Don't play zero sum games - look for solutions where every party gains
+    * Humans act on 'Availability Heuristic'
     * No human is independent
     * > Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.
         * Mark Twain
@@ -158,3 +167,13 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > There is a cult of ignorance ... The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge"
     * We do not know what skills children will need in a future that we know nothing about
     * When rattled, ask yourself: How will I feel in 10min/10hours/10days/10months/10years
+    * Be an active citizen - Report things
+        * Dead Swans, Anti social behaviour, Don't just walk-on-by
+
+Other Links/References
+======================
+* [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
+    * No smartphone
+    * No social media
+    * clutterless office
+* [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/) to focus

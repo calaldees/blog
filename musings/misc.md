@@ -21,3 +21,9 @@ http://www.liberatingstructures.com/
 
 * [How Developers Stop Learning: Rise of the Expert Beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/) - Super Duper Senior software people that are shit and drive the good ones away
 * [How Software Groups Rot: Legacy of the Expert Beginner](https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/) - Dysfucntional teams that reward the longest serving members with titles - drives good developers away
+
+* The importance of good Design
+    * Why arnt some bad designs expunged from the world?
+    * plastic?
+    * computing tools/tech?
+    * 

@@ -128,5 +128,6 @@ Problems with 'Hack Time'
 
 Further Reading
 ---------------
+* [Was 20% time a good policy for Google's working culture?](https://news.ycombinator.com/item?id=25397339)
 * [Learning at work, is work](https://sloanreview.mit.edu/article/learning-for-a-living/)
 * [My Love And Hate Relationship With Hackathons](https://www.devsurvival.com/my-love-and-hate-relationship-with-hackathons/) - Reasonable summary of hack days
