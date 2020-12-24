@@ -158,7 +158,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Don't play zero sum games - look for solutions where every party gains
     * Humans act on 'Availability Heuristic'
     * No human is independent
-    * > Age is an issue of mind over matter. If you don’t mind, it doesn’t matter.
+    * > Age is an issue of mind over matter. If you don’t mind, it doesn’t matter. 
         * Mark Twain
         * [PEOPLE OVER 40](https://twitter.com/Thayer/status/1256664757215600640)
         * > Get busy living or get busy dying
@@ -168,7 +168,9 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * We do not know what skills children will need in a future that we know nothing about
     * When rattled, ask yourself: How will I feel in 10min/10hours/10days/10months/10years
     * Be an active citizen - Report things
-        * Dead Swans, Anti social behaviour, Don't just walk-on-by
+        * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
+    * Understand the things you can change, things you cant change and the wisdom to know the difference
+    * "Everything seems impossible, until it's done" Nelson Mandela
 
 Other Links/References
 ======================
@@ -177,3 +179,14 @@ Other Links/References
     * No social media
     * clutterless office
 * [Start with pen and paper](https://sethetter.com/posts/start-with-pen-and-paper/) to focus
+* > I operate on a mix of instinct, imitation and experience <sub>Karen Dawson</sub>
+* [I assume I’m below average](https://sive.rs/below-average)
+    * To assume you’re below average is to admit you’re still learning
+* [Why You Should Write A User Guide](https://boringstartupstuff.com/newsletter/dec-22nd-2020-write-a-user-guide)
+    * > _not_ deciding was selfish
+* [Alignment: Should you work hard?](https://jacobobryant.com/post/2019/alignment/) Jacob O'Bryant 2019
+    * > I wish I hadn't worked so hard. This came from every male patient that I nursed ... All of the men I nursed deeply regretted spending so much of their lives on the treadmill of a work existence.
+    * > Alignment is the situation in which there's a high correlation between the effort you put into life and the good that comes out. In other words, it's when your work is aligned with what's most important.
+ 
+ ### other mental models
+ learned helplessness
