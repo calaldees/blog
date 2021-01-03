@@ -140,6 +140,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Discipline gets shit done
         * Have a routine. Leaving things to 'when you feel in the mood' will not make progress
         * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
+    * Remember that you are dying
     * Your parents are not you
         * Their judgements should not affect your life
     * Always makes notes when you read non-fiction
@@ -147,6 +148,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * review your notes with spacing
     * Research/Understand a range of mental models
         * > “All models are wrong but some are useful” — George Box
+    * Things that aren’t your fault can still be your responsibility
     * There are things that a factually true, but the world becomes better if you actively act as if they are not true
         * Fixed vs Growth mindset
         * Racial inequality
@@ -174,6 +176,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
 
 Other Links/References
 ======================
+* [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) - kind of a similar concept list to mine
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
     * No smartphone
     * No social media
