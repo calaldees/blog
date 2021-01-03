@@ -45,38 +45,62 @@ Proof of concept: Would an arcade cabinet be used? The answer was YES! YES! and 
 ### Photos
 
 #### 2005: The making of
-![1](./DVC00006.JPG)
-![1](./DVC00009.JPG)
-![1](./DVC00002.JPG)
-![1](./DVC00010.JPG)
-![1](./DVC00013.JPG)
-![1](./DVC00019.JPG)
-![1](./DVC00030.JPG)
-![1](./DSCF0003.JPG)
+![Cutting the cabinet sides](./DVC00006.JPG)
+
+![Drilling the sides together](./DVC00009.JPG)
+
+![Cabinet skeleton with arms for joystick](./DVC00002.JPG)
+
+![Cabnet skeleton angle 2](./DVC00010.JPG)
+
+![Screen, speakers and joystick mounted](./DVC00013.JPG)
+
+![Screen cover - a masterpiece](./DVC00019.JPG)
+
+![Screen cover 2](./DVC00030.JPG)
+
+![The finished mrk1](./DSCF0003.JPG)
 
 #### 2019: The dismantling
-![1](./IMG_9237.jpg)
+![The mrk1 before disassembly](./IMG_9237.jpg)
+
 ![2](./IMG_9249.jpg)
+
 ![3](./IMG_9252.jpg)
+
 ![4](./IMG_9293.jpg)
+
 ![5](./IMG_9295.jpg)
+
 ![6](./IMG_9304.jpg)
+
 ![8](./IMG_9344.jpg)
+
 ![9](./IMG_9351.jpg)
+
 ![10](./IMG_9366.jpg)
+
 ![11](./IMG_9369.jpg)
+
 ![12](./IMG_9370.jpg)
+
 ![13](./IMG_9371.jpg)
+
 ![14](./IMG_9372.jpg)
+
 ![15](./IMG_9373.jpg)
+
 ![16](./IMG_9374.jpg)
+
 ![17](./IMG_9375.jpg)
+
 ![18](./IMG_9377.jpg)
+
 ![19](./IMG_9379.jpg)
 
 
-_The Mark2_ (Concept)
----------------------
+_The Mark2_
+-----------
 
 * Real 15khz CRT screen
     * Authentic experience
@@ -87,17 +111,19 @@ _The Mark2_ (Concept)
         * the use real JAMMA Arcade Boards
         * or an Emulated machine
 * 4 Players
-    * more players == more social
-* Spinners + Trackball
+    * More players == more social
+* Spinners + trackball + steering wheel
     * Interesting control methods that can't be reproduced with a common joypads
 * Modular design; To facilitate
     * Move with a normal car
     * Slimming down to 2 players (if 4 players too big for the next house)
+    * Different controler layouts (eg steering wheel or optional trackball or multiple trackball)
     * Have individual components repaired or replaced
         * If the screen dies again or a controller gets damaged
-    * Screen could easily be rotated for vertical 3:4 games
+    * Screen could easily be rotated for vertical 3:4 games ?
     * Quick to dismantle if needed (15min?)
 * Simple as possible to build
+    * Avoid custom cabinet (use normal stable table)
     * Avoid specialist rare high value components (screen)
     * No soldering or electronics knowledge
     * No advanced software skills
@@ -119,10 +145,11 @@ Components
         * eBay [neo geo mvs 1 slot](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=neo+geo+mvs+1+slot&_sacat=171921&LH_TitleDesc=0&_osacat=171921&_odkw=neo+geo+mvs)
         * Multi-game cartridge (like a pre loaded flash cartridge with 160+ neo-geo games)
     * No latency from emulation
+    * You can't get more authentic than this
 * Emulated system
-    * Low spec PC (chosen solution)
+    * Low spec x86 PC (chosen solution)
         * 2.xGhz, 4GB RAM, 1TB Storage
-        * Low Profile ATX Case (1u rack?)
+        * ATX Case (chearp 4u rack case)
         * [ATI Radeon HD 5450](https://www.ebay.co.uk/sch/i.html?_nkw=Radeon+HD+5450) - Modifiable for driving 15khz CRT display
             * [A guide to connecting your Windows PC to an SD CRT TV, PVM or Arcade Monitor](https://www.aussiearcade.com/forum/arcade/m-a-m-e-emulation-projects-and-discussion/89704-a-guide-to-connecting-your-windows-pc-to-an-sd-crt-tv-pvm-or-arcade-monitor?viewfull=1)
         * GroovyArcade [live-CD](https://github.com/substring/os/releases/)
@@ -134,21 +161,21 @@ Components
     * All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
         * [Game Elf](https://www.google.com/search?q=game+elf+JAMMA)
         * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
-* Input - 4 player controls
-    * Housing
-        * Simple Custom Modular Plywood Controls (chosen solution)
+* Input - 4 player controls + trackball + steering wheel
+    * Controller housing
+        * Simple custom modular plywood controls (chosen solution)
             * One sheet of 12mm Ply (610mm x 1220mm)
             * Tools
                 * Circular Saw (with ability to set rough angle of 10deg?)
                 * 30mm Flat Bit Wood Drill (for buttons and joystick holes)
             * 3 cuts with circular saw (create a wood jig to cut straight along the 1220mm edge)
                 * 8cm |(10deg)| 5cm | 23cm
-            * Separate interchangeable joystick/trackball controls
-                * Each controller is an independent Neo-Geo pad (DB15 connector)
+            * Separate interchangeable joystick/trackball/wheel controls
+                * Each joystick is an independent Neo-Geo pad (DB15 connector)
                 * Can be bolted/screwed together to be reconfigured
-        * Pre-cut (possible alternate solution)
+        * Pre-cut control layout (possible alternate solution)
             * [Bitcade - 4 Player Control Panel Kit](https://bitcade.co.uk/products/bitcade-4-player-control-panel-kit?variant=6546959761435)
-    * Control Components (from [Arcade World UK](https://www.arcadeworlduk.com/))
+    * Control components (joysticks and trackball from [Arcade World UK](https://www.arcadeworlduk.com/))
         * Joysticks
         * Arcade Buttons (SuzuHapp Ultimate)
         * SuzuHapp 3inc TrackBall + Metal Surface Plate
@@ -157,7 +184,7 @@ Components
             * Spinner Tops
         * Pre Crimped Insulated Wire
         * Daisy Chain Harness Wires (for ground)
-    * Control Interfaces by [Ultramarc](https://www.ultimarc.com/) (Available form arcadeworlduk.com)
+    * Control interfaces by [Ultramarc](https://www.ultimarc.com/) (Available form arcadeworlduk.com)
         * [J-Pac](https://www.ultimarc.com/control-interfaces/j-pac-en/) Interface a PC as a JAMMA arcade board
             * Two joystick inputs (as USB Keyboard)
             * VGA output
@@ -167,11 +194,16 @@ Components
             * Two joystick inputs (as USB Keyboard)
                 * For players 3 and 4
                 * Also has 2 spinner inputs if needed
+        * [U-HID Nano](https://www.ultimarc.com/control-interfaces/u-hid-en/u-hid-nano/) for steering wheel
+            * 8 physical pin interface can be configured with software to drive pins as combination of analog axis or buttons 
     * Cables
+        * Joysticks are DB15 normal neo-geo pads
+            * pinout diagram can be found in supergun pdf manual
         * DB15 Solderless - Female (for neo-geo pad output)
         * DB15 Extender (1m)
             * Alternatively - 'SNK AES MVS Famicom Neo Geo Controller Joystick Gamepad Extension Cable'
                 * Had to chop the ends off with a hacksaw to get it to fit
+        * Spinners use 'USBINT5PIN Startech Motherboard Header Cable , IDC USB , 0.45M'
 * Output
     * PAL CRT TV SCART 4:3 (20inc+)
         * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
@@ -186,19 +218,29 @@ Components
         * [Retroelectronik Supergun Pro GamerUser Manual](http://www.r2tronik.com/soft/progamer_en.pdf)
     * ATX power supply (Required to power JAMMA arcade board)
     * L Type Mounting Plastic PCB Feet with Screw for Arcade JAMMA
+    * [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) GBS-8118 £60
+    * [JAMMA Harness Extension Cable - Fully Wired](https://www.arcadeworlduk.com/products/jamma-harness-extension-cable-fully-wired.html) £10
+    * JAMMA Clamp £20
+        * for easy mounting/swappingn of boards
+
 * Cabinet
     * Base (Normal Table or Dresser)
         * Controls + Screen can be placed on a normal table or waist-high dresser/draws
         * The heavier/stable the base the better (4 people pushing and pulling will make it jostle)
-    * Custom Simple Screen Stand (to fit over electronics)
+        * Bracing the table against a wall (with foam padding) is advised for stability
+    * 4u custom simple screen stand (to fit over electronics)
+        * I experimented with a 2u - it was too small
+            * difficult to service components
+            * screen and controls too low - wrist at wrong angle
         * One sheet of 12mm Ply (610mm x 1220mm)
             * TODO: Diagram of cuts + angle
-            * 39cm
-            * 11cm
+            * 61cm (width of ply)
+            * 18cm tall - 24cm wide
+            * 36cm tall
         * Shelf to angle the screen - put custom wood brace at back for your TV footprint
             * 80cm wide shelf
         * Arms for mounting controls
-    * Recommend fixing controls and screen to base (screws? duel-lock?)
+    * Recommend fixing controls and screen to base
         * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
 
 
@@ -206,22 +248,39 @@ Making of Mark2
 ---------------
 
 ![First 4 button joystick](./IMG_20200119_190404.jpg)
+
 ![All 4 player modular controls](./IMG_20200212_204931.jpg)
+
 ![4 player controls and the center trackball](./DSC_0249.JPG)
+
 ![Controls, power, supergun, neo-geo-mvs, 2u rack pc](./IMG_20200425_151958.jpg)
+
 ![Supergun and jpac](./IMG_20200425_152023.jpg)
+
 ![Wiring of joystick with neo-geo pad connector](./IMG_20200502_232922.jpg)
+
 ![neo-geo pad connector detachable with duel lock](./IMG_20200502_233030.jpg)
+
 ![Profile of joystick](./IMG_20200502_233213.jpg)
+
 ![wiring of trackball](./IMG_20200502_232941.jpg)
+
 ![Wiring of no-solder neo-geo pad connector](./IMG_20200503_154458.jpg)
+
 ![Standard table with controlers and electronics](./IMG_20200508_142053.jpg)
+
 ![Profile of controlers on tabel](./IMG_20200508_142317.jpg)
+
 ![Table, controlers and first CRT screen](./IMG_20200509_200220.jpg)
+
 ![2u base](./IMG_20210102_135640_1.jpg)
+
 ![Working CRT and 2u base with real nego-geo-mvs](./IMG_20200510_142519.jpg)
+
 ![Working CRT2 with jamma camp](./IMG_20200906_183051_4.jpg)
+
 ![Modular steering wheel](./IMG_20210102_195623_7.jpg)
+
 ![New 4u Base and steering wheel](./IMG_20210102_200309_3.jpg)
 
 Required Tools
@@ -241,31 +300,44 @@ Costs
 
 TODO: breakdown
 
-Wired
------
 
-Physical
-1 3 5
-2 4 6
+Button layout
+-------------
 
-Software remap to
-1 2 3
-4 5 6
+Physical button layout
 
-Physical neo-geo layout
+|   |   |   |
+|---|---|---|
+| 1 | 3 | 5 |
+| 2 | 4 | 6 |
 
-### JPAC
+* The first 4 buttons are the same configuration for all 4 consolers
+* Neo-geo 4 button fighting games have punches and kicks on same lines as capcom fighters
 
-Just wite kick harness 5 + 6
+Software remap button layout of players 1 and 2 to
 
-### IPAC-2
+|   |   |   |
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+
+### JPAC - Players 1 and 2
+
+Wire kick harness for buttons 5 + 6 to supergun
+
+### IPAC-2 - Players 3 and 4
 
 [MacIPAC](https://evolutioninteractive.com/macipac/macipac.html) Programming tool for Ultimarc’s I-PACs
 
 MAME defaults for Player3/Player4 + extra button 4
 
 ![1](./MacIPAC_1.png)
+
 ![2](./MacIPAC_2.png)
+
+### U-HID Nano - Steering wheel
+
+TODO
 
 
 Software
@@ -300,6 +372,22 @@ Very few
 
 spinnerShooter
 * OS's only allow access to single mouse pointer
+
+Steering Wheel
+--------------
+
+* Modular design replaces center trackball and player 2 control (see pictures)
+* [SmallCab - Steering-Pedals](https://www.smallcab.net/steering-pedals-c-30_211.html)
+    * [270° arcade steering wheel - potentiometer](https://www.smallcab.net/arcade-steering-wheel-potentiometer-p-1675.html)
+    * [Double crankset - potentiometers](https://www.smallcab.net/double-crankset-potentiometers-p-1677.html)
+    * [High/Low gearshift - Turbo](https://www.smallcab.net/highlow-gearshift-turbo-p-1679.html)
+* U-HID Nano
+    * 8 pins to software configure the hardware to be a 3 axis 2 button controller
+        * x-axis = wheel 5v
+        * y-axis = accelerator
+        * z-axis = break
+        * button 1 = gear low/high
+        * button 2 = (button on shifter)
 
 
 Other references
@@ -336,21 +424,14 @@ http://forum.arcadecontrols.com/index.php/topic,163064.0.html
 
 https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921
 
-CPS2 Kick
----------
+CPS2 Kick Harness
+-----------------
+
+JAMMA only officially supports 4 buttons. Physical CPS2 boards need an additional connector for buttons 5 and 6.
+
 * [CPS1, CPS2 & CPS3 Connectors](https://wiki.arcadeotaku.com/w/CPS1,_CPS2_%26_CPS3_Connectors)
     * [DB9 Supergun to Arcade CPS2 and CPS3 Kick Harness Cable](https://picclick.co.uk/DB9-Supergun-to-Arcade-CPS2-and-CPS3-Kick-193024026197.html)
     * [Kick harness CPS2/CPS3 Supergun SmallCab](https://www.smallcab.net/kick-harness-cps2cps3-supergun-smallcab-p-809.html)
-
-Other Hardware
---------------
-* [270° arcade steering wheel - potentiometer](https://www.smallcab.net/arcade-steering-wheel-potentiometer-p-1675.html)
-* [2 crankset]()
-* [shifter]()
-
-* [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) GBS-8118 £60
-* JAMMA Clamp £20
-* JAMMA edge extension £10
 
 
 Voice Activation UI
