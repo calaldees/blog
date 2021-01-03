@@ -205,24 +205,24 @@ Components
 Making of Mark2
 ---------------
 
-![1](./IMG_20200119_190404.jpg)
-![2](./IMG_20200212_204931.jpg)
-![3](./DSC_0249.JPG)
-![4](./IMG_20190921_114102.jpg)
-![5](./IMG_20200425_151958.jpg)
-![6](./IMG_20200425_152023.jpg)
-![7](./IMG_20200502_232922.jpg)
-![9](./IMG_20200502_233030.jpg)
-![10](./IMG_20200502_233213.jpg)
-![8](./IMG_20200502_232941.jpg)
-![11](./IMG_20200503_154458.jpg)
-![12](./IMG_20200508_142053.jpg)
-![13](./IMG_20200508_142317.jpg)
-![14](./IMG_20200509_200220.jpg)
-![15](./IMG_20200510_142519.jpg)
-![16](./IMG_20200906_183051_4.jpg)
-![17](./IMG_20210102_195623_7.jpg)
-![18](./IMG_20210102_200309_3.jpg)
+![First 4 button joystick](./IMG_20200119_190404.jpg)
+![All 4 player modular controls](./IMG_20200212_204931.jpg)
+![4 player controls and the center trackball](./DSC_0249.JPG)
+![Controls, power, supergun, neo-geo-mvs, 2u rack pc](./IMG_20200425_151958.jpg)
+![Supergun and jpac](./IMG_20200425_152023.jpg)
+![Wiring of joystick with neo-geo pad connector](./IMG_20200502_232922.jpg)
+![neo-geo pad connector detachable with duel lock](./IMG_20200502_233030.jpg)
+![Profile of joystick](./IMG_20200502_233213.jpg)
+![wiring of trackball](./IMG_20200502_232941.jpg)
+![Wiring of no-solder neo-geo pad connector](./IMG_20200503_154458.jpg)
+![Standard table with controlers and electronics](./IMG_20200508_142053.jpg)
+![Profile of controlers on tabel](./IMG_20200508_142317.jpg)
+![Table, controlers and first CRT screen](./IMG_20200509_200220.jpg)
+![2u base](./IMG_20210102_135640_1.jpg)
+![Working CRT and 2u base with real nego-geo-mvs](./IMG_20200510_142519.jpg)
+![Working CRT2 with jamma camp](./IMG_20200906_183051_4.jpg)
+![Modular steering wheel](./IMG_20210102_195623_7.jpg)
+![New 4u Base and steering wheel](./IMG_20210102_200309_3.jpg)
 
 Required Tools
 --------------
@@ -345,6 +345,8 @@ CPS2 Kick
 Other Hardware
 --------------
 * [270° arcade steering wheel - potentiometer](https://www.smallcab.net/arcade-steering-wheel-potentiometer-p-1675.html)
+* [2 crankset]()
+* [shifter]()
 
 * [JAMMA Switcher](https://www.ebay.co.uk/sch/i.html?_nkw=jamma+switcher) GBS-8118 £60
 * JAMMA Clamp £20
