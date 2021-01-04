@@ -277,11 +277,14 @@ Making of Mark2
 
 ![Working CRT and 2u base with real nego-geo-mvs](./IMG_20200510_142519.jpg)
 
-![Working CRT2 with jamma camp](./IMG_20200906_183051_4.jpg)
+![Working CRT2 with jamma camp and running from emulated pc](./IMG_20200906_183051_4.jpg)
 
-![Modular steering wheel](./IMG_20210102_195623_7.jpg)
+![Modular steering wheel 1](./IMG_20210102_195651_9.jpg)
+
+![Modular steering wheel 2](./IMG_20210102_195623_7.jpg)
 
 ![New 4u Base and steering wheel](./IMG_20210102_200309_3.jpg)
+
 
 Required Tools
 --------------
