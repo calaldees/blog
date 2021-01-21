@@ -191,5 +191,6 @@ Other Links/References
     * > I wish I hadn't worked so hard. This came from every male patient that I nursed ... All of the men I nursed deeply regretted spending so much of their lives on the treadmill of a work existence.
     * > Alignment is the situation in which there's a high correlation between the effort you put into life and the good that comes out. In other words, it's when your work is aligned with what's most important.
  
- ### other mental models
+### other mental models
  learned helplessness
+* [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - loads of great nuggets of truth

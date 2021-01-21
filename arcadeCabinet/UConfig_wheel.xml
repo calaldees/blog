@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<Boards>
+  <board1>
+    <delay>0</delay>
+    <pin02 ByteOne="B4" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="Analog Axis&#xA;" />
+    <pin03 ByteOne="D1" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="5 Volts&#xA;" />
+    <pin04 ByteOne="B3" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="Analog Axis&#xA;" />
+    <pin05 ByteOne="B0" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="Analog Axis&#xA;" />
+    <pin06 ByteOne="D1" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="5 Volts&#xA;" />
+    <pin07 ByteOne="90" ByteTwo="92" ByteThree="01" ByteFour="03" SwopKey="False" HasLED="False" Function="Gamepad&#xA;" />
+    <pin08 ByteOne="D0" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="Ground&#xA;" />
+    <pin09 ByteOne="91" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Gamepad&#xA;" />
+    <Axis1 Scale="9" Offset="130" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="6" Offset="78" />
+    <Axis5 Scale="5" Offset="60" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board1>
+  <board2>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board2>
+  <board3>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board3>
+  <board4>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board4>
+  <board5>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board5>
+  <board6>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board6>
+  <board7>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board7>
+  <board8>
+    <delay>4</delay>
+    <Axis1 Scale="16" Offset="128" />
+    <Axis2 Scale="16" Offset="128" />
+    <Axis3 Scale="16" Offset="128" />
+    <Axis4 Scale="16" Offset="128" />
+    <Axis5 Scale="16" Offset="128" />
+    <Axis6 Scale="16" Offset="128" />
+    <Axis7 Scale="16" Offset="128" />
+    <Axis8 Scale="16" Offset="128" />
+  </board8>
+</Boards>

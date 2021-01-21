@@ -195,7 +195,8 @@ Components
                 * For players 3 and 4
                 * Also has 2 spinner inputs if needed
         * [U-HID Nano](https://www.ultimarc.com/control-interfaces/u-hid-en/u-hid-nano/) for steering wheel
-            * 8 physical pin interface can be configured with software to drive pins as combination of analog axis or buttons 
+            * 9 physical pin interface can be configured with software to drive pins as combination of analog axis or buttons 
+            * [U-HID at arcadeworld.uk - config options](https://www.arcadeworlduk.com/products/U-HID-Nano-Human-Interface-Device.html)
     * Cables
         * Joysticks are DB15 normal neo-geo pads
             * pinout diagram can be found in supergun pdf manual
@@ -284,6 +285,12 @@ Making of Mark2
 ![Modular steering wheel 2](./IMG_20210102_195623_7.jpg)
 
 ![New 4u Base and steering wheel](./IMG_20210102_200309_3.jpg)
+
+![Wheel electronics](./IMG_20210121_174658_0b.jpg)
+
+![Wheel electronics usb interface](./IMG_20210121_174712_9b.jpg)
+
+![Wheel pedal interface](./IMG_20210121_174737_4b.jpg)
 
 
 Required Tools
@@ -387,8 +394,8 @@ Steering Wheel
 * U-HID Nano
     * 8 pins to software configure the hardware to be a 3 axis 2 button controller
         * x-axis = wheel 5v
-        * y-axis = accelerator
-        * z-axis = break
+        * y-axis = accelerator 5v
+        * z-axis = break 5v
         * button 1 = gear low/high
         * button 2 = (button on shifter)
 
@@ -471,3 +478,16 @@ I set about making my own voice recondition UI.
     make run
     # go to localhost:12101 and download 100mb of packages + restart
 ```
+
+Repairs
+-------
+
+* [Retro Games Party - Arcade Repairs](http://www.retrogamesparty.co.uk/arcade-repair-services)
+* [michael maurice repairs](http://www.michaelmauricerepairs.co.uk/) - Wembley, North London, UK
+    * ledgend - recovers old tech - even rebuilds out-of-print boards from scratch!
+* [Deltavision TV Repair](https://www.deltavisiontv.co.uk/) - Birmingham, UK
+* [OHM SUPPLIES - Crt Repairs](http://www.ohmsupplies.co.uk/epages/62027733.sf/en_GB/?ObjectPath=/Shops/62027733/Categories/REPAIRS/%22CRT%20REPAIRS%22) - Liverpool
+* [ASAP electronic repair - crt monitor repair](https://asapelectronics.co.uk/services/crt-monitor-repair) - Pangborne, Reading, UK
+
+* Van Couriers
+    * shiply.com getvan.co.uk anyvan.com uship.com

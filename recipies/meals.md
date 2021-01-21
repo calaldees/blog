@@ -210,3 +210,12 @@ Mushrooms
 Could add stock?
 1/4 fine ged and gree pepper (optional)
 Simmer for 30min
+
+
+
+Danni's spag bol
+----------------
+It’s an Italian based one. You chop or blitz up a carrot, onion and two celery sticks and soften for around 5minutes, then add your mince (around 500g- I usually use beef and pork mince). Then once that is brown add a glass (or small bottle) of red wine and reduce by around half.
+Then add 2 chiken stock cubes, a tin of chopped tomatoes, a jar of passata (sieved tomatoes), a good squeeze of ketchup, tomato purée and salt and pepper. Then bring to the boil, turn down the heat and simmer for around 2 hours (mine usually takes an hour and a half)
+Pro tip- If you mix the tomato purée with a little hot water before adding it it combines better
+
