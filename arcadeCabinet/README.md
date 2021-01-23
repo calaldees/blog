@@ -292,6 +292,10 @@ Making of Mark2
 
 ![Wheel pedal interface](./IMG_20210121_174737_4b.jpg)
 
+![Wheel pedal mounted](./IMG_20210123_123937_7.jpg)
+
+![Wheel pedal mounted complete](./IMG_20210123_123948_9.jpg)
+
 
 Required Tools
 --------------
