@@ -219,3 +219,16 @@ It’s an Italian based one. You chop or blitz up a carrot, onion and two celery
 Then add 2 chiken stock cubes, a tin of chopped tomatoes, a jar of passata (sieved tomatoes), a good squeeze of ketchup, tomato purée and salt and pepper. Then bring to the boil, turn down the heat and simmer for around 2 hours (mine usually takes an hour and a half)
 Pro tip- If you mix the tomato purée with a little hot water before adding it it combines better
 
+
+Joe's Caribbean Coconut Rice
+---------------------------
+
+There wasn't much of a recipe tbh. It was just:
+* kidney beans, black eye beans (one can each). 
+* One can coconut milk and rice (water or stock for the rest of the moisture)
+* As for spices, it was salt, pepper, thyme, paprika and cayenne pepper.
+    * I found I needed slightly less paprika than I thought worked well (or it starts to taste more Mexican)
+* I started by frying onions then adding the spices to them.
+* Before they burn add the drained beans, stir, after a few more mins, eyeball the rice, throw that in and liquids.
+* Bring to a near boil ( not too hard or the coconut milk will split) then cover and cook as low as you can
+* I found in a thick pan I could even just cover it and take it off the heat completely. That way the bottom doesn't stick, and the rice will cook in the residual heat
