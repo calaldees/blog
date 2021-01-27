@@ -102,6 +102,9 @@ Proof of concept: Would an arcade cabinet be used? The answer was YES! YES! and 
 _The Mark2_
 -----------
 
+Goals
+-----
+
 * Real 15khz CRT screen
     * Authentic experience
         * [Gaming on CRT Televisions, PVMs and BVMs :: RGB104 / MY LIFE IN GAMING](https://youtu.be/RAi8AVj9GV8)
@@ -109,7 +112,7 @@ _The Mark2_
     > The JAMMA standard uses a 56-pin edge connector on the board with inputs and outputs common to most video games. These include power inputs (5 volts for the game and 12 volts for sound); inputs for two joysticks, each with three action buttons and one start button; analog RGB video output with negative composite sync; single-speaker sound output; and inputs for coin, service, test, and tilt.
     * Facilitate
         * the use real JAMMA Arcade Boards
-        * or an Emulated machine
+        * and an Emulated machine
 * 4 Players
     * More players == more social
 * Spinners + trackball + steering wheel
@@ -117,18 +120,18 @@ _The Mark2_
 * Modular design; To facilitate
     * Move with a normal car
     * Slimming down to 2 players (if 4 players too big for the next house)
-    * Different controler layouts (eg steering wheel or optional trackball or multiple trackball)
+    * Different controller layouts (eg steering wheel or optional trackball or multiple trackball)
     * Have individual components repaired or replaced
         * If the screen dies again or a controller gets damaged
     * Screen could easily be rotated for vertical 3:4 games ?
     * Quick to dismantle if needed (15min?)
 * Simple as possible to build
-    * Avoid custom cabinet (use normal stable table)
-    * Avoid specialist rare high value components (screen)
+    * Avoid custom cabinet (use normal stable table as the base - this is called a BarTop)
+    * Avoid specialist rare high value components (Normal TV as a screen)
     * No soldering or electronics knowledge
     * No advanced software skills
     * Only basic tools required
-        * just a saw, drill and screws
+        * Just a saw, drill and screws
 * Cheap (£100's not £1000's)
     * Normal Plywood
     * Normal CRT TV
@@ -184,7 +187,7 @@ Components
             * Spinner Tops
         * Pre Crimped Insulated Wire
         * Daisy Chain Harness Wires (for ground)
-    * Control interfaces by [Ultramarc](https://www.ultimarc.com/) (Available form arcadeworlduk.com)
+    * Control interfaces by [Ultramarc](https://www.ultimarc.com/) (Available form [Arcade World UK](https://www.arcadeworlduk.com/))
         * [J-Pac](https://www.ultimarc.com/control-interfaces/j-pac-en/) Interface a PC as a JAMMA arcade board
             * Two joystick inputs (as USB Keyboard)
             * VGA output
@@ -205,15 +208,6 @@ Components
             * Alternatively - 'SNK AES MVS Famicom Neo Geo Controller Joystick Gamepad Extension Cable'
                 * Had to chop the ends off with a hacksaw to get it to fit
         * Spinners use 'USBINT5PIN Startech Motherboard Header Cable , IDC USB , 0.45M'
-* Output
-    * PAL CRT TV SCART 4:3 (20inc+)
-        * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
-        * Real arcade screens are expensive, difficult to maintain, difficult to setup
-            * Tube is separate from electronics and requires a separate harness/frame
-        * The same technology is in a PAL TV; pre packaged, cheaper, more readily available
-        * PAL TV's can be driven at 60hz with RGB+Sync. NTSC TV's (america) have a harder time with this
-    * Speakers and amp
-        * Normal TV's have poor builtin audio
 * JAMMA Interface (for PAL SCART TV + Controls + Power)
     * [RetroElectronik Supergun ProGamer Arcade JAMMA](https://www.r2tronik.com/en/supergun/145-supergun-progamer-arcade-jamma-autofirevoltmeter-included-0715235390870.html)
         * [Retroelectronik Supergun Pro GamerUser Manual](http://www.r2tronik.com/soft/progamer_en.pdf)
@@ -223,26 +217,36 @@ Components
     * [JAMMA Harness Extension Cable - Fully Wired](https://www.arcadeworlduk.com/products/jamma-harness-extension-cable-fully-wired.html) £10
     * JAMMA Clamp £20
         * for easy mounting/swappingn of boards
-
+* Output
+    * PAL CRT TV SCART 4:3 (20inc+)
+        * [eBay](https://www.ebay.co.uk/sch/i.html?_dcat=11071&_fsrp=1&Screen%2520Size=20%252D29%2520in&_nkw=TV&rt=nc&Display%2520Technology=CRT)
+        * Real arcade screens are expensive, difficult to maintain, difficult to setup
+            * Tube is separate from electronics and requires a separate harness/frame
+        * The same technology is in a PAL TV; pre packaged, cheaper, more readily available
+        * PAL TV's can be driven at 60hz with RGB+Sync. NTSC TV's (america) have a harder time with this
+    * Speakers and amp
+        * Normal TV's have poor builtin audio
 * Cabinet
-    * Base (Normal Table or Dresser)
-        * Controls + Screen can be placed on a normal table or waist-high dresser/draws
-        * The heavier/stable the base the better (4 people pushing and pulling will make it jostle)
-        * Bracing the table against a wall (with foam padding) is advised for stability
-    * 4u custom simple screen stand (to fit over electronics)
-        * I experimented with a 2u - it was too small
-            * difficult to service components
-            * screen and controls too low - wrist at wrong angle
-        * One sheet of 12mm Ply (610mm x 1220mm)
-            * TODO: Diagram of cuts + angle
-            * 61cm (width of ply)
-            * 18cm tall - 24cm wide
-            * 36cm tall
-        * Shelf to angle the screen - put custom wood brace at back for your TV footprint
-            * 80cm wide shelf
-        * Arms for mounting controls
-    * Recommend fixing controls and screen to base
-        * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
+    * Pre-cut MDF [Bar Top Cabinet Kits](https://www.arcadeworlduk.com/categories/arcade-cabinets-kits/bar-top-cabinet-kits.html) for LCD displays
+        * For people with limited time that don't care about CRT or 4 players or modular controls (might still drive JAMMA with a range of video adaptors?)
+    * Custom Cabinet (chosen solution)
+        * Base (Normal Table or Dresser)
+            * Controls + Screen can be placed on a normal table or waist-high dresser/draws
+            * The heavier/stable the base the better (4 people pushing and pulling will make it jostle)
+            * Bracing the table against a wall (with foam padding) is advised for stability
+        * 4u custom simple screen stand (to fit over electronics)
+            * I experimented with a 2u - it was too small
+                * difficult to service components
+                * screen and controls too low - wrist at wrong angle
+            * One sheet of 12mm Ply (610mm x 1220mm)
+                * TODO: Diagram of cuts + angle
+                * 61cm (width of ply)
+                * 18cm tall - 24cm wide
+                * 36cm tall
+            * Shelf to angle the screen - put custom wood brace at back for your TV footprint
+                * 80cm wide shelf
+        * Recommend fixing controls and screen to base
+            * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
 
 
 Making of Mark2
@@ -300,6 +304,8 @@ Making of Mark2
 Required Tools
 --------------
 
+I deliberately wanted to avoid any soldering.
+
 * Basic expected equipment
     * Cordless Drill/Screwdriver
     * Saw
@@ -307,7 +313,8 @@ Required Tools
     * Measuring tape
     * Countersync bit
     * Various drill bit sizes
-* Cable ties, Screws, Nuts+Wingnuts (for joystick mounts)
+* Cable ties, screws, bolts + wing-nuts (for joystick mounts)
+
 
 Costs
 -----
@@ -337,7 +344,7 @@ Software remap button layout of players 1 and 2 to
 
 ### JPAC - Players 1 and 2
 
-Wire kick harness for buttons 5 + 6 to supergun
+Wire kick harness for buttons 5 + 6 to supergun DB9 (see supergun pinout documentation)
 
 ### IPAC-2 - Players 3 and 4
 
@@ -349,15 +356,9 @@ MAME defaults for Player3/Player4 + extra button 4
 
 ![2](./MacIPAC_2.png)
 
-### U-HID Nano - Steering wheel
 
-TODO
-
-
-Software
---------
-
-### MAME Controller Mapping
+MAME Controller Mapping
+-----------------------
 
 [allan4p.cfg](./allan4p.cfg.xml)
 
@@ -368,6 +369,13 @@ Software
 * https://docs.mamedev.org/advanced/devicemap.html
 * http://www.arcadeguns.com/download/MameUtility.pdf
 
+
+```bash
+    # install controller config file
+    PATH_MAME="$(find ~/ -d -iwholename *config*/mame/)" &&\
+    curl "https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/allan4p.cfg.xml" -o ${PATH_MAME}/ctrls/allan4p.cfg &&\
+    sed -i ${PATH_MAME}/mame.ini -e "???"
+```
 
 
 Spinners
@@ -387,6 +395,7 @@ Very few
 spinnerShooter
 * OS's only allow access to single mouse pointer
 
+
 Steering Wheel
 --------------
 
@@ -401,16 +410,115 @@ Steering Wheel
         * y-axis = accelerator 5v
         * z-axis = break 5v
         * button 1 = gear low/high
-        * button 2 = (button on shifter)
+        * button 2 = (button on shifter) [for ChaseHQ turbo]
+    * TODO: screenshots of windows U_Config setup + xml export
+* MAME Config
+    * [Shifter Toggle Disable](https://docs.mamedev.org/advanced/shiftertoggle.html)
+        * > By default, the shifter is treated as a toggle switch. One press of the mapped control for the shifter will switch it from low to high, and another will switch it back. This may not be ideal if you have access to a physical shifter that works identically to how the original machines did
+        * Manual `toggle="no"` in .cfg file
+    * [ArcadeControls.com - PC wheel/joystick analog settings: dead zone](http://forum.arcadecontrols.com/index.php?topic=83194.0)
+        * deadzone (defaults to 0.3) - this is WAY to high
+        * saturation (snap to 0% or 100%) - needs to be lowered
+        * TODO: how to set this in controller.cfg?
+    * [ArcadeControls.com - Topic: Hi/Lo shifter indicator in MAME!](http://forum.arcadecontrols.com/index.php?topic=97407.0)
+        * Inconsistent? Can be turned off
+        * TODO: more investigation needed to know if this is set-able in the controller.cfg file?
+
+
+Kick Harness (for real CPS2 boards)
+-----------------------------------
+
+JAMMA only officially supports 4 buttons. Physical CPS2 boards need an additional connector for buttons 5 and 6. This is canned a _kick harness_.
+
+The _RetroElectronik Supergun_ has a DB9 connector for kick harness. The pinout can be found in the manual
+
+* [CPS1, CPS2 & CPS3 Connectors](https://wiki.arcadeotaku.com/w/CPS1,_CPS2_%26_CPS3_Connectors)
+    * [DB9 Supergun to Arcade CPS2 and CPS3 Kick Harness Cable](https://picclick.co.uk/DB9-Supergun-to-Arcade-CPS2-and-CPS3-Kick-193024026197.html)
+    * [Kick harness CPS2/CPS3 Supergun SmallCab](https://www.smallcab.net/kick-harness-cps2cps3-supergun-smallcab-p-809.html)
+
+
+Voice Activation UI
+-------------------
+
+Selecting from 100,000 games with a joystick on a very low resolution screen was a pain.
+All the UI's felt clumsy and needed a lot of setup.
+I set about making my own voice recondition UI interface.
+* [rhasspy-load-mame](https://github.com/calaldees/rhasspy-load-mame)
+    * In docker container, extract game names from MAME xml and map them to rom names
+    * Run rhasspy in docker container with custom `sentences.ini`
+        * "PORCUPINE ... load x men children of the atom"
+        * "PORCUPINE ... load desert strike on the mega drive"
+    * Create mini python program to listen to rhasspy websocket intents
+        * Launch MAME
+        * Duck volume on activating keyword
+        * `grep` game names
+
+## Run on `rhasspy-load-mame` on GroovyArcade at startup
+
+Tested on _GroovyArcade 2021.01_.
+Set GroovyArcade to boot to LXDE as a frontend. You need to be in an existing X-session for `swtichres` to work.
+
+```bash
+    # Arch Linux Docker Tutorial
+    # https://linuxhint.com/arch-linux-docker-tutorial/
+    su root
+    pacman -Sy docker
+    systemctl start docker.service
+    systemctl enable docker.service
+    gpasswd -a arcade docker
+```
+```bash
+    # Install rhasspy-load-mame
+    pacman -Sy git
+    pacman -Sy make
+    git clone https://github.com/calaldees/rhasspy-load-mame.git
+    cd rhasspy-load-mame
+    make build
+    make start_service
+    # go to localhost:12101 or `ip address :12101` and download 100mb of packages + restart
+
+    pacman -Sy python-pip
+    pip install websockets
+    make install_startup # ???
+    make websocket
+```
+
+Switchres
+---------
+
+`switchres` is a tools for setting the video output to tailored low res CRT resolutions.
+It runs on-top of an X-session. This is part of GroovyArcade.
+
+https://github.com/Ansa89/switchres 1.53
+https://github.com/antonioginer/switchres 2.0
+https://github.com/alphanu1/switchres 2.0 (fork?)
+
+
+Repairs
+-------
+
+* Retro-game Hardware
+    * [Retro Games Party - Arcade Repairs](http://www.retrogamesparty.co.uk/arcade-repair-services)
+* CRT
+    * [Michael Maurice Repairs](http://www.michaelmauricerepairs.co.uk/) - Wembley, North London, UK
+        * ledgend - recovers old tech - even rebuilds out-of-print boards from scratch!
+    * [Deltavision TV Repair](https://www.deltavisiontv.co.uk/) - Birmingham, UK
+    * [OHM SUPPLIES - Crt Repairs](http://www.ohmsupplies.co.uk/epages/62027733.sf/en_GB/?ObjectPath=/Shops/62027733/Categories/REPAIRS/%22CRT%20REPAIRS%22) - Liverpool
+    * [ASAP electronic repair - crt monitor repair](https://asapelectronics.co.uk/services/crt-monitor-repair) - Pangborne, Reading, UK
+    * Van Couriers (to pickup eBay CRT's or transport them for repair)
+        * shiply.com
+        * getvan.co.uk
+        * anyvan.com
+        * uship.com
 
 
 Other references
 ----------------
 
 * Arcade Parts Retailers
-    * [ArcadeWorld.co.uk](https://www.smallcab.net/) (UK)
+    * [ArcadeWorld](https://www.arcadeworlduk.com/) (UK)
     * [SmallCab.net](https://www.smallcab.net/) (France)
-        * Steering wheels and kick harness cabling
+        * Steering wheels and CPS2 kick harness cabling
     * [R2Tronik.com](https://www.r2tronik.com/en/) (France)
         * Supergun
 * Communities
@@ -426,72 +534,9 @@ http://forum.arcadecontrols.com/index.php/topic,39106.0.html
 https://www.amazon.com/PM2038-2X5W-Stereo-Audio-Amplifier/dp/B01NABJTDJ
 
 
-[GroovyArcade debug video issues](http://forum.arcadecontrols.com/index.php/topic,163114.0.html)
-http://forum.arcadecontrols.com/index.php?board=52.0
-http://forum.arcadecontrols.com/index.php/topic,163092.0.html
-http://forum.arcadecontrols.com/index.php/topic,163064.0.html
-
-
 [Old PC and DOS games on the Sony BVM](https://imgur.com/r/crtgaming/8Q1vf)
 > Dosbox SVN Daum to force games to run in a 640x200
 
 
-https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921
-
-CPS2 Kick Harness
------------------
-
-JAMMA only officially supports 4 buttons. Physical CPS2 boards need an additional connector for buttons 5 and 6.
-
-* [CPS1, CPS2 & CPS3 Connectors](https://wiki.arcadeotaku.com/w/CPS1,_CPS2_%26_CPS3_Connectors)
-    * [DB9 Supergun to Arcade CPS2 and CPS3 Kick Harness Cable](https://picclick.co.uk/DB9-Supergun-to-Arcade-CPS2-and-CPS3-Kick-193024026197.html)
-    * [Kick harness CPS2/CPS3 Supergun SmallCab](https://www.smallcab.net/kick-harness-cps2cps3-supergun-smallcab-p-809.html)
-
-
-Voice Activation UI
--------------------
-
-Selecting from 100,000 games with a joystick on a very low resolution screen was a pain.
-All the UI's felt clumsy and needed a lot of setup.
-I set about making my own voice recondition UI.
-* [rhasspy-load-mame](https://github.com/calaldees/rhasspy-load-mame)
-    * In docker container, extract game names from MAME xml and map them to rom names
-    * Run rhasspy in docker container with custom `sentences.ini`
-        * "PORCUPINE ... load x men children of the atom"
-        * "PORCUPINE ... load desert strike on the mega drive"
-    * Create mini python program to listen to rhasspy websocket intents
-        * Launch MAME
-        * Duck volume on activating keyword
-        * `grep` game names 
-* To run docker on GrooveyArcade
-    * [Arch Linux Docker Tutorial](https://linuxhint.com/arch-linux-docker-tutorial/)
-
-```bash
-    su root
-    pacman -Sy docker
-    pacman -Sy lib32-glibc
-    systemctl start docker.service
-    systemctl enable docker.service
-    #groupadd docker
-    gpasswd -a arcade docker
-
-    pacman -Sy python-pip
-    git clone https://github.com/calaldees/rhasspy-load-mame.git
-    cd rhasspy-load-mame
-    make build
-    make run
-    # go to localhost:12101 and download 100mb of packages + restart
-```
-
-Repairs
--------
-
-* [Retro Games Party - Arcade Repairs](http://www.retrogamesparty.co.uk/arcade-repair-services)
-* [michael maurice repairs](http://www.michaelmauricerepairs.co.uk/) - Wembley, North London, UK
-    * ledgend - recovers old tech - even rebuilds out-of-print boards from scratch!
-* [Deltavision TV Repair](https://www.deltavisiontv.co.uk/) - Birmingham, UK
-* [OHM SUPPLIES - Crt Repairs](http://www.ohmsupplies.co.uk/epages/62027733.sf/en_GB/?ObjectPath=/Shops/62027733/Categories/REPAIRS/%22CRT%20REPAIRS%22) - Liverpool
-* [ASAP electronic repair - crt monitor repair](https://asapelectronics.co.uk/services/crt-monitor-repair) - Pangborne, Reading, UK
-
-* Van Couriers
-    * shiply.com getvan.co.uk anyvan.com uship.com
+* [7z support problem in Mame](https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921)
+    * Some games can't be loaded directly from a 7zip file and need to be referenced by MameXML romname
