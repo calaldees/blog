@@ -10,7 +10,7 @@
     <pin07 ByteOne="90" ByteTwo="92" ByteThree="01" ByteFour="03" SwopKey="False" HasLED="False" Function="Gamepad&#xA;" />
     <pin08 ByteOne="D0" ByteTwo="00" ByteThree="00" ByteFour="00" SwopKey="False" HasLED="False" Function="Ground&#xA;" />
     <pin09 ByteOne="91" ByteTwo="00" ByteThree="01" ByteFour="00" SwopKey="False" HasLED="False" Function="Gamepad&#xA;" />
-    <Axis1 Scale="9" Offset="130" />
+    <Axis1 Scale="9" Offset="127" />
     <Axis2 Scale="16" Offset="128" />
     <Axis3 Scale="16" Offset="128" />
     <Axis4 Scale="6" Offset="78" />

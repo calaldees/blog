@@ -373,8 +373,12 @@ MAME Controller Mapping
 ```bash
     # install controller config file
     PATH_MAME="$(find ~/ -d -iwholename *config*/mame/)" &&\
-    curl "https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/allan4p.cfg.xml" -o ${PATH_MAME}/ctrls/allan4p.cfg &&\
-    sed -i ${PATH_MAME}/mame.ini -e "???"
+    curl "https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/allan4p.cfg.xml" -o ${PATH_MAME}/ctrlr/allan4p.cfg &&\
+    sed -i .  's/crtlr.*/crtlr      allan4p/g' ${PATH_MAME}/mame.ini
+
+    # TODO
+    # joystick_deadzone         0.03
+    # joystick_saturation       0.95
 ```
 
 
@@ -411,7 +415,8 @@ Steering Wheel
         * z-axis = break 5v
         * button 1 = gear low/high
         * button 2 = (button on shifter) [for ChaseHQ turbo]
-    * TODO: screenshots of windows U_Config setup + xml export
+    * ![U_Config screenshot of U-HID Nano](./U_Config.gif)
+    * [UConfig_wheel.xml](./UConfig_wheel.xml)
 * MAME Config
     * [Shifter Toggle Disable](https://docs.mamedev.org/advanced/shiftertoggle.html)
         * > By default, the shifter is treated as a toggle switch. One press of the mapped control for the shifter will switch it from low to high, and another will switch it back. This may not be ideal if you have access to a physical shifter that works identically to how the original machines did
@@ -510,6 +515,12 @@ Repairs
         * getvan.co.uk
         * anyvan.com
         * uship.com
+
+
+Marque
+------
+
+* [Flip dot display](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2060353.m570.l1311&_nkw=flip+dot+display&_sacat=0)?
 
 
 Other references
