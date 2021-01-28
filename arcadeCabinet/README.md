@@ -379,6 +379,9 @@ MAME Controller Mapping
     # TODO
     # joystick_deadzone         0.03
     # joystick_saturation       0.95
+    # rotate                    0
+    # mouse                     1
+    # syncrefresh?
 ```
 
 
