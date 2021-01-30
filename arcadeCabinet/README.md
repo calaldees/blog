@@ -381,6 +381,7 @@ MAME Controller Mapping
     # joystick_saturation       0.95
     # rotate                    0
     # mouse                     1
+
     # syncrefresh?
 ```
 
@@ -537,7 +538,16 @@ Other references
         * Supergun
 * Communities
     * [arcadecontrols.com](http://www.arcadecontrols.com) community of arcade cabinet builders
-
+* Other pre-built products
+    * https://www.libertygames.co.uk/store/video_arcade_machines/atgames-legends/legends-ultimate/
+    * https://www.arcadecity.co.uk/
+    * https://bitcade.co.uk/collections/pre-built-arcade-machine-cabinets
+* Companies
+    * Hire
+        * http://www.retrogamesparty.co.uk/
+    * Venue
+        * https://www.retro-replay.games/ Norwick
+        * https://www.arcadeclub.co.uk/ Bury, Leeds, Blackpool
 
 Unsorted Notes
 ==============
@@ -551,6 +561,8 @@ https://www.amazon.com/PM2038-2X5W-Stereo-Audio-Amplifier/dp/B01NABJTDJ
 [Old PC and DOS games on the Sony BVM](https://imgur.com/r/crtgaming/8Q1vf)
 > Dosbox SVN Daum to force games to run in a 640x200
 
+mame64 ibm5150 -isa1 ega -flop1 monkey
+https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=86865#Post86865
 
 * [7z support problem in Mame](https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921)
     * Some games can't be loaded directly from a 7zip file and need to be referenced by MameXML romname

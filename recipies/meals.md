@@ -232,3 +232,9 @@ There wasn't much of a recipe tbh. It was just:
 * Before they burn add the drained beans, stir, after a few more mins, eyeball the rice, throw that in and liquids.
 * Bring to a near boil ( not too hard or the coconut milk will split) then cover and cook as low as you can
 * I found in a thick pan I could even just cover it and take it off the heat completely. That way the bottom doesn't stick, and the rice will cook in the residual heat
+
+I tried 
+* 200ml bazmati rice
+* 1 can creamed coconul
+* 1 can kidney beans in chilli sauce
+It was a little overpowering on the coconut liquid and I used no stock. I need to try more beans.

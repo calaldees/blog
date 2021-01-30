@@ -428,7 +428,6 @@
 		</input>
 	</system>
 
-
 	<system name="chasehq">
 		<video>
 			<target index="0" view="Screen 0 Standard (4:3)" />
@@ -499,6 +498,25 @@
 			<port type="P1_BUTTON2"><!-- break?? -->
 				<newseq type="standard">JOYCODE_1_RYAXIS_POS_SWITCH</newseq>
 			</port>
+		</input>
+	</system>
+
+	<system name="bigrun">
+		<video>
+			<target index="0" view="Screen 0 Standard (4:3)" />
+		</video>
+		<input>
+			<port type="P1_BUTTON2" toggle="no"><!-- hi/lo -->
+				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
+			</port>
+			<port type="P1_BUTTON3"><!-- break -->
+				<newseq type="standard">JOYCODE_1_RYAXIS_POS_SWITCH</newseq>
+			</port>
+			<port type="P1_BUTTON4"><!-- horn -->
+				<newseq type="standard">JOYCODE_1_BUTTON2</newseq>
+			</port>
+
+
 		</input>
 	</system>
 
