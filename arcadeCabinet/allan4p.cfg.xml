@@ -402,6 +402,14 @@
 
 
 	<!-- Steering Wheel shifter mappings -->
+	<!-- 
+		None of these settings are saved or transfered
+		They even interfer with the manual game config
+		It's a mystery which way round the gear shift input is
+		Sometimes it's BUTTON1 on the joystick .. sometimes BUTTON3
+		The video stuff does not transfer
+		Looks like EVERY game with the shifter is a manual setup ... 
+		Bugger ....
 
 	<system name="outrun">
 		<video>
@@ -415,110 +423,26 @@
 	</system>
 
 	<system name="toutrun">
-		<video>
-			<target index="0" view="Screen 0 Standard (4:3)" />
-		</video>
-		<input>
-			<port type="P1_BUTTON3" toggle="no">
-				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
-			</port>
-			<port type="P1_BUTTON3">
-				<newseq type="standard">JOYCODE_1_BUTTON2</newseq>
-			</port>
-		</input>
 	</system>
 
 	<system name="chasehq">
-		<video>
-			<target index="0" view="Screen 0 Standard (4:3)" />
-		</video>
-		<input>
-			<port type="P1_BUTTON1"><!-- accelerate -->
-				<newseq type="standard">JOYCODE_1_RXAXIS_POS_SWITCH</newseq>
-			</port>
-			<port type="P1_BUTTON2"><!-- break -->
-				<newseq type="standard">JOYCODE_1_RYAXIS_POS_SWITCH</newseq>
-			</port>
-			<port type="P1_BUTTON3"><!-- turbo -->
-				<newseq type="standard">JOYCODE_1_BUTTON2</newseq>
-			</port>
-			<port type="P1_BUTTON4" toggle="no"><!-- hi/lo -->
-				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
-			</port>
-		</input>
 	</system>
 
 	<system name="spyhunt">
-		<video>
-			<target index="0" view="Screen 0 Standard (3:4)" />
-		</video>
-		<input>
-			<port type="P1_BUTTON2" toggle="no"><!-- hi/lo -->
-				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
-			</port>
-			<port type="P1_BUTTON6"><!-- machine gun -->
-				<newseq type="standard">JOYCODE_1_BUTTON2</newseq>
-			</port>
-		</input>
 	</system>
 
 	<system name="chqflag">
-		<video>
-			<target index="0" view="Screen 0 Standard (3:4)" />
-		</video>
-		<input>
-			<port type="P1_BUTTON3" toggle="no"><!-- hi/lo -->
-				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
-			</port>
-			<port type="P1_BUTTON2">
-				<newseq type="standard">JOYCODE_1_BUTTON2</newseq>
-			</port>
-		</input>
 	</system>
 
 	<system name="radr">
-		<video>
-			<target index="0" view="Screen 0 Standard (4:3)" />
-		</video>
-		<input>
-			<port type="P1_BUTTON1" toggle="no"><!-- hi/lo -->
-				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
-			</port>
-		</input>
 	</system>
 
 	<system name="gtmr">
-		<input>
-			<!-- Set input to 270deg analog wheel -->
-			<port type="DIPSWITCH" mask="2048" value="0" />
-			<port type="DIPSWITCH" mask="4096" value="0" />
-			<port type="P1_BUTTON1"><!-- accelerate?? -->
-				<newseq type="standard">JOYCODE_1_RXAXIS_POS_SWITCH</newseq>
-			</port>
-			<port type="P1_BUTTON2"><!-- break?? -->
-				<newseq type="standard">JOYCODE_1_RYAXIS_POS_SWITCH</newseq>
-			</port>
-		</input>
 	</system>
 
 	<system name="bigrun">
-		<video>
-			<target index="0" view="Screen 0 Standard (4:3)" />
-		</video>
-		<input>
-			<port type="P1_BUTTON2" toggle="no"><!-- hi/lo -->
-				<newseq type="standard">JOYCODE_1_BUTTON3</newseq>
-			</port>
-			<port type="P1_BUTTON3"><!-- break -->
-				<newseq type="standard">JOYCODE_1_RYAXIS_POS_SWITCH</newseq>
-			</port>
-			<port type="P1_BUTTON4"><!-- horn -->
-				<newseq type="standard">JOYCODE_1_BUTTON2</newseq>
-			</port>
-
-
-		</input>
 	</system>
+	-->
 
 
 
