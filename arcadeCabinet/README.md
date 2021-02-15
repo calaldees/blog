@@ -332,15 +332,31 @@ Physical button layout
 | 1 | 3 | 5 |
 | 2 | 4 | 6 |
 
-* The first 4 buttons are the same configuration for all 4 consolers
-* Neo-geo 4 button fighting games have punches and kicks on same lines as capcom fighters
+* The first 4 buttons are the same configuration for all 4 controllers. Consistency is good
+* This button layout is good for physical Neo-geo 4 button fighting games will have punches and kicks on same rows (similar to Capcom fighters).
 
-Software remap button layout of players 1 and 2 to
+In emulation/software I can remap button layout of players 1 and 2 to
 
 |   |   |   |
 |---|---|---|
 | 1 | 2 | 3 |
 | 4 | 5 | 6 |
+
+However. I then got a real physical CPS2 game that requires the buttons in the hard layout listed above. I needed a way of having one button configuration for some physical boards and another button layout for other physical boards.
+Simplest solution. Create a pass-through cable that physically rewires the buttons.
+I mapped the follow pins differently with my own DB15 pass-through
+```
+    Pin 5 -> Pin 4
+    Pin 12 -> Pin 5
+    Pin 4 -> Pin 3
+    Pin 3 -> Pin 12
+    All other pins are mapped to the same.
+```
+They are clumsy and an extra layer of faffing about, but they do work.
+
+![button remap db15 cable 1](./IMG_20210215_181254_0.jpg)
+
+![button remap db15 cable 1](./IMG_20210215_181312_1.jpg)
 
 ### JPAC - Players 1 and 2
 
@@ -395,6 +411,22 @@ Spinners
     * Mouse 1: Y-Axis = Player2
     * Mouse 2: X-Axis = Player3
     * Mouse 2: Y-Axis = Player4
+
+### No MultiMouse in Linux
+
+The standard build of LinuxMAME does not support multimouse.
+
+* [retropi - testing-mouse-inputs-in-linux](https://retropie.org.uk/docs/Spinners,-Trackballs,-Lightguns,-and-other-Mouse-Devices/#testing-mouse-inputs-in-linux)
+* [retropi - poll-rate](https://retropie.org.uk/docs/Spinners,-Trackballs,-Lightguns,-and-other-Mouse-Devices/#poll-rate)
+    * For spinners to reduce backspin when the spinners turn to fast
+
+```bash
+ls -la /dev/input/ | grep mouse
+cat /dev/input/mouse0
+cat /dev/input/mouse1
+```
+
+Apparently [Multiple mice in linux is not supported as SDL2.0 does not support this input](https://www.reddit.com/r/MAME/comments/6zwtg2/multiple_spinner_trackball/dmzvqk7?utm_source=share&utm_medium=web2x&context=3)
 
 ### 4 Player Spinner games
 
@@ -560,9 +592,19 @@ https://www.amazon.com/PM2038-2X5W-Stereo-Audio-Amplifier/dp/B01NABJTDJ
 
 [Old PC and DOS games on the Sony BVM](https://imgur.com/r/crtgaming/8Q1vf)
 > Dosbox SVN Daum to force games to run in a 640x200
+[Dosbox, CRT 17", 320x200... please.](https://www.vogons.org/viewtopic.php?f=31&t=38868&start=20)
+[About DOSBOX and native MSDOS resolutions...](https://www.vogons.org/viewtopic.php?t=15220)
+https://forums.libretro.com/t/dosbox-70hz-w-doublescan-640x400-crt-switchres/22631
+
 
 mame64 ibm5150 -isa1 ega -flop1 monkey
 https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=86865#Post86865
 
 * [7z support problem in Mame](https://forums.bannister.org/ubbthreads.php?ubb=showflat&Number=91921)
     * Some games can't be loaded directly from a 7zip file and need to be referenced by MameXML romname
+
+
+System pauses at startup without dns - solution
+```bash
+sudo systemctl disable systemd-networkd-wait-online.service
+```

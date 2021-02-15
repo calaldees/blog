@@ -177,6 +177,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
 Other Links/References
 ======================
 * [100 Tips for a Better Life](https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life) - kind of a similar concept list to mine
+* [Mini Blog Post 22: The world is full of wasted motion](https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule) - similar optimisations - meta observations
 * [Attention Is My Most Valuable Asset for Productivity as a Software Developer](https://zwbetz.com/attention-is-my-most-valuable-asset-for-productivity-as-a-software-developer/)
     * No smartphone
     * No social media
