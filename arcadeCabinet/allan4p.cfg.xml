@@ -129,16 +129,16 @@
 				<newseq type="standard">KEYCODE_Q</newseq>
 			</port>
 			<port type="P2_BUTTON3">
-				<newseq type="standard">KEYCODE_I</newseq>
+				<newseq type="standard">KEYCODE_E</newseq>
 			</port>
 			<port type="P2_BUTTON4">
 				<newseq type="standard">KEYCODE_S</newseq>
 			</port>
-			<port type="P2_BUTTON5">
+			<port type="P2_BUTTON5"><!-- non default for JPac -->
 				<newseq type="standard">KEYCODE_W</newseq>
 			</port>
-			<port type="P2_BUTTON6">
-				<newseq type="standard">KEYCODE_K</newseq>
+			<port type="P2_BUTTON6"><!-- non default for JPac and not mapped in MAME by default (why mame!? why!?) -->
+				<newseq type="standard">KEYCODE_T</newseq>
 			</port>
 
 			<!-- Player2 Two Stick - P4 Joystick for P2_right -->

@@ -362,6 +362,16 @@ They are clumsy and an extra layer of faffing about, but they do work.
 
 Wire kick harness for buttons 5 + 6 to supergun DB9 (see supergun pinout documentation)
 
+* [JPac default keys](https://www.arcadeworlduk.com/pages/JPAC-Information.html)
+    * The default keys for B5=I and B6=K conflict with the MAME default keys.
+    * I reconfigured some of my JPac defaults
+        * B5->E (to match MAME default) and B6->T (MAME unmapped by default)
+        * Start1 + B2 -> F2 (service)
+        * Start1 + B3 -> F3 (reset)
+    * [WinIPAC Version 2](https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/)
+* [MAME default keys](https://docs.mamedev.org/usingmame/defaultkeys.html#player-2-controls)
+
+
 ### IPAC-2 - Players 3 and 4
 
 [MacIPAC](https://evolutioninteractive.com/macipac/macipac.html) Programming tool for Ultimarc’s I-PACs
