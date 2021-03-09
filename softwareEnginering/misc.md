@@ -195,3 +195,13 @@ https://jeremiahflaga.github.io/2017/06/20/code-review-solution-to-wtfs-per-minu
 > No one in the team will think that the one saying WTF is critisizing someone else.
 
 > He doesn’t want any single person owning code ...
+
+
+Management Soft Skills
+----------------------
+
+* [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills)
+  * > Most interactions are ego-based because people aren’t as self-aware as they could be.
+    > Collaboration is often tainted by unconscious fear-based reactions.
+    > every employee is a leader, and it makes sense for companies to invest in them as such. 
+

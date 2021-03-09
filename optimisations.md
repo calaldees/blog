@@ -133,6 +133,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Travelling is easier
         * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
 * Attitudes and Ethos
+    * Understand what is inside and outside of your sphere of influence
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
         * Don't use the phrase 'Im to busy', use the phrase 'I have other priorities'
@@ -191,7 +192,13 @@ Other Links/References
 * [Alignment: Should you work hard?](https://jacobobryant.com/post/2019/alignment/) Jacob O'Bryant 2019
     * > I wish I hadn't worked so hard. This came from every male patient that I nursed ... All of the men I nursed deeply regretted spending so much of their lives on the treadmill of a work existence.
     * > Alignment is the situation in which there's a high correlation between the effort you put into life and the good that comes out. In other words, it's when your work is aligned with what's most important.
- 
+* [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
+    * You need 2 of - Interesting, Meaningful, Well-defined
+    * Careful of SUPER EXITING activities
+    * Get board more often
+    * Dive deep into a topic - more knowlege prompts more questions
+    * Attempt a deliberate rubbish first draft
+
 ### other mental models
  learned helplessness
 * [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - loads of great nuggets of truth

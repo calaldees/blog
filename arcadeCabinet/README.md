@@ -366,11 +366,14 @@ Wire kick harness for buttons 5 + 6 to supergun DB9 (see supergun pinout documen
     * The default keys for B5=I and B6=K conflict with the MAME default keys.
     * I reconfigured some of my JPac defaults
         * B5->E (to match MAME default) and B6->T (MAME unmapped by default)
-        * Start1 + B2 -> F2 (service)
-        * Start1 + B3 -> F3 (reset)
+        * Coin1 + Start1 -> Esc
+        * Coin1 + B2 -> F2 (service)
+        * Coin1 + B3 -> F3 (reset)
+        * Coin1 + B4 -> F10 (framerate display)
+        * Coin1 + B5 -> F11 (throttle)
+        * Coin1 + B6 -> F12 (auto-frameskip)
     * [WinIPAC Version 2](https://www.ultimarc.com/control-interfaces/j-pac-en/j-pac-jamma-interface/)
 * [MAME default keys](https://docs.mamedev.org/usingmame/defaultkeys.html#player-2-controls)
-
 
 ### IPAC-2 - Players 3 and 4
 
