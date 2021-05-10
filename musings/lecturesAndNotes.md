@@ -18,7 +18,7 @@ Attendance is poor at lectures, why attend when it's recorded anyway. As the lec
 The Conundrum
 -------------
 
-We now have better technology, higher quality content, that is immediately searchable. But are out students sharper and better equipped? It could be argued that so many more people now have access to education and that wider access means that we are going to see much more lackadaisical engagement. The sharp/engaged students still exist (and in the same numbers as before).
+We now have better technology, higher quality content, that is immediately searchable. But are our students sharper and better equipped? It could be argued that so many more people now have access to education and that wider access means that we are going to see much more lackadaisical engagement. The sharp/engaged students still exist (and in the same numbers as before).
 
 We can't go back in time. Progress if progress. Could we take some themes and techniques from these older ways and apply them thoughtfully to the modern world? Or is that like trying to apply a square peg to a round hole?
 
