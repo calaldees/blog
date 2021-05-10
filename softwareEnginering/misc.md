@@ -164,6 +164,9 @@ Ask ballzy question in interview - first 30min = my time!
 
 [Tell candidates what to expect from your job interviews](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/)
 
+Your software developers know your business logic and should be treated like decision makers
+The code in the repo is not your business with value. your developers are the ones with the knowlege to use/modify it.
+
 Blog Posts
 ----------
 * [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)

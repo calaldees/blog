@@ -134,6 +134,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
 * Attitudes and Ethos
     * Understand what is inside and outside of your sphere of influence
+    * Stop being angry at the world - [Your Addiction to Outrage is Ruining Your Life: The anger feels so good, but it’s insidious](https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca)
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
         * Don't use the phrase 'Im to busy', use the phrase 'I have other priorities'
@@ -166,6 +167,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * [PEOPLE OVER 40](https://twitter.com/Thayer/status/1256664757215600640)
         * > Get busy living or get busy dying
             * Steven King (Sawshank redemption)
+    * > It is amazing how many people are ashamed of their body and how few of their minds
+        * Andrezej Saramanowicz
     * [A Cult of Ignorance - Isaac Asimov, 1980](https://en.wikiquote.org/wiki/Anti-intellectualism)
         * > There is a cult of ignorance ... The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge"
     * We do not know what skills children will need in a future that we know nothing about
@@ -174,6 +177,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
     * Understand the things you can change, things you cant change and the wisdom to know the difference
     * "Everything seems impossible, until it's done" Nelson Mandela
+    * Focus on the future - Understanding 'why you are like you are' is less important than 'who you are'
+        * [You Are Not ‘Behind’](https://zackkanter.com/2016/01/13/you-are-not-behind/)
 
 Other Links/References
 ======================
@@ -198,7 +203,17 @@ Other Links/References
     * Get board more often
     * Dive deep into a topic - more knowlege prompts more questions
     * Attempt a deliberate rubbish first draft
+* [Crazy New Ideas](http://paulgraham.com/newideas.html)
+    * Look for domain experts challenging the status quo
 
 ### other mental models
  learned helplessness
 * [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - loads of great nuggets of truth
+* Terminology
+    * Run "thought experiments" through to conclusions
+    * "systemic issues"
+    * Process
+* ["I'll Finish It This Week" And Other Lies](https://arxiv.org/abs/2103.16574)
+    * When estimating time - normally double it - if it's code - quad it
+* [We Are All Confident Idiots](https://psmag.com/social-justice/confident-idiots-92793) - David Dunning 2017
+    * > In many cases, incompetence does not leave people disoriented, perplexed, or cautious. Instead, the incompetent are often blessed with an inappropriate confidence, buoyed by something that feels to them like knowledge.

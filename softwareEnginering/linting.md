@@ -89,6 +89,7 @@ Additional repo config
 
 * Create a [pyproject.toml](https://black.readthedocs.io/en/stable/pyproject_toml.html#configuration-format)
 * Create a [.pre-commit-config.yaml](https://pre-commit.com/#2-add-a-pre-commit-configuration) (`rev: stable`)
+    * Read more about [pre-commit.com](https://pre-commit.com/) [hooks](https://pre-commit.com/hooks.html)
 
 
 Local pre-commit hooks
@@ -135,6 +136,13 @@ Both would use similar setup methods:
 2. Setup some kind of pre-commit hook to check them
 3. Setup CI to reject/fail commits that break the rules
 You could start by having `.pylintrc` file that has _no-rules_ and begin to setup pre-commit/ci without disrupting current development. Then slowly we can add rules incrementally.
+
+
+### Other pre commit hooks
+
+* [vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code 
+* Code coverage greater than previous
+
 
 
 References
