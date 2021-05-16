@@ -186,6 +186,7 @@ It is not effective or required that every task is paired on.
 * https://martinfowler.com/articles/on-pair-programming.html
 * https://wiki.c2.com/?PairProgrammingEconomics
 * https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_21
+* [The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
 
 ## Further Reading
 

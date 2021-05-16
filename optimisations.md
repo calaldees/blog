@@ -74,6 +74,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * You must continually foster a comity/network
     * Custom print/make gifts/experiences for friends
         * Don't wait for birthdays/christmases. If you see something they would like, do it
+    * You can't effectively care for others if you cant care for yourself
 * Personal Equipment
     * Daily Equipment
         * Pockets (Never leave the house without these in place)
@@ -137,11 +138,12 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Stop being angry at the world - [Your Addiction to Outrage is Ruining Your Life: The anger feels so good, but it’s insidious](https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca)
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
-        * Don't use the phrase 'Im to busy', use the phrase 'I have other priorities'
+        * Don't use the phrase 'Im to busy', use the phrase 'I have other priorities right now'
         * More efficient tools/products/automation raise standards - everyone now works to a higher standard
     * Discipline gets shit done
         * Have a routine. Leaving things to 'when you feel in the mood' will not make progress
         * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
+        * Setup routines that have social consequences if you miss them (e.g. your move likely to be up at 8:30 sunday morning if your going to picked up my a friend to play tennis)
     * Remember that you are dying
     * Your parents are not you
         * Their judgements should not affect your life
@@ -177,6 +179,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
     * Understand the things you can change, things you cant change and the wisdom to know the difference
     * "Everything seems impossible, until it's done" Nelson Mandela
+    * Passion can be manipulated and exploited
     * Focus on the future - Understanding 'why you are like you are' is less important than 'who you are'
         * [You Are Not ‘Behind’](https://zackkanter.com/2016/01/13/you-are-not-behind/)
 
