@@ -300,6 +300,7 @@ Making of Mark2
 
 ![Wheel pedal mounted complete](./IMG_20210123_123948_9.jpg)
 
+![Controls complete](IMG_20210407_132626_5.jpg)
 
 Required Tools
 --------------
