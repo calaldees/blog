@@ -24,9 +24,14 @@ One main unit + top unit =
 |170|74(cut to 61 for top)| * 2
 
 ![floor1](plyFloorCut1.jpg)
+
 ![floor2](plyFloorCut2.jpg)
+
 ![shelves2](plyShelves2.jpg)
+
 ![shelves1](plyShelves1.jpg)
+
+![shelvesOld](retro_shelfs.jpg)
 
 
 Ver 2: suggestion

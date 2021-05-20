@@ -302,6 +302,11 @@ Making of Mark2
 
 ![Controls complete](IMG_20210407_132626_5.jpg)
 
+![Joystick 1 - joystick angle was wrong](IMG_20210424_141947_7x.jpg)
+
+![Joystick 2](IMG_20210518_200348_8x.jpg)
+
+
 Required Tools
 --------------
 
