@@ -208,10 +208,12 @@ Other Links/References
     * Attempt a deliberate rubbish first draft
 * [Crazy New Ideas](http://paulgraham.com/newideas.html)
     * Look for domain experts challenging the status quo
+* [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
 
 ### other mental models
  learned helplessness
 * [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - loads of great nuggets of truth
+* [31 Laws of Fun](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun) by Eliezer Yudkowsky - Truths about Utopias
 * Terminology
     * Run "thought experiments" through to conclusions
     * "systemic issues"
