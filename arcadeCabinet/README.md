@@ -712,3 +712,18 @@ cd opentyrian
 makepkg -si
 # s320 && opentyrian
 ```
+
+```bash
+git clone https://aur.archlinux.org/commander-genius-git.git
+cd commander-genius.git
+makepkg -si
+```
+
+### Hardware
+
+Single thread performance for MAME
+https://www.cpubenchmark.net/singleThread.html
+
+AMD FX-6300 Six-Core
+Single Thread Score 1482
+Some stuttering on Sega System 18 (Moonwalker) - No 3D games run - Outrunners not playable

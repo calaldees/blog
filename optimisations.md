@@ -182,6 +182,9 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Passion can be manipulated and exploited
     * Focus on the future - Understanding 'why you are like you are' is less important than 'who you are'
         * [You Are Not ‘Behind’](https://zackkanter.com/2016/01/13/you-are-not-behind/)
+    * > Do what you love and you’ll (-never-work-a-day-in-your-life-) work super fucking hard all the time with no separation or any boundaries and also take everything extremely personally
+
+        * [The Modern Trap of Turning Hobbies Into Hustles](https://repeller.com/trap-of-turning-hobbies-into-hustles/)
 
 Other Links/References
 ======================
