@@ -22,3 +22,8 @@ We now have better technology, higher quality content, that is immediately searc
 
 We can't go back in time. Progress if progress. Could we take some themes and techniques from these older ways and apply them thoughtfully to the modern world? Or is that like trying to apply a square peg to a round hole?
 
+
+Another perspective
+-------------------
+
+From a systems point of view. Have I just described _scarcity_? Scarcity raises it's value?

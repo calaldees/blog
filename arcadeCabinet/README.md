@@ -14,7 +14,7 @@ The _Mark1_ (History)
 * Painted with gloss and roller (looked awefull)
 * Cut in half in 2011 to assist with mobility
 
-![7](./IMG_9334.jpg)
+![7](./images/IMG_9334.jpg)
 
 ### Use
 
@@ -45,58 +45,58 @@ Proof of concept: Would an arcade cabinet be used? The answer was YES! YES! and 
 ### Photos
 
 #### 2005: The making of
-![Cutting the cabinet sides](./DVC00006.JPG)
+![Cutting the cabinet sides](./images/DVC00006.JPG)
 
-![Drilling the sides together](./DVC00009.JPG)
+![Drilling the sides together](./images/DVC00009.JPG)
 
-![Cabinet skeleton with arms for joystick](./DVC00002.JPG)
+![Cabinet skeleton with arms for joystick](./images/DVC00002.JPG)
 
-![Cabnet skeleton angle 2](./DVC00010.JPG)
+![Cabnet skeleton angle 2](./images/DVC00010.JPG)
 
-![Screen, speakers and joystick mounted](./DVC00013.JPG)
+![Screen, speakers and joystick mounted](./images/DVC00013.JPG)
 
-![Screen cover - a masterpiece](./DVC00019.JPG)
+![Screen cover - a masterpiece](./images/DVC00019.JPG)
 
-![Screen cover 2](./DVC00030.JPG)
+![Screen cover 2](./images/DVC00030.JPG)
 
-![The finished mrk1](./DSCF0003.JPG)
+![The finished mrk1](./images/DSCF0003.JPG)
 
 #### 2019: The dismantling
-![The mrk1 before disassembly](./IMG_9237.jpg)
+![The mrk1 before disassembly](./images/IMG_9237.jpg)
 
-![2](./IMG_9249.jpg)
+![2](./images/IMG_9249.jpg)
 
-![3](./IMG_9252.jpg)
+![3](./images/IMG_9252.jpg)
 
-![4](./IMG_9293.jpg)
+![4](./images/IMG_9293.jpg)
 
-![5](./IMG_9295.jpg)
+![5](./images/IMG_9295.jpg)
 
-![6](./IMG_9304.jpg)
+![6](./images/IMG_9304.jpg)
 
-![8](./IMG_9344.jpg)
+![8](./images/IMG_9344.jpg)
 
-![9](./IMG_9351.jpg)
+![9](./images/IMG_9351.jpg)
 
-![10](./IMG_9366.jpg)
+![10](./images/IMG_9366.jpg)
 
-![11](./IMG_9369.jpg)
+![11](./images/IMG_9369.jpg)
 
-![12](./IMG_9370.jpg)
+![12](./images/IMG_9370.jpg)
 
-![13](./IMG_9371.jpg)
+![13](./images/IMG_9371.jpg)
 
-![14](./IMG_9372.jpg)
+![14](./images/IMG_9372.jpg)
 
-![15](./IMG_9373.jpg)
+![15](./images/IMG_9373.jpg)
 
-![16](./IMG_9374.jpg)
+![16](./images/IMG_9374.jpg)
 
-![17](./IMG_9375.jpg)
+![17](./images/IMG_9375.jpg)
 
-![18](./IMG_9377.jpg)
+![18](./images/IMG_9377.jpg)
 
-![19](./IMG_9379.jpg)
+![19](./images/IMG_9379.jpg)
 
 
 _The Mark2_
@@ -252,53 +252,53 @@ Components
 Making of Mark2
 ---------------
 
-![First 4 button joystick](./IMG_20200119_190404.jpg)
+![First 4 button joystick](./images/IMG_20200119_190404.jpg)
 
-![All 4 player modular controls](./IMG_20200212_204931.jpg)
+![All 4 player modular controls](./images/IMG_20200212_204931.jpg)
 
-![4 player controls and the center trackball](./DSC_0249.JPG)
+![4 player controls and the center trackball](./images/DSC_0249.JPG)
 
-![Controls, power, supergun, neo-geo-mvs, 2u rack pc](./IMG_20200425_151958.jpg)
+![Controls, power, supergun, neo-geo-mvs, 2u rack pc](./images/IMG_20200425_151958.jpg)
 
-![Supergun and jpac](./IMG_20200425_152023.jpg)
+![Supergun and jpac](./images/IMG_20200425_152023.jpg)
 
-![Wiring of joystick with neo-geo pad connector](./IMG_20200502_232922.jpg)
+![Wiring of joystick with neo-geo pad connector](./images/IMG_20200502_232922.jpg)
 
-![neo-geo pad connector detachable with duel lock](./IMG_20200502_233030.jpg)
+![neo-geo pad connector detachable with duel lock](./images/IMG_20200502_233030.jpg)
 
-![Profile of joystick](./IMG_20200502_233213.jpg)
+![Profile of joystick](./images/IMG_20200502_233213.jpg)
 
-![wiring of trackball](./IMG_20200502_232941.jpg)
+![wiring of trackball](./images/IMG_20200502_232941.jpg)
 
-![Wiring of no-solder neo-geo pad connector](./IMG_20200503_154458.jpg)
+![Wiring of no-solder neo-geo pad connector](./images/IMG_20200503_154458.jpg)
 
-![Standard table with controlers and electronics](./IMG_20200508_142053.jpg)
+![Standard table with controlers and electronics](./images/IMG_20200508_142053.jpg)
 
-![Profile of controlers on tabel](./IMG_20200508_142317.jpg)
+![Profile of controlers on tabel](./images/IMG_20200508_142317.jpg)
 
-![Table, controlers and first CRT screen](./IMG_20200509_200220.jpg)
+![Table, controlers and first CRT screen](./images/IMG_20200509_200220.jpg)
 
-![2u base](./IMG_20210102_135640_1.jpg)
+![2u base](./images/IMG_20210102_135640_1.jpg)
 
-![Working CRT and 2u base with real nego-geo-mvs](./IMG_20200510_142519.jpg)
+![Working CRT and 2u base with real nego-geo-mvs](./images/IMG_20200510_142519.jpg)
 
-![Working CRT2 with jamma camp and running from emulated pc](./IMG_20200906_183051_4.jpg)
+![Working CRT2 with jamma camp and running from emulated pc](./images/IMG_20200906_183051_4.jpg)
 
-![Modular steering wheel 1](./IMG_20210102_195651_9.jpg)
+![Modular steering wheel 1](./images/IMG_20210102_195651_9.jpg)
 
-![Modular steering wheel 2](./IMG_20210102_195623_7.jpg)
+![Modular steering wheel 2](./images/IMG_20210102_195623_7.jpg)
 
-![New 4u Base and steering wheel](./IMG_20210102_200309_3.jpg)
+![New 4u Base and steering wheel](./images/IMG_20210102_200309_3.jpg)
 
-![Wheel electronics](./IMG_20210121_174658_0b.jpg)
+![Wheel electronics](./images/IMG_20210121_174658_0b.jpg)
 
-![Wheel electronics usb interface](./IMG_20210121_174712_9b.jpg)
+![Wheel electronics usb interface](./images/IMG_20210121_174712_9b.jpg)
 
-![Wheel pedal interface](./IMG_20210121_174737_4b.jpg)
+![Wheel pedal interface](./images/IMG_20210121_174737_4b.jpg)
 
-![Wheel pedal mounted](./IMG_20210123_123937_7.jpg)
+![Wheel pedal mounted](./images/IMG_20210123_123937_7.jpg)
 
-![Wheel pedal mounted complete](./IMG_20210123_123948_9.jpg)
+![Wheel pedal mounted complete](./images/IMG_20210123_123948_9.jpg)
 
 ![Controls complete](IMG_20210407_132626_5.jpg)
 
@@ -360,9 +360,9 @@ I mapped the follow pins differently with my own DB15 pass-through
 ```
 They are clumsy and an extra layer of faffing about, but they do work.
 
-![button remap db15 cable 1](./IMG_20210215_181254_0.jpg)
+![button remap db15 cable 1](./images/IMG_20210215_181254_0.jpg)
 
-![button remap db15 cable 1](./IMG_20210215_181312_1.jpg)
+![button remap db15 cable 1](./images/IMG_20210215_181312_1.jpg)
 
 ### JPAC - Players 1 and 2
 
@@ -387,9 +387,9 @@ Wire kick harness for buttons 5 + 6 to supergun DB9 (see supergun pinout documen
 
 MAME defaults for Player3/Player4 + extra button 4
 
-![1](./MacIPAC_1.png)
+![1](./images/MacIPAC_1.png)
 
-![2](./MacIPAC_2.png)
+![2](./images/MacIPAC_2.png)
 
 
 MAME Controller Mapping
@@ -470,7 +470,7 @@ Steering Wheel
         * z-axis = break 5v
         * button 1 = gear low/high
         * button 2 = (button on shifter) [for ChaseHQ turbo]
-    * ![U_Config screenshot of U-HID Nano](./U_Config.gif)
+    * ![U_Config screenshot of U-HID Nano](./images/U_Config.gif)
     * [UConfig_wheel.xml](./UConfig_wheel.xml)
 * MAME Config
     * [Shifter Toggle Disable](https://docs.mamedev.org/advanced/shiftertoggle.html)
@@ -658,7 +658,7 @@ function rr {
 }
 
 # https://arachnoid.com/modelines/
-function s320 {
+function s320x200 {
     xrandr --delmode VGA-0 "320x200x60.00"
     xrandr --rmmode VGA-0 "320x200x60.00"
 
@@ -669,6 +669,17 @@ function s320 {
     xrandr --addmode VGA-0 "320x200x60.00"
 
     xrandr --output VGA-0 --mode "320x200x60.00"
+}
+function s320x240 {
+
+}
+
+function aru-install {
+    # https://aur.archlinux.org/
+    # cd ~/apps/?
+    git clone https://aur.archlinux.org/${1}.git
+    cd ${1}.git
+    makepkg -si
 }
 ```
 
@@ -713,10 +724,15 @@ makepkg -si
 # s320 && opentyrian
 ```
 
+
 ```bash
-git clone https://aur.archlinux.org/commander-genius-git.git
-cd commander-genius.git
-makepkg -si
+
+aru-install 
+
+dosbox-x
+flycast-git
+commander-genius-git
+opentyrian
 ```
 
 ### Hardware
@@ -727,3 +743,5 @@ https://www.cpubenchmark.net/singleThread.html
 AMD FX-6300 Six-Core
 Single Thread Score 1482
 Some stuttering on Sega System 18 (Moonwalker) - No 3D games run - Outrunners not playable
+
+Search for "MAME Benchmarks" for more guidence
