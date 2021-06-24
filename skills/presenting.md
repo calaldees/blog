@@ -6,11 +6,12 @@ TODO
 * Wingman/CoPilot for presenting
 * Outlawed words
   1. "umm" or "errr"
-    * Annicdote: Told the CEO 213 ums + 42 ums = 255 ums
+    * Anecdotes: Told the CEO 213 ums + 42 ums = 255 ums
     * Strategy: Practice a talk to someone and ask them to bang the table every time you do this.
   2. "Basically", "So", "Ok", "Just" ...
     * or any other superfluous word
     * You are on a word budget. Ration your words!
+    * "All you have to do" or "Simply" should be banned. These trivialise a subject.
 * Keep to time
 * Projection Tech
     * Raise font size (ctrl+=)
@@ -26,7 +27,7 @@ TODO
 * Technique: Learn to project your voice
   * You can't speak normally. This is a different setting!
 * Behaviour and crowd control
-  * Don't start until you have everyones attention
+  * Don't start until you have everyone's attention
     * Stick to your guns
     * Stop talking when they loose focus - they will look back at you to find out why you've paused and they will probably find you silently making eye contact back at them. This shows you know and are aware.
   * To bring people back with no-verbal queues

@@ -23,15 +23,15 @@ One main unit + top unit =
 |81|81|81| * 3 (main shelves)
 |170|74(cut to 61 for top)| * 2
 
-![floor1](plyFloorCut1.jpg)
+![floor1](images/plyFloorCut1.jpg)
 
-![floor2](plyFloorCut2.jpg)
+![floor2](images/plyFloorCut2.jpg)
 
-![shelves2](plyShelves2.jpg)
+![shelves2](images/plyShelves2.jpg)
 
-![shelves1](plyShelves1.jpg)
+![shelves1](images/plyShelves1.jpg)
 
-![shelvesOld](retro_shelfs.jpg)
+![shelvesOld](images/retro_shelfs.jpg)
 
 
 Ver 2: suggestion

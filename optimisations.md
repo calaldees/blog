@@ -229,3 +229,4 @@ Other Links/References
     * > In many cases, incompetence does not leave people disoriented, perplexed, or cautious. Instead, the incompetent are often blessed with an inappropriate confidence, buoyed by something that feels to them like knowledge.
 * [How To Win At Risk By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
     * Systems Thinking gives you an advantage in almost every area of life - even the game of Risk. 
+* [The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)

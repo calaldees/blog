@@ -51,5 +51,15 @@ The party trick.
     * put the game away
 
 
-![1](./IMG_20200508_143758.jpg)
-![2](./IMG_20200508_143835.jpg)
+![1](./images/IMG_20200508_143758.jpg)
+![2](./images/IMG_20200508_143835.jpg)
+
+Measurements
+------------
+
+196(height)x48(depth)x52(front)
+
+48x48 shelf + 10cm clearance between each. Some need more (32x and gamecube)
+
+Small brace is used for the middle (TODO photos)
+
