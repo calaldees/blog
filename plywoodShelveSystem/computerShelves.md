@@ -12,6 +12,10 @@ amstrad cpc
 c64
 atari st
 amiga
+bbc
+
+handhelds?
+pc laptop?
 
 (5 * (9.68 + 1.8)) + (2 * 1.8) = 57.6
 
@@ -25,14 +29,16 @@ If I want to extend it vertically I can with another set of shelves the same dim
 2.44m * 1.22m * 18mm = £38 Natural Softwood Plyboard
 
 
-Width (61 + 2*1.8) = 64.6
-Height 61
-Depth 40 + (1.8 door + 0.2 gap) + (0.3 backboard) = 42.3
+Width 61 + (2*2) = 65
+Height 61 + (2*2) = 65
+Depth 42 + (1.8 door + 0.2 gap) + (0.3 backboard) = 42.3
 
 61
-(40*3) + (32*2) + 59.x = 244 (bottom + 2 sides) + (2 doors) + (59.x backboard - bit small, but yolo)
+((42*2) + (61+2+2)*2 ) + 30   = 244 = (2 sides) + top/bottom (cut to 42 manually) + vertical-back-brace
 61
-|40x6| = 240 = 5 shelves + top (4cm cut and leftover)
+(40*6) = 240 = 6 shelves
 
 Will need some thin battering for the shelf runners
 
+Useable height = 61
+61/6 = 10.16 per shelf = 10.16 - 1.8 = 8.36 per shelf? is that enough?
