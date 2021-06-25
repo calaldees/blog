@@ -19,6 +19,8 @@ Shelves = 81cm * 18cm
 
 One main unit + top unit =
 
+14cm leftover
+6 rows of 18cm
 |81|81|81| * 1 (top shelves)
 |81|81|81| * 3 (main shelves)
 |170|74(cut to 61 for top)| * 2
