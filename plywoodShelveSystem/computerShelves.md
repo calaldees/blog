@@ -1,6 +1,12 @@
 Computer Shelves
 ================
 
+![frame 1](./images/IMG_20210625_195451_8.jpg)
+
+![frame 2](./images/IMG_20210625_195503_6.jpg)
+
+![some shelves](./images/IMG20210626221735.jpg)
+
 * [eBay retrocomputershack](https://www.ebay.co.uk/usr/retrocomputershack)
     * RGB cables for computers/consoles
 
