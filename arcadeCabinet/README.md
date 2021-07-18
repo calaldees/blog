@@ -651,6 +651,7 @@ nano ~/.asoundrc
 # so I need to set `pcm` to my sound output device `1` for dosbox/opentyrian and `0` usb-microphone for MAME WTF
 ```
 
+`~/.bashrc`
 ```bash
 # `640x480i` is already setup in GroovyArcade
 function rr { 
@@ -667,10 +668,16 @@ function s320x200 {
     # My tweaked modeline based on my B&O-MX7000 arachnoid.com/modelines/
     xrandr --newmode 6.639840 320 324 352 400 200 214 217 245 -HSync -Vsync
     xrandr --addmode VGA-0 "320x200x60.00"
-
     xrandr --output VGA-0 --mode "320x200x60.00"
 }
 function s320x240 {
+    xrandr --delmode VGA-0 "320x240x60.00"
+    xrandr --rmmode VGA-0 "320x240x60.00"
+
+    # My tweaked modeline based on my B&O-MX7000 arachnoid.com/modelines/
+    xrandr --newmode 6.639840 320 320 352 398 240 242 245 290 -HSync -Vsync
+    xrandr --addmode VGA-0 "320x240x60.00"
+    xrandr --output VGA-0 --mode "320x240x60.00"
 
 }
 
@@ -681,6 +688,15 @@ function aru-install {
     cd ${1}.git
     makepkg -si
 }
+```
+
+```bash
+aru-install 
+
+dosbox-x
+flycast-git
+commander-genius-git
+opentyrian
 ```
 
 ```bash
@@ -725,15 +741,7 @@ makepkg -si
 ```
 
 
-```bash
 
-aru-install 
-
-dosbox-x
-flycast-git
-commander-genius-git
-opentyrian
-```
 
 ### Hardware
 
@@ -745,3 +753,6 @@ Single Thread Score 1482
 Some stuttering on Sega System 18 (Moonwalker) - No 3D games run - Outrunners not playable
 
 Search for "MAME Benchmarks" for more guidence
+
+
+chromium 

@@ -49,3 +49,11 @@ Useable height = 61
 The overhang from the 65cm can be cut for shelve runners
 
 Not a cm of the ply sheet is wasted! - will need separate doors though
+
+### SCART
+
+All computers connect via standard SCART RGB with cables from https://www.retrocomputershack.com/
+
+SCART Coupler for each shelf
+
+IEC power to UK Plug for each shelf
