@@ -2,7 +2,8 @@
 
 # curl https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/gasetup.sh -O && chmod 755 gasetup.sh && ./gasetup.sh
 
-sudo pacman -Sy \
+# --noconfirm 
+sudo pacman --sync --refresh --clean --sysupgrade \
     base-devel \
     chromium \
     docker \
