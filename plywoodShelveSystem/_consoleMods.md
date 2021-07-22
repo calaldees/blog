@@ -18,4 +18,10 @@ Megadrive - Repair
 Master System - repair audio
 Street Fighter ALpha 3 - repair audio
 VirtualBoy - glitch right
+Spectrum (broken)
+
+* [The VB Glitchy Display Problem ](https://www.virtual-boy.com/forums/t/the-vb-glitchy-display-problem/)
+    * [Virtual boy Permanent Solder Screen Professional Repair Service ](https://www.virtual-boy.com/forums/t/virtual-boy-permanent-solder-screen-professional-repair-service/#replies) Nes Freak
+    * [Virtual Boy Permanent Solder Fix Repair Service! ](https://www.videogamesage.com/forums/topic/1541-~-virtual-boy-permanent-solder-fix-repair-service-~/)
+
 

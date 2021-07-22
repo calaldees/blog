@@ -151,8 +151,7 @@ Components
     * You can't get more authentic than this
 * Emulated system
     * Low spec x86 PC (chosen solution)
-        * 2.xGhz, 4GB RAM, 1TB Storage
-        * ATX Case (chearp 4u rack case)
+        * ATX Case (cheap 4u rack case)
         * [ATI Radeon HD 5450](https://www.ebay.co.uk/sch/i.html?_nkw=Radeon+HD+5450) - Modifiable for driving 15khz CRT display
             * [A guide to connecting your Windows PC to an SD CRT TV, PVM or Arcade Monitor](https://www.aussiearcade.com/forum/arcade/m-a-m-e-emulation-projects-and-discussion/89704-a-guide-to-connecting-your-windows-pc-to-an-sd-crt-tv-pvm-or-arcade-monitor?viewfull=1)
         * GroovyArcade [live-CD](https://github.com/substring/os/releases/)
@@ -556,6 +555,7 @@ https://github.com/alphanu1/switchres 2.0 (fork?)
 example use of switchres and mednafen
 https://github.com/substring/os/blob/2020.03/overlay/groovyarcade/home/arcade/.advance/advmenup.rc
 
+
 Repairs
 -------
 
@@ -602,6 +602,7 @@ Other references
         * https://www.retro-replay.games/ Norwick
         * https://www.arcadeclub.co.uk/ Bury, Leeds, Blackpool
 
+
 Unsorted Notes
 ==============
 
@@ -641,6 +642,8 @@ nano ~/.dosbox/dosbox???.conf
 
 # to extract mame .img files
 pacman -Sy p7zip
+# 7z x ~/Downloads/thing.zip -o~/dosbox/install
+
 sudo mount -o loop file.img /folder/mnt
 
 
@@ -688,16 +691,17 @@ function aru-install {
     cd ${1}.git
     makepkg -si
 }
+# Example use:
+# aru-install <name>
+# <name> could be
+#  dosbox-x
+#  flycast-git
+#  commander-genius-git
+#  opentyrian
+
 ```
 
-```bash
-aru-install 
 
-dosbox-x
-flycast-git
-commander-genius-git
-opentyrian
-```
 
 ```bash
 # Install dosbox-x
@@ -754,5 +758,3 @@ Some stuttering on Sega System 18 (Moonwalker) - No 3D games run - Outrunners no
 
 Search for "MAME Benchmarks" for more guidence
 
-
-chromium 
