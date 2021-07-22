@@ -2,8 +2,9 @@
 
 # curl https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/gasetup.sh -O && chmod 755 gasetup.sh && ./gasetup.sh
 
-# --noconfirm 
-sudo pacman --sync --refresh --clean --sysupgrade \
+# --noconfirm  does not work because pacman is rubbish and cant confirm 'all' for base-devel
+# --sysupgrade   # dont do this .. it breaks lxde
+sudo pacman --sync --refresh \
     base-devel \
     chromium \
     docker \
