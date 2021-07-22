@@ -520,7 +520,7 @@ Set GroovyArcade to boot to LXDE as a frontend. You need to be in an existing X-
 ```bash
     # Arch Linux Docker Tutorial
     # https://linuxhint.com/arch-linux-docker-tutorial/
-    su root
+    sudo su root
     pacman -Sy docker
     systemctl start docker.service
     systemctl enable docker.service
@@ -684,7 +684,7 @@ function s320x240 {
 
 }
 
-function aru-install {
+function aur-install {
     # https://aur.archlinux.org/
     # cd ~/apps/?
     git clone https://aur.archlinux.org/${1}.git
@@ -692,7 +692,7 @@ function aru-install {
     makepkg -si
 }
 # Example use:
-# aru-install <name>
+# aur-install <name>
 # <name> could be
 #  dosbox-x
 #  flycast-git
