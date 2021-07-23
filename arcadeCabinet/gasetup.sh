@@ -4,6 +4,9 @@
 
 set -e
 
+# if you get "archive currupt" message from pacman - you may have downloed html files for the first world mirror
+# reorder your /etc/pacman.d/mirrorlist file by cutting your own country mirror to the top of the file
+
 # --noconfirm  does not work because pacman is rubbish and cant confirm 'all' for base-devel
 # --sysupgrade   # dont do this .. it breaks lxde
 sudo pacman --sync --refresh \
@@ -66,11 +69,19 @@ function s320x240 {
 
 EOL
 
+# install controller config file
+PATH_MAME="$(find ~/ -d -iwholename *config*/mame/)" &&\
+curl "https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/allan4p.cfg.xml" -o ${PATH_MAME}/ctrlr/allan4p.cfg &&\
+sed -i .  's/crtlr.*/crtlr      allan4p/g' ${PATH_MAME}/mame.ini
+
+
 # docker
 
-sudo systemctl start docker.service
-sudo systemctl enable docker.service
-sudo gpasswd -a arcade docker
+# Sadly I cant jsut use sudo for these ...
+#sudo su root
+#   systemctl start docker.service
+#   systemctl enable docker.service
+#   gpasswd -a arcade docker
 
 
 
