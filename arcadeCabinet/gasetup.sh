@@ -2,6 +2,8 @@
 
 # curl https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/gasetup.sh -O && chmod 755 gasetup.sh && ./gasetup.sh
 
+set -e
+
 # --noconfirm  does not work because pacman is rubbish and cant confirm 'all' for base-devel
 # --sysupgrade   # dont do this .. it breaks lxde
 sudo pacman --sync --refresh \
@@ -16,7 +18,7 @@ sudo pacman --sync --refresh \
 && true
 
 
-cat >~/.bashrc <<EOL
+cat >>~/.bashrc <<EOL
 
 function rr { 
     xrandr --output VGA-0 --mode 640x480i
@@ -64,13 +66,21 @@ function s320x240 {
 
 EOL
 
+# docker
+
+sudo systemctl start docker.service
+sudo systemctl enable docker.service
+sudo gpasswd -a arcade docker
+
+
 
 # rhasspy-load-mame
 
-mkdir ~/code/
+mkdir -p ~/code/
 cd ~/code/
 git clone https://github.com/calaldees/rhasspy-load-mame.git
 cd rhasspy-load-mame
 make build
+
 pip install websockets
 
