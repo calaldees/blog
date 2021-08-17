@@ -164,6 +164,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Don't play zero sum games - look for solutions where every party gains
     * Humans act on 'Availability Heuristic'
     * No human is independent
+    * Negotiation is not collaboration
     * > Age is an issue of mind over matter. If you don’t mind, it doesn’t matter. 
         * Mark Twain
         * [PEOPLE OVER 40](https://twitter.com/Thayer/status/1256664757215600640)
@@ -177,6 +178,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * When rattled, ask yourself: How will I feel in 10min/10hours/10days/10months/10years
     * Be an active citizen - Report things
         * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
+        * [localplan.canterbury.gov.uk](https://localplan.canterbury.gov.uk/)
     * Understand the things you can change, things you cant change and the wisdom to know the difference
     * "Everything seems impossible, until it's done" Nelson Mandela
     * Passion can be manipulated and exploited
@@ -214,8 +216,29 @@ Other Links/References
 * [Crazy New Ideas](http://paulgraham.com/newideas.html)
     * Look for domain experts challenging the status quo
 * [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
+* [Don't Be Anti Car. Be Pro Something Else](https://www.eclogiselle.com/2021/07/the-hot-new-thing.html)
+    * Don't be absolutist. Suggest alternatives.
+* [Some career advice](https://lethain.com/career-advice/)
+    * “Advice is a form of nostalgia”
+    * You’re just getting started
+    * Don’t assume you’ll make this much money forever
+    * Decisions aren’t permanent
+    * Stay humble
+    * Be mindful of your risk tolerance
+    * Learn what you can learn everywhere you go, but don’t stay where you aren’t valued
+    * Build a reservoir of prestige
+    * Be discoverable
+    * Don’t stay comfortable for too long
+    * People, not jobs, last forever
+    * Write your own career narrative
+* [The Most Precious Resource is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
+    * > In my examples the individuals were all _doing_ from a young age, as opposed to merely _schooling_. And while they may not have wanted to work, the work was nonetheless something that both they and society felt was useful: something purposeful and appreciated. In a sense they had useful childhoods.
+    * > Do children today have useful childhoods?
+    * > We should be thinking much harder about making sure children can make meaningful contributions to the world.
+    * > Seizing opportunity requires opportunity to exist at all. And I suspect the downplaying of agency in childhood not only creates fewer opportunities for great people, it must also create more marginal people. 
 
 ### other mental models
+* [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
  learned helplessness
 * [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html) - loads of great nuggets of truth
 * [31 Laws of Fun](https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun) by Eliezer Yudkowsky - Truths about Utopias
@@ -227,6 +250,8 @@ Other Links/References
     * When estimating time - normally double it - if it's code - quad it
 * [We Are All Confident Idiots](https://psmag.com/social-justice/confident-idiots-92793) - David Dunning 2017
     * > In many cases, incompetence does not leave people disoriented, perplexed, or cautious. Instead, the incompetent are often blessed with an inappropriate confidence, buoyed by something that feels to them like knowledge.
-* [How To Win At Risk By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
+* [How To Win At "Risk" By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
     * Systems Thinking gives you an advantage in almost every area of life - even the game of Risk. 
 * [The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)
+* [Historical language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
+    * > Can entire societies become more or less depressed over time? Here, we look for the historical traces of cognitive distortions, thinking patterns that are strongly associated with internalizing disorders such as depression and anxiety, in millions of books published over the course of the last two centuries in English, Spanish, and German. We find a pronounced “hockey stick” pattern: Over the past two decades the textual analogs of cognitive distortions surged well above historical levels, including those of World War I and II, after declining or stabilizing for most of the 20th century. Our results point to the possibility that recent socioeconomic changes, new technology, and social media are associated with a surge of cognitive distortions.

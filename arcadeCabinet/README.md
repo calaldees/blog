@@ -113,6 +113,9 @@ Goals
     * Facilitate
         * the use real JAMMA Arcade Boards
         * and an Emulated machine
+    * Side Note: the JVS standard supersceeded JAMMA but is a bit more complicated
+        * [Exploring JVS](http://www.mistys-internet.website/blog/blog/2021/08/14/exploring-jvs/)
+            * Raspberry PI can be used as an interface board
 * 4 Players
     * More players == more social
 * Spinners + trackball + steering wheel
@@ -299,12 +302,13 @@ Making of Mark2
 
 ![Wheel pedal mounted complete](./images/IMG_20210123_123948_9.jpg)
 
-![Controls complete](IMG_20210407_132626_5.jpg)
+![Controls complete](./images/IMG_20210407_132626_5.jpg)
 
-![Joystick 1 - joystick angle was wrong](IMG_20210424_141947_7x.jpg)
+![Joystick 1 - joystick angle was wrong](./images/IMG_20210424_141947_7x.jpg)
 
-![Joystick 2](IMG_20210518_200348_8x.jpg)
+![Joystick 2](./images/IMG_20210518_200348_8x.jpg)
 
+![One Must Fall - PCDOS](./images/IMG_20210521_200205_4.jpg)
 
 Required Tools
 --------------
@@ -406,15 +410,17 @@ MAME Controller Mapping
 
 ```bash
     # install controller config file
-    PATH_MAME="$(find ~/ -d -iwholename *config*/mame/)" &&\
+    PATH_MAME="$(find ~/ -iwholename *config*/mame)" &&\
     curl "https://raw.githubusercontent.com/calaldees/blog/master/arcadeCabinet/allan4p.cfg.xml" -o ${PATH_MAME}/ctrlr/allan4p.cfg &&\
-    sed -i .  's/crtlr.*/crtlr      allan4p/g' ${PATH_MAME}/mame.ini
+    sed -i .  's/crtlr\s.*/crtlr      allan4p/g' ${PATH_MAME}/mame.ini
+
+    # TODO - check that c
 
     # TODO
     # joystick_deadzone         0.03
     # joystick_saturation       0.95
-    # rotate                    0
     # mouse                     1
+    # multimouse                1
 
     # syncrefresh?
 ```
