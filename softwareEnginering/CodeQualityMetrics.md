@@ -60,6 +60,7 @@ We could include
     * Time for ticket from in-progress/sprint to live
 * Bug backlog (cumulative size of all outstanding bugs)
     * Bug weight (see separate document for 'triage of bugs' and assigning business weight)
+        * The criteria could be attached in the form of metadata on tickets for accurate recalculation
 * Monitoring
     * Service outage time (%uptime over 3 months?)
     * errors in live (relative to request?)

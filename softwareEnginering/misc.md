@@ -138,6 +138,9 @@ https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 Unsorted
 ========
 
+* [High-Performance-Organizations-Reading-List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
+  Amazing tech book summaries!!
+
 Teams are like mini starups
 long term goal
 cross disaplin cross functional
