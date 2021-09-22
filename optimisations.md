@@ -54,6 +54,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * These detract from genuine human interactions, trivialize other people
         * Social media content is often of poor quality, vapid, low end bellendry. These are distractions
         * (social media use a professional tool this is useful for networking/outreach in moderation)
+        * [20 Reasons To Quit Social Media](https://durmonski.com/life-advice/reasons-to-quit-social-media/)
     * Your social circle should push/correct/inspire/grow
         * Cultivate your friends - support each other in growing
         * Identify toxicity, don't be afraid to challenge
@@ -101,7 +102,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Have a laptop - be productive anywhere
         * Don't have a desktop computer
             * You need to be free to communicate and be productive anywhere
-        * No smart phone
+        * No smart phone (see no social media)
             * I have a simple phone to functionally text and meet people, or for emergencies
             * I control my mental space
             * I can't consume and digest effectively meaningful media on a phone
@@ -134,7 +135,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Travelling is easier
         * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
 * Attitudes and Ethos
-    * Understand what is inside and outside of your sphere of influence
+    * Understand the things you can change, things you cant change and the wisdom to know the difference
     * Stop being angry at the world - [Your Addiction to Outrage is Ruining Your Life: The anger feels so good, but it’s insidious](https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca)
     * You will never have enough time
         * It will always be full, the question is, what do you prioritize
@@ -179,14 +180,14 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Be an active citizen - Report things
         * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
         * [localplan.canterbury.gov.uk](https://localplan.canterbury.gov.uk/)
-    * Understand the things you can change, things you cant change and the wisdom to know the difference
+    * [Stop Reading News](https://fs.blog/2013/12/stop-reading-news/) - it is not reality
     * "Everything seems impossible, until it's done" Nelson Mandela
     * Passion can be manipulated and exploited
     * Focus on the future - Understanding 'why you are like you are' is less important than 'who you are'
         * [You Are Not ‘Behind’](https://zackkanter.com/2016/01/13/you-are-not-behind/)
     * > Do what you love and you’ll (-never-work-a-day-in-your-life-) work super fucking hard all the time with no separation or any boundaries and also take everything extremely personally
         * [The Modern Trap of Turning Hobbies Into Hustles](https://repeller.com/trap-of-turning-hobbies-into-hustles/)
-    * If you had infinate free time, what would you do? ... If you lived a life of leisure?
+    * If you had infinite free time, what would you do? ... If you lived a life of leisure?
         * > well my flatmate is quite bored most of the time ironically 
           > the problem is that you may be free... but nobody else is. and life is about people
 
@@ -231,6 +232,8 @@ Other Links/References
     * Don’t stay comfortable for too long
     * People, not jobs, last forever
     * Write your own career narrative
+* [Work-life balance: A perspective from one of the finest sportsmen](https://wyounas.com/2021/08/work-life-balance-a-perspective-from-one-of-the-finest-sportsmen/)
+    * > Family lasts, jobs do not. Family is genuine, the office can be pretentious. Family is there when you need people at your side, but your company and your managers may not be there when you need someone.
 * [The Most Precious Resource is Agency](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency)
     * > In my examples the individuals were all _doing_ from a young age, as opposed to merely _schooling_. And while they may not have wanted to work, the work was nonetheless something that both they and society felt was useful: something purposeful and appreciated. In a sense they had useful childhoods.
     * > Do children today have useful childhoods?
@@ -255,5 +258,3 @@ Other Links/References
 * [The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)
 * [Historical language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
     * > Can entire societies become more or less depressed over time? Here, we look for the historical traces of cognitive distortions, thinking patterns that are strongly associated with internalizing disorders such as depression and anxiety, in millions of books published over the course of the last two centuries in English, Spanish, and German. We find a pronounced “hockey stick” pattern: Over the past two decades the textual analogs of cognitive distortions surged well above historical levels, including those of World War I and II, after declining or stabilizing for most of the 20th century. Our results point to the possibility that recent socioeconomic changes, new technology, and social media are associated with a surge of cognitive distortions.
-* [Work-life balance: A perspective from one of the finest sportsmen](https://wyounas.com/2021/08/work-life-balance-a-perspective-from-one-of-the-finest-sportsmen/)
-    * > Family lasts, jobs do not. Family is genuine, the office can be pretentious. Family is there when you need people at your side, but your company and your managers may not be there when you need someone.

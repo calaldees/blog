@@ -111,3 +111,6 @@ Other References
 * Visulisation of code [nDepend](https://blog.ndepend.com/mythical-man-month-10-lines-per-developer-day/)
 * [Don’t (guess)timate your projects, forecast with confidence](https://www.reaktor.com/blog/forecasting-method/)
 * [Measure team performance with a sprint score](http://agilebatman.com/2020/06/measure-team-performance-with-a-sprint-score/)
+
+* [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+    * > When a measure becomes a target, it ceases to be a good measure.[4]
