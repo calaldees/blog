@@ -190,6 +190,11 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * If you had infinite free time, what would you do? ... If you lived a life of leisure?
         * > well my flatmate is quite bored most of the time ironically 
           > the problem is that you may be free... but nobody else is. and life is about people
+    * [Why Curiosity Is Better Than Being Smart?](https://durmonski.com/life-advice/curiosity-is-better-than-being-smart/)
+        * ```mermaid
+            graph LR
+                Curiosity --> Smartness --> Curiosity
+            ```
 
 Other Links/References
 ======================

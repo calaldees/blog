@@ -12,6 +12,7 @@ TODO
     * or any other superfluous word
     * You are on a word budget. Ration your words!
     * "All you have to do" or "Simply" should be banned. These trivialise a subject.
+    * Stop asking of things are "ok" cons. Deliberate request for a response and pause sufficiently if needed.
 * Keep to time
 * Projection Tech
     * Raise font size (ctrl+=)
