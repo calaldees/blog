@@ -23,3 +23,10 @@ What is interesting is that the students that fall victim to this social gap are
 
 
 https://www.gov.uk/government/publications/early-years-foundation-stage-framework--2
+
+Feynman
+• If you're wrong, admit it.
+• If you're confused, ask questions.
+• If you're stuck, seek for help.
+• If you make mistake, learn from it.
+• If you learn something, teach others.
