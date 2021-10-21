@@ -12,10 +12,10 @@ Many platform games used `up` as a jump mechanic
 Turrican
 Rainbow islands
 
-Up as jump is an awful control pattern
+Up as jump is an awful control pattern. When walking left and right you randomly jump. Randomly taking corners in driving games flicks up and down gears. The time to recover to perform the up/down operation again is significant
 
 Other games like 
-Lotus 3 0 use up down for gears
+Lotus 3 use up down for gears
 Supercars 2 use up down for weapons
 
 Up and Down need to discreet buttons separate from left and right
@@ -27,6 +27,7 @@ It is possible with discreet buttons to switch between left and right quicker
 
 Sadly many Amiga games simply do not allow the configuration of keyboard keys and _require a joystick_
 
+
 Solution
 --------
 
@@ -35,13 +36,13 @@ Custom arcade button controller that replaces single button 9pin joystick
 ![Plywood markings](./images/IMG_20211019_192852_4.jpg)
 
 Buttons 3cm? diameter
-13.5cm by 13cm
+13.5cm by 13.5cm
 
 ```python
->>> math.asin(2/13) * (180/math.pi)
-8.849883098429038
+>>> math.asin((5-3)/13.5) * (180/math.pi)
+8.519624254143045
 ```
 10deg will do
 
 cuts
-2cm / 5cm | 13.5cm
+3cm /(8.5deg)/ 5cm | 13.5cm
