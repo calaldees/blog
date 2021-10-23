@@ -33,12 +33,12 @@ Solution
 
 Custom arcade button controller that replaces single button 9pin joystick
 
-![Plywood markings](./images/IMG_20211019_192852_4.jpg)
 
 Buttons 3cm? diameter
 13.5cm by 13.5cm
 
 ```python
+>>> import math
 >>> math.asin((5-3)/13.5) * (180/math.pi)
 8.519624254143045
 ```
@@ -46,3 +46,17 @@ Buttons 3cm? diameter
 
 cuts
 3cm /(8.5deg)/ 5cm | 13.5cm
+
+Construction
+------------
+
+![Plywood markings on old ply](./images/IMG_20211019_192852_4.jpg)
+
+![Frame and holes - old ply disintegrated](./images/IMG_20211023_194114_9b.jpg)
+
+![inserting the buttons](./images/IMG_20211023_194137_3b.jpg)
+
+![underside of buttons before electrics](./images/IMG_20211023_201349_0b.jpg)
+
+![2 controllers with buttons](./images/IMG_20211023_201313_1b.jpg)
+
