@@ -211,6 +211,13 @@ Making of Mark2
 
 ![One Must Fall - PCDOS](./images/IMG_20210521_200205_4.jpg)
 
+![Bishi Bashi Controllers](./images/IMG_20211024_213023_9b.jpg)
+
+![Bishi Bashi Controller closeup](./images/IMG_20211024_213057_0b.jpg)
+
+![Bishi Bashi Controller wiring](./images/IMG_20211024_213708_0b.jpg)
+
+
 Required Tools
 --------------
 
@@ -406,6 +413,12 @@ The _RetroElectronik Supergun_ has a DB9 connector for kick harness. The pinout 
 * [CPS1, CPS2 & CPS3 Connectors](https://wiki.arcadeotaku.com/w/CPS1,_CPS2_%26_CPS3_Connectors)
     * [DB9 Supergun to Arcade CPS2 and CPS3 Kick Harness Cable](https://picclick.co.uk/DB9-Supergun-to-Arcade-CPS2-and-CPS3-Kick-193024026197.html)
     * [Kick harness CPS2/CPS3 Supergun SmallCab](https://www.smallcab.net/kick-harness-cps2cps3-supergun-smallcab-p-809.html)
+
+
+Bishi Bashi Controllers
+-----------------------
+
+
 
 
 Voice Activation UI
