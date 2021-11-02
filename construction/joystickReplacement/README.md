@@ -60,3 +60,10 @@ Construction
 
 ![2 controllers with buttons](./images/IMG_20211023_201313_1b.jpg)
 
+![Wired into DB9 with extender](./images/IMG_20211026_221310_6b.jpg)
+
+![Wiring of DB9 (solderer-less)](./images/IMG_20211026_221345_5b.jpg)
+
+![Finished controller 1](./images/IMG_20211026_221425_3b.jpg)
+
+![Finished controllers](./images/IMG_20211102_214358_6b.jpg)

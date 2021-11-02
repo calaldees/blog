@@ -302,6 +302,9 @@ MAME defaults for Player3/Player4 + extra button 4
 
 ![2](./images/MacIPAC_2.png)
 
+#### Default 'Player 3 + Player 1' button incompatibility
+
+Mame has a default keys for P1-button2?=ALT and P3-button3?=ENTER. This toggles fullscreen. To fix this unbind/delete the "Mame UI" control for this. This is not an operating system thing, this is a mame thing.
 
 MAME Controller Mapping
 -----------------------
