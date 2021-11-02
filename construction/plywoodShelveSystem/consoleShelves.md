@@ -51,8 +51,17 @@ The party trick.
     * put the game away
 
 
-![1](./images/IMG_20200508_143758.jpg)
-![2](./images/IMG_20200508_143835.jpg)
+![NES Front](./images/IMG_20200508_143758.jpg)
+
+![NES Back](./images/IMG_20200508_143835.jpg)
+
+![Closed cabinet](images/IMG_20211102_221221_7b.jpg)
+
+![Open cabinet](images/IMG_20211102_221239_6b.jpg)
+
+![Consoles 1](images/IMG_20211102_221302_6b.jpg)
+
+![Consoles 2](images/IMG_20211102_221316_3b.jpg)
 
 Measurements
 ------------

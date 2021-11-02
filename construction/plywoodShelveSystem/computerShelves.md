@@ -7,6 +7,22 @@ Computer Shelves
 
 ![some shelves](./images/IMG20210626221735.jpg)
 
+![Computers 1](images/IMG_20211102_221038_5b.jpg)
+
+![Computers 2](images/IMG_20211102_221157_9b.jpg)
+
+![Computers Out](images/IMG_20211102_221135_7b.jpg)
+
+![Final shelves with door](images/IMG_20211102_223314_5b.jpg)
+
+![Spectrum with scart and power](images/IMG_20211102_223413_8b.jpg)
+
+![Amiga with scart and power](images/IMG_20211102_223509_0b.jpg)
+
+
+
+
+
 * [eBay retrocomputershack](https://www.ebay.co.uk/usr/retrocomputershack)
     * RGB cables for computers/consoles
 

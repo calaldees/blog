@@ -35,6 +35,7 @@ One main unit + top unit =
 
 ![shelvesOld](images/retro_shelfs.jpg)
 
+![shelvesNew](images/IMG_20211102_220933_4b.jpg)
 
 Ver 2: suggestion
 -----------------
