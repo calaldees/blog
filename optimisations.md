@@ -195,6 +195,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
             graph LR
                 Curiosity --> Smartness --> Curiosity
             ```
+    * If your goal is success, you will never achieve it, because you will keep redefining it
 
 Other Links/References
 ======================
@@ -263,3 +264,6 @@ Other Links/References
 * [The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)
 * [Historical language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
     * > Can entire societies become more or less depressed over time? Here, we look for the historical traces of cognitive distortions, thinking patterns that are strongly associated with internalizing disorders such as depression and anxiety, in millions of books published over the course of the last two centuries in English, Spanish, and German. We find a pronounced “hockey stick” pattern: Over the past two decades the textual analogs of cognitive distortions surged well above historical levels, including those of World War I and II, after declining or stabilizing for most of the 20th century. Our results point to the possibility that recent socioeconomic changes, new technology, and social media are associated with a surge of cognitive distortions.
+* [The Burnout Society by Byung-Chul Han](https://apposition.substack.com/p/the-burnout-society)
+    * A philosophical look at modern society and it's pressures
+    * (this does not really belong on this page, I need to find a new way of categorising this stuff)

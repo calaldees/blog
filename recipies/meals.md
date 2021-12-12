@@ -110,7 +110,7 @@ https://www.bbcgoodfood.com/recipes/sweet-potato-coconut-curry
 
 Chickpea Curry
 --------------
-Mels recipe
+Mel's recipe
 
 * Spices
     * 1 tablespoon garam masala
@@ -165,13 +165,13 @@ From Mary Berry Everyday
 * Ingredients
     * 2 rashers of bacon
     * 1 small onion
-    * 500g potatos (peeled)
-    * 2 eggs (fryed)
+    * 500g potatoes (peeled)
+    * 2 eggs (fried)
     * Salt + pepper
 * Method
     * Dice bacon + fry
     * Onion sweat for 15min
-    * Grate potatos and ring out all water (with kitchen roll)
+    * Grate potatoes and ring out all water (with kitchen roll)
     * Mix potato + bacon + onions + salt + pepper
     * Hot oil in pan - spread mixture evenly
     * 15min on low heat - Invert on plate - add oil - 15min on other side
@@ -180,6 +180,8 @@ From Mary Berry Everyday
 Shebsons Pie
 ------------
 From 'cooking from scratch'
+
+Side note: Shebson was a raby in Southend. This was a fun childhood misconception of my mum and uncles
 
 * Fry
     * 1/2 Onion
@@ -237,4 +239,25 @@ I tried
 * 200ml bazmati rice
 * 1 can creamed coconul
 * 1 can kidney beans in chilli sauce
-It was a little overpowering on the coconut liquid and I used no stock. I need to try more beans.
+It was a little overpowering on the coconut liquid and I used no stock. I need to try more beans? and double the rice?
+
+
+
+Fish Pie
+========
+
+Adapted from https://www.jamieoliver.com/recipes/fish-recipes/best-fish-pie/
+
+* 1kg potatoes - peeled + chopped + put on to boil
+
+* 1 carrot (grated)
+* 2 celary (grated)
+* 150g cheddar (grated)
+* lemon zest (grated)
+* 1 chilli (grated)
+* flat leaf parsley (coarsely chopped)
+* Fish pie mix
+
+* Mash potatoes - add over other bits
+
+Oven 40min
