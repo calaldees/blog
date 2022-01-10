@@ -267,3 +267,5 @@ Other Links/References
 * [The Burnout Society by Byung-Chul Han](https://apposition.substack.com/p/the-burnout-society)
     * A philosophical look at modern society and it's pressures
     * (this does not really belong on this page, I need to find a new way of categorising this stuff)
+* [25 Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+    * We are _Mimetic_ to our social surroundings

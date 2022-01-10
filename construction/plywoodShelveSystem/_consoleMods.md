@@ -7,6 +7,9 @@ https://8bitmods.com/
     modernisation kits
 https://www.willsconsolemodifications.co.uk/modding_service.php
 https://www.oldskoolconsoles.com/
+https://www.retropassion.co.uk/
+https://consolepassion.co.uk/
+
 
 Viewmaster Pro
 https://www.3dworldshop.com/Mark-II-View-Master-viewer-by-Co-van-EkerenI
@@ -23,9 +26,9 @@ Street Fighter ALpha 3 - repair audio
 
 Amiga - install WHDLoad
 
-* [The VB Glitchy Display Problem ](https://www.virtual-boy.com/forums/t/the-vb-glitchy-display-problem/)
-    * [Virtual boy Permanent Solder Screen Professional Repair Service ](https://www.virtual-boy.com/forums/t/virtual-boy-permanent-solder-screen-professional-repair-service/#replies) Nes Freak
-    * [Virtual Boy Permanent Solder Fix Repair Service! ](https://www.videogamesage.com/forums/topic/1541-~-virtual-boy-permanent-solder-fix-repair-service-~/)
+* [The VB Glitchy Display Problem](https://www.virtual-boy.com/forums/t/the-vb-glitchy-display-problem/)
+    * [Virtual boy Permanent Solder Screen Professional Repair Service](https://www.virtual-boy.com/forums/t/virtual-boy-permanent-solder-screen-professional-repair-service/#replies) Nes Freak
+    * [Virtual Boy Permanent Solder Fix Repair Service!](https://www.videogamesage.com/forums/topic/1541-~-virtual-boy-permanent-solder-fix-repair-service-~/)
 
 
 UnShelved
@@ -39,6 +42,7 @@ UnShelved
     * Lynx
     * NGPocket
     * Nomad
+    * (Wonderswan?)
 * Other
     * VirtualBoy
 * Computers
