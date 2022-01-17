@@ -13,6 +13,7 @@ I toughly enjoyed looking at some predictions of the future this new year.
 
 (Being HTTP and centralised, I wonder how many of the resources above will be accessible, maybe IPSF and web3 will solve that, I digress)
 
+
 2032
 ----
 
@@ -33,6 +34,9 @@ I toughly enjoyed looking at some predictions of the future this new year.
     * Funding of schools is fragmented and a mess. Schools fight for any kind of budget and are increasingly at the mercy of their funding sources
 * Energy
     * Lots more smaller safer cheaper nuclear power plants starts to be built to deal with the load of electric vehicles. The public largely are not aware of this shift.
+    * Battery technology improves to a cost ratio that make it viable for electric cars and grid storage
+        * https://fullstackeconomics.com/untitled-2/
+    * Hydrogen-fule used in some commercial way for larger vehicles
 * Media
     * Mainstream media continues to be un-credible and sensationalised. There is little regulation.
 * Brain computer interfaces
@@ -57,6 +61,7 @@ I toughly enjoyed looking at some predictions of the future this new year.
     * There will be a growing number of anti vaccine sentiments. This will start to cause longer term problems with many new infants not having sufficient protection against know/old diseases as vaccines are intermingled with newer less proven vaccines.
     * Diabetes grows and becomes one of the bigger problems in the west
     * Health insurance now requires people to wear a bio-logging device 24/7 to capture data. This is built into many consumer devices. (Mainly in america)
+    * Individual gene therapy's + dramatically improve organ replacement
 * China expands faster than the US and is even more of a global power.
     * Average people encounter more content that is in chinese in origin.
 * There is a cult fascination with the world before the internet (pre 2000). Most of the youth consider anyone from that time like cavemen. Hohoho how uncivilised they must have been
@@ -64,13 +69,13 @@ I toughly enjoyed looking at some predictions of the future this new year.
 * Homelessness will get worse - most places in the UK will have higher numbers of visible homeless people
 * Privacy debate will continue - many people wanting to be outside of the mainstream technology are looked upon a criminals with things to hide.
     * Many people without mainsteam technology find it increasingly hard to interact with modern society.
-* More and more jobs require more skill - more dipartity with the lowest wage jobs and the higher paid jobs - this creates societal resentment. There are more calls for universal basic income as more and more people struggle to contribute economically
+* More and more jobs require more skill - more disparity with the lowest wage jobs and the higher paid jobs - this creates societal resentment. There are more calls for universal basic income as more and more people struggle to contribute economically
 * Environment
     * Everyone still says the world is fucked, but nobody is doing anything sufficient about it. World leaders do not take enough action.
     * All calls for early geo-engineering are called lunatics
     * A sevier weather event hits the UK
 * There will be more infrastructure around Mars and constructions of a manned Moon base, but this will take another 10 years to get to a significant size
-* Everyone has a personal AI to help them. Be this for education, diet. We already have media recommendation + time + other commercial suggestions
+* Everyone has a personal AI to help them. Be this for education, diet. We already have media recommendation + time + other commercial suggestions. It will start to become normal.
 * VR technology becomes cheaper and more powerful and is more mainstream, but not taking over the world.
 * Display technology continue to improve to an insane level
     * 8k screens? 120fps VR?
@@ -89,17 +94,38 @@ I toughly enjoyed looking at some predictions of the future this new year.
 * Commercial areas in all cities decline in some way and are repurposed for residential as remote working because more commonplace.
     * People are moving out of cities.
 * The first major international incident(/warfair?) with an aggressive attempt at disrupt/cripple a countries data or digital infrastructure.
+* Launching satellites is dramatically reduced in cost
+* Architecture becomes more expressive due to new materials and techniques
+* Homes and other larger objects can be antonymously built
+* Moon base is in progress
+* The food industry is moving towards blockchain ledgers on all food. Blockchain starts to be used in other commercial sectors to prove ownership
+* The food industry evolves to keep up with demand with GM most things and new concepts (floating farm? vertical farm? reconstituted something)
+* Nanotubes and graphite become commercially viable to enable a new eara of construction.
 
 
 2042
 ----
 
 * Another global pandemic
-* Unemployment do to automation causes significant unrest - There has to be a radical change to support the lower class's
+* Unemployment due to automation causes significant unrest - There is to be a radical change to support the lower class's
 * China and/or Russia use force (in some way - not necessarily physical) that scares the west, but the west is now financially weaker and still dependent on the east's manufacturing power
 * AR is used commercially
 * So much data is collected that it's almost impossible to interact with society without technological integration (e.g. we already buy bus tickets with our phones)
     * Digital integration is mainstream
 * Man on Mars
-* Regulation of social media in some form
+* Regulation of social media in some form - it is deemed to be harmful to young people
 * Scotland disentangles more from UK politics
+* Major satellite issue (too many)
+* Talks about geo-engineering become more serious as world leaders argue
+* More Foods are GM modified to extend life and reduce cancers
+* Space infrastructure is improving to a point where commerce is becoming more common
+* Everyone has some aspect of their life planned/monitored/advised by personal AI
+* Education is largely AI assisted
+* You can have your life managed by a company (insurance, education, house, work).
+* Social change alienates people born before pre internet
+
+
+
+2052
+----
+The moon becomes used for some kind of resource extraction
