@@ -71,6 +71,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
             * Actively visit them
                 * Anyone who lives in a commutable distance from where I work, I organize visiting with a sleeping bag and roll mat on work weeknights
             * Once you have visited everyone on the list, traverse the list again
+            * [The simple system I’m using to stay in touch with hundreds of people](https://jakobgreenfeld.com/stay-in-touch) - a tracker database for keeping in touch with people. Prompts/Alerts with notes and dates.
     * You cannot grow in isolation
         * You must continually foster a comity/network
     * Custom print/make gifts/experiences for friends
@@ -196,6 +197,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
                 Curiosity --> Smartness --> Curiosity
             ```
     * If your goal is success, you will never achieve it, because you will keep redefining it
+    * It used to be possible for a human to be expert in all fields of human knowledge. We are FAR beyond that now.
 
 Other Links/References
 ======================

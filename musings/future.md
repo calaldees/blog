@@ -60,7 +60,8 @@ I toughly enjoyed looking at some predictions of the future this new year.
 * Construction
     * Some business models have homes and other larger objects can be somewhat antonymously built - this is a proof of concept and not mainstream
     * Nanotubes and graphite become commercially viable to enable a new eara of construction.
-    * Architecture becomes more expressive due to new materials and techniques
+    * Architecture becomes more expressive due to new materials and techniques.
+    * Self healing concrete
 * Health
     * The long tail of covid lasts most of the decade
         * People have had covid multiple times and it's starting to accrue longer term damage for many people
@@ -90,6 +91,7 @@ I toughly enjoyed looking at some predictions of the future this new year.
     * Commercial areas in all cities decline in some way and are repurposed for residential as remote working because more commonplace.
         * People are moving out of cities.
         * Some city space (because of focus on residential) have planted trees/gardens where roads used to be.
+    * Property deeps on blockchain experiments to automate parts of our hideous manual process.
 * Space
     * There will be more infrastructure around Mars
     * Moon base in progress, but this will take another 10 years to get to a significant size
@@ -142,6 +144,7 @@ I toughly enjoyed looking at some predictions of the future this new year.
 * Climate change is accelerating - Coral reifs are gone - permafrost gone
 * Fusion power is commercially viable
 * Quantum computing creates significant problems for digital security
+* Blockchain now used for ownership in a range of domains (food and property seem like good guess's)
 
 
 2052
