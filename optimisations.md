@@ -81,6 +81,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Custom print/make gifts/experiences for friends
         * Don't wait for birthdays/christmases. If you see something they would like, do it
     * You can't effectively care for others if you cant care for yourself
+    * Idolising or elevating anyone will only lead to disappointment, when you realise that they are human and make just a many blunders as anyone else.
 * Personal Equipment
     * Daily Equipment
         * Pockets (Never leave the house without these in place)
@@ -140,6 +141,9 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Travelling is easier
         * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
 * Attitudes and Ethos
+    * A mood is contagious. You can sculpt this with skill and strength.
+        * This is particularly important for children
+        * [Ordinary Magic in Extraordinary Circumstances: Factors Associated with Positive Mental Health Outcomes for Early Adolescents During the COVID-19 Pandemic](https://link.springer.com/article/10.1007/s42844-022-00054-0)
     * Understand the things you can change, things you cant change and the wisdom to know the difference
     * Stop being angry at the world - [Your Addiction to Outrage is Ruining Your Life: The anger feels so good, but it’s insidious](https://medium.com/the-bad-influence/your-addiction-to-outrage-is-ruining-your-life-9effebdfeaca)
     * You will never have enough time
@@ -250,7 +254,12 @@ Other Links/References
     * > In my examples the individuals were all _doing_ from a young age, as opposed to merely _schooling_. And while they may not have wanted to work, the work was nonetheless something that both they and society felt was useful: something purposeful and appreciated. In a sense they had useful childhoods.
     * > Do children today have useful childhoods?
     * > We should be thinking much harder about making sure children can make meaningful contributions to the world.
-    * > Seizing opportunity requires opportunity to exist at all. And I suspect the downplaying of agency in childhood not only creates fewer opportunities for great people, it must also create more marginal people. 
+    * > Seizing opportunity requires opportunity to exist at all. And I suspect the downplaying of agency in childhood not only creates fewer opportunities for great people, it must also create more marginal people.
+* [Some Advice Gathered from People Smarter than Me](https://sashachapin.substack.com/p/some-advice-gathered-from-people)
+    * Many of my thoughts were echo'ed in these
+* [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
+    * > Sometimes there’s a Heuristic That Almost Always Works, like “this technology won’t change everything” or “there won’t be a hurricane tomorrow”.
+    * > And sometimes the rare exceptions are so important to spot that we charge experts with the task. But the heuristics are so hard to beat that the experts themselves might be tempted to secretly rely on them, 
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
