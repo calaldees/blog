@@ -49,6 +49,10 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Bunk-beds (space efficient)
         * Desk under bed
     * If you haven't used an item in a year, you probably don't need it. (Sell, pass-on-for-free or dispose)
+    * Activation energy of a task - consider/craft this carefully
+        * Guitar on stand in room mean the pickup/put-down energy is minimal
+        * Console shelves (see projects)
+        * todo-list as a visible piece of paper on desk is more effective than in a notebook with a cover
 * Social
     * No personal use of social media (facebook)
         * These detract from genuine human interactions, trivialize other people
