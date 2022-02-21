@@ -20,7 +20,6 @@ SNES - Repair
 N64 - Repair/Recap
 3DO - RGB + 50/60
 Jaguar - Clean, 50/60
-Master System - repair audio
 
 Street Fighter ALpha 3 - repair audio
 
@@ -34,17 +33,6 @@ Amiga - install WHDLoad
 UnShelved
 ---------
 
-* Handheld
-    * GameBoy
-    * GBA
-    * DSLite
-    * GameGear
-    * Lynx
-    * NGPocket
-    * Nomad
-    * (Wonderswan?)
-* Other
-    * VirtualBoy
 * Computers
     * Atari 800XL (soon!)
 * Consoles
@@ -55,15 +43,9 @@ UnShelved
         * Radofin
         * Haminex
 * HD Eara consoles
-    * XBox 360
-    * ps3 (to buy)
     * Wii
 * Media
-    * LD Player
-    * VHS
-    * DVD
     * Betamax?
-    * Tape
     * Turntable?
 
 * 5155

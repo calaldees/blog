@@ -187,6 +187,21 @@ It is not effective or required that every task is paired on.
 * https://wiki.c2.com/?PairProgrammingEconomics
 * https://link.springer.com/chapter/10.1007/978-1-4842-4221-6_21
 * [The Mortifying Ordeal of Pairing All Day](https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/)
+* Against pair programming
+    * Lowest common denominator (one person is always slowed down)
+    * not efficent 1-to-1 - code review can be 1-to-n (and async)
+* [Async Code Reviews Are Chocking Your Company’s Throughput by Dragan Stepanovic](https://www.youtube.com/watch?v=ZlLZEQQBcFg)
+    * 300 lines PR max
+    * Availability of developers must go up to not block others
+    * Continuous code reviews (multiple a day)
+        * (Allan: Let's call them progress reviews or check-ins)
+* Zen.dev
+    * >  Pull requests have their place, but sometimes you just want to code together. It's more fun than code review, builds trust between colleagues, and it's one of the best ways to distribute knowledge through a team. But it has to be easy.
+    * > If you want someone's perspective on a piece of code, it should be as easy as sending a message to pull them into your working copy and start coding. 
+* [$stdout - Pair Programming](https://www.youtube.com/watch?v=psw9G9Lp7ac) YouTube Rap about pair prorgamming
+* [The 'tag team' : tools, tasks and roles in collaborative software development ](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.436393) 2006 PhD
+* [Love It or Hate It, Pair Programming Is Here to Stay. Here’s How You Can Live with It.](https://www.coscreen.co/blog/love-or-hate-pair-programming-here-to-stay/)
+    * Has value - in moderation - be empathic
 
 ## Further Reading
 
