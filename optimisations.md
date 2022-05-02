@@ -190,6 +190,12 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
         * [localplan.canterbury.gov.uk](https://localplan.canterbury.gov.uk/)
     * [Stop Reading News](https://fs.blog/2013/12/stop-reading-news/) - it is not reality
+        * [Five Things You Notice When You Quit the News](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/)
+            1. You feel better
+            2. You were never actually accomplishing anything by watching the news
+            3. Most current-events-related conversations are just people talking out of their asses
+            4. There are much better ways to “be informed”
+            5. “Being concerned” makes us feel like we’re doing something when we’re not
     * "Everything seems impossible, until it's done" Nelson Mandela
     * Passion can be manipulated and exploited
     * Focus on the future - Understanding 'why you are like you are' is less important than 'who you are'
@@ -224,6 +230,12 @@ Other Links/References
 * [Alignment: Should you work hard?](https://jacobobryant.com/post/2019/alignment/) Jacob O'Bryant 2019
     * > I wish I hadn't worked so hard. This came from every male patient that I nursed ... All of the men I nursed deeply regretted spending so much of their lives on the treadmill of a work existence.
     * > Alignment is the situation in which there's a high correlation between the effort you put into life and the good that comes out. In other words, it's when your work is aligned with what's most important.
+    * [Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work.html)
+        > If you optimally fill your time at work doing 'work' work, then this means that you are likely:
+        > Not developing other skills
+        > Not building your network inside the company as well as you could
+        > Probably working less efficiently than you could
+        > Unable to respond to new or changing demands without working longer hours or stopping something else that you think you need to do. See the ongoing supply chain crisis for why you should have some slack in your system
 * [How to be more productive without forcing yourself](https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself)
     * You need 2 of - Interesting, Meaningful, Well-defined
     * Careful of SUPER EXITING activities

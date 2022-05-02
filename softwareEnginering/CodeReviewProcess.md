@@ -202,6 +202,8 @@ It is not effective or required that every task is paired on.
 * [The 'tag team' : tools, tasks and roles in collaborative software development ](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.436393) 2006 PhD
 * [Love It or Hate It, Pair Programming Is Here to Stay. Here’s How You Can Live with It.](https://www.coscreen.co/blog/love-or-hate-pair-programming-here-to-stay/)
     * Has value - in moderation - be empathic
+* [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
+    * Great list! Everyone should read it
 
 ## Further Reading
 
@@ -242,3 +244,8 @@ The other developers could not see why this would be needed.
 Just quoted 'use tags' 'have tests'
 
 They can't cope with a idea that is not the established norm
+
+
+
+* [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
+    * Things/questions that should be discussed in reviews

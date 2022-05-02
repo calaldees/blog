@@ -137,19 +137,27 @@ Components
             * Controls + Screen can be placed on a normal table or waist-high dresser/draws
             * The heavier/stable the base the better (4 people pushing and pulling will make it jostle)
             * Bracing the table against a wall (with foam padding) is advised for stability
+            * Dimensions
+                * 84cm wide
+                * 72cm height (to tabletop)
+                * 61cm (min table depth - for top)
+                * 82cm real depth (including tube of slanted screen)
         * 4u custom simple screen stand (to fit over electronics)
             * I experimented with a 2u - it was too small
                 * difficult to service components
                 * screen and controls too low - wrist at wrong angle
             * One sheet of 12mm Ply (610mm x 1220mm)
                 * TODO: Diagram of cuts + angle
-                * 61cm (width of ply)
-                * 18cm tall - 24cm wide
-                * 36cm tall
+                * 61cm (width of ply - min depth of table)
+                * 18cm tall (lowest) (4u) - 24cm (width of joysticks)
+                * 36cm tall (total)
             * Shelf to angle the screen - put custom wood brace at back for your TV footprint
                 * 80cm wide shelf
         * Recommend fixing controls and screen to base
             * [3M Dual Lock](https://www.amazon.co.uk/3M-SJ354B-Reclosable-Fastener-Black/dp/B07798C527/)
+        * Modular joysticks (total)
+            * (3*25.5cm (p1 + p2 + trackball) + 2*21.5cm (p3 + p4)) == 120cm
+        * Added flip-dot marque (width 131cm)
 
 
 Making of Mark2
@@ -493,3 +501,5 @@ Marque
 Concept - when a game is selected with rhasspy-load-mame, the marque can be set with RS232 serial.
 
 * [Flip dot display](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2060353.m570.l1311&_nkw=flip+dot+display&_sacat=0)?
+* [Flip-Dot Display Brought Out Of Retirement By New Drivers](https://hackaday.com/2017/11/21/flip-dot-display-brought-out-of-retirement-by-new-drivers/)
+    * [Hanover FlipDot Display RS485 Driver](https://github.com/tuna-f1sh/node-flipdot)

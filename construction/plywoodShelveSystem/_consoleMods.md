@@ -1,4 +1,5 @@
 https://videogameperfection.com/
+    3do rgb mod and loads more + ossc
 https://www.consolesunleashed.com/
 https://retrosix.co.uk/
 https://retrogamerstuff.com/
