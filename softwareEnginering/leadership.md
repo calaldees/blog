@@ -119,3 +119,6 @@ Further Reading
         1. Consider the ratio of R to E on the team when hiring.
         2. Take stock of your internal balance of R to E. For 
         3. Assess the broader context
+* [GitLab team handbook](https://about.gitlab.com/handbook/)
+    * is the central repository for how we run the company
+    * (interesting that the whole company process/ethos is in a repo - in markdown)

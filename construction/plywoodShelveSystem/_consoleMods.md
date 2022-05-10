@@ -6,10 +6,13 @@ https://retrogamerstuff.com/
     3do rgb
 https://8bitmods.com/
     modernisation kits
-https://www.willsconsolemodifications.co.uk/modding_service.php
+https://www.willsconsolemodifications.co.uk/
+    pre modded consoles + lots of upgrades
 https://www.oldskoolconsoles.com/
 https://www.retropassion.co.uk/
 https://consolepassion.co.uk/
+https://www.oldskoolconsoles.com/
+    nes n64 2600
 
 
 Viewmaster Pro

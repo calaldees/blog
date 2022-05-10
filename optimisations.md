@@ -212,6 +212,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
             ```
     * If your goal is success, you will never achieve it, because you will keep redefining it
     * It used to be possible for a human to be expert in all fields of human knowledge. We are FAR beyond that now.
+    * [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/) - people play many different _games_ - try to identify what that is
 
 Other Links/References
 ======================
@@ -272,6 +273,8 @@ Other Links/References
 * [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work)
     * > Sometimes there’s a Heuristic That Almost Always Works, like “this technology won’t change everything” or “there won’t be a hurricane tomorrow”.
     * > And sometimes the rare exceptions are so important to spot that we charge experts with the task. But the heuristics are so hard to beat that the experts themselves might be tempted to secretly rely on them, 
+* [the agony of eros: dating](https://ava.substack.com/p/the-agony-of-eros-dating)
+    * Communicate - cut to the subtext as quickly as possible
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
