@@ -153,3 +153,11 @@ Some stuttering on Sega System 18 (Moonwalker) - No 3D games run - Outrunners no
 
 Search for "MAME Benchmarks" for more guidence
 
+
+
+
+Boards
+======
+
+* [Soul Edge pinout](https://forums.arcade-museum.com/threads/soul-edge-pinout.14672/)
+* 

@@ -225,6 +225,7 @@ Making of Mark2
 
 ![Bishi Bashi Controller wiring](./images/IMG_20211024_213708_0b.jpg)
 
+![Added Flipdot marque and speakers](./images/IMG_20220510_202641_4.jpg)
 
 Required Tools
 --------------
