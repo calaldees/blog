@@ -1,23 +1,25 @@
 Presenting
 ==========
 
-TODO
-
-* Wingman/CoPilot for presenting
+* Wingman/CoPilot concept for presenting
 * Outlawed words
   1. "umm" or "errr"
     * Anecdotes: Told the CEO 213 ums + 42 ums = 255 ums
     * Strategy: Practice a talk to someone and ask them to bang the table every time you do this.
-  2. "Basically", "So", "Ok", "Just" ...
+  2. "Basically", "Simply", "So", "Ok", "Just" ...
     * or any other superfluous word
     * You are on a word budget. Ration your words!
-    * "All you have to do" or "Simply" should be banned. These trivialise a subject.
-    * Stop asking of things are "ok" cons. Deliberate request for a response and pause sufficiently if needed.
+    * "All you have to do", "Basically" or "Simply" should be banned. These trivialise a subject
+    * Stop asking of things are "ok". If you need too, Deliberately request a response and pause sufficiently if needed to get this response.
+    * Don't use vague words: "Things", "Stuff". Be specific
+    * Try not to use "It" - fully qualify the subject
 * Keep to time
+  * It is better to have too little (focused) content than too much (waffle)
 * Projection Tech
     * Raise font size (ctrl+=)
     * Learn how to use your laptop to output to projectors (quickly)
     * Have good Display connectivity in venues
+      * Bring all the adaptors and cables you need (with sufficient length)
     * Maybe slack screen share as primary
 * Physical Space
   * Look where the lights are
@@ -34,3 +36,4 @@ TODO
   * To bring people back with no-verbal queues
     * Use eye contact
     * Hand gestures to bring people forward and refocus
+    * If people are distracted (using their phone, or computer, or talking) - Have the courage to pause - wait for eye contact - nod or smile or raise -eyebrow - move on

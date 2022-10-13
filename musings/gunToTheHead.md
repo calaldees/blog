@@ -5,7 +5,7 @@ Gun to the Head
 Nonsense
 --------
 
-I used to laugh at a scene in the hollywood movie "Swordfish" where an 'ace hacker' was put at gunpoint to hack the pentagon with a gun to his head while being distractedly serviced by a young lady and give 60 seconds before the trigger was pulled. Needless to say the 'ace hacker' survived by successfully hacking the pentagon.
+I used to laugh at a scene in the hollywood movie "Swordfish" where an 'ace hacker' was put at gunpoint to 'hack the pentagon' with a gun to his head while being distractedly serviced by a young lady and given 60 seconds before the trigger was pulled to blow his brains out. Needless to say the 'ace hacker' survived by successfully hacking the pentagon.
 
 Utter utter nonsense ...
 
@@ -21,8 +21,8 @@ The week before the deadline, a number of students asked "How do I setup my dev 
 
 If you're asking about the most basic foundation steps of starting the assignment less than a week before the deadline then you've failed. You can't build skills that quickly.
 
-So begins the flurry of 3am emails about basic stuff the day before the deadline. Coupled with the snide remarks in these emails about not wanting any comments to suggest that attempting the task this late is to be frowned upon. (There is a healthy undertone of "If you don't help me know I will use this to proclaim that you haven't supported me")
-A surge of requests for 1 week extensions (you they have had 4 months to do this and apparently another week will change that).
+So begins the flurry of 3am emails about basic stuff the day before the deadline. The messages are coupled with the snide remarks and a tone that preempt possible comments to suggest that attempting the task this late is being frowned upon. (There is a healthy undertone of "If you don't help me now I will use this to proclaim that you haven't supported me as weapon")
+A surge of requests for 2 week extensions (they have had 4 months to do this and apparently another week will change that).
 
 
 The joke scenario is now no longer a joke

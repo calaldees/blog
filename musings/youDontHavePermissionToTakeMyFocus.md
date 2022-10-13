@@ -3,24 +3,24 @@ You don't have permission to take my focus
 
 I despise smartphone. The tech is space age amazing .. I hate them because of the way assholes have built the software.
 
-Bloo-bo-bing
-(humm .. I asked a friend about meeting for coffee this weekend, could be them)
-You have 7 apps that can be uninstalled
-HOW THE FUCK IS THAT RELEVANT!! WHY DID YOU INTERRUPT ME!
+My phone bleeps: _Bloo-bo-bing_
+(I ponder ... I asked a friend about meeting for coffee this weekend, could be them .. let's have a look)
+> You have 7 apps that can be uninstalled
+HOW THE FUCK IS THAT RELEVANT!! WHY DID YOU INTERRUPT MY DAY!
 
-Suggesion: You can tell me this next time I visit add/remove/update programs ... you know I do this around on a monthly basis
+Suggestion to Phone OS Designers: You can tell me about my app updates next time I visit add/remove/update programs ... you know from my usage statistics I do this around on a monthly basis. I'm not a user that has no knowledge of this ecosystem, my past use shows this.
 
 
-Bloo-bo-bing
+My phone bleeps: _Bloo-bo-bing_
 (deep in focus on my assignment, still hoping to hear back about coffee)
-Here are some pictures you took a one year ago today
-HOW THE FUCK IS THAT RELEVANT!! WHY DID YOU INTERRUPT ME!
+> Here are some pictures you took a one year ago today
+HOW THE FUCK IS THAT RELEVANT!! WHY DID YOU INTERRUPT MY DAY!
 
 
-I could spend my time curating the notifications each app provides. The problem is the default is "on". I need to spend considerable time receiving notifications and turning them off. They should be off by default and enabled if I want that level of engagement.
-
+I could spend my time curating the notifications each app provides. The problem is the default for all apps is "on". 
+I need to spend considerable time receiving notifications and turning them off. 
+They should be off by default and enabled if I want that level of engagement.
 
 Stop taking my focus.
 My time does not belong to you.
 Your software and business addenda are not my concern.
-

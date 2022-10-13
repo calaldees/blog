@@ -3,6 +3,8 @@ Toshiba CDT320
 
 Setup guide for my P166 toshiba laptop for dos games
 
+Update: I was never able to the dos soundcard working and abandoned this laptop
+
 * Windows 98
     * Windows 98 SE OEM Product Key - `PRDDH-83JD9-G6PK4-684GF-6Y73B`
     * iso [Toshiba Satellite 320 CDT & CDS Tools & Utilities multilang](https://archive.org/details/s-320-tools-utilities)

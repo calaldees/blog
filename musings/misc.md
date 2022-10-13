@@ -27,3 +27,13 @@ http://www.liberatingstructures.com/
     * plastic?
     * computing tools/tech?
     * 
+
+
+> This password does not meet the length, complexity, age or history requirements of your corporate password policy.
+Unhelpful - What ARE THE POLICIES!!
+
+Computers on all night in institutions
+Pay 1 compient technitian to implement an auto/network power up/down policy
+* power down out of office hours
+* The timetabling system knows when the room is booked, power up the computers
+* Projectors can be networked - correlate this with connected machine power status

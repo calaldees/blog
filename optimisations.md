@@ -275,6 +275,9 @@ Other Links/References
     * > And sometimes the rare exceptions are so important to spot that we charge experts with the task. But the heuristics are so hard to beat that the experts themselves might be tempted to secretly rely on them, 
 * [the agony of eros: dating](https://ava.substack.com/p/the-agony-of-eros-dating)
     * Communicate - cut to the subtext as quickly as possible
+* [You have finally reached the end of the internet!](https://hmpg.net/) - humor
+* [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) - things that have got better
+    * This whole site it great [Gwern Branwen](https://www.gwern.net/index)
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
@@ -298,4 +301,17 @@ Other Links/References
     * A philosophical look at modern society and it's pressures
     * (this does not really belong on this page, I need to find a new way of categorising this stuff)
 * [25 Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
-    * We are _Mimetic_ to our social surroundings
+    * We are _Mimetic_ to our social surroundings. Be aware of this bias
+* [Writing is a Single-Player Game](https://www.otherlife.co/singleplayer/)
+    * Stop caring about social media 'followers' or other opinions. Do what you need need to do rather than bending to the will of others.
+* [Historical language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/doi/10.1073/pnas.2102061118) 2021
+    * > Individuals with depression are prone to maladaptive patterns of thinking, known as cognitive distortions, whereby they think about themselves, the world, and the future in overly negative and inaccurate ways. These distortions are associated with marked changes in an individual’s mood, behavior, and language. 
+    * > We hypothesize that societies can undergo similar changes in their collective psychology that are reflected in historical records of language use. 
+    * > Here, we investigate the prevalence of textual markers of cognitive distortions in over 14 million books for the past 125 y and observe a surge of their prevalence since the 1980s, to levels exceeding those of the Great Depression and both World Wars.
+* [Why running out of fucks is a good thing](https://alittlecreative.net/zero-fucks/) and it doesn't mean you don't care
+* [Don't Read History for Lessons](https://commoncog.com/blog/dont-read-history-for-lessons/)
+    1. Everything in life is path dependent
+    2. accountings of history are not accurate, and can never be accurate, thanks to the narrative fallacy
+* [Ambition As An Anxiety disorder](https://moontower.substack.com/p/moontower-154)
+    * > Most successful people are just a walking anxiety disorder harnessed for productivity.
+* [Livening in a Van for 2 years](https://sean.cm/i/van-build/) and reflections
