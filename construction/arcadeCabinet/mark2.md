@@ -521,6 +521,9 @@ graph TD
     jamma_sw[JAMMA 2 way swticher]
     supergun
     atx[Power Supply] --ATXPower--> supergun
+    jamma_board[External  Real JAMMA Board]
+    flipdott[FlipDott Display]
+    24v[24V PSU] --> flipdott
     
     PC --vga--> jpac
     jpac --usb--> PC
@@ -529,10 +532,11 @@ graph TD
     jpac <--JAMMA56--> jamma_sw <--JAMMA56--> supergun
     supergun --SCART--> CRT
     supergun --phono--> audio_switch
-    jamma_board[External  Real JAMMA Board] <--JAMMA56--> jamma_sw
-    PC --RS232-----> flipdott
+    jamma_board <--JAMMA56--> jamma_sw
+    PC -----RS232-----> flipdott
     PC --phono--> audio_switch
     audio_switch --phone--> amplifyer --> speakers
+    jamma_board -.phone.-> audio_switch
 
     microphone --usb--> Rhaspy
 
@@ -547,8 +551,8 @@ graph TD
     joystick3 --DB15--> ipac
     joystick4 --DB15--> ipac
 
-    joystick1 --spinner--> trackball
-    joystick2 --spinner--> trackball
+    joystick1 --5pin--> optipac
+    joystick2 --5pin--> optipac
 
     trackball --> optipac --usb--> PC
     wheel --custom--> uhid --usb--> PC
