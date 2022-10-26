@@ -59,10 +59,10 @@ Components
         * GroovyArcade [live-CD](https://github.com/substring/os/releases/)
             * [GitLab Wiki](https://gitlab.com/groovyarcade/support/-/wikis/home)
             * Arch linux with hacked Radeon drivers for 15khzCGA CRT output
-    * Raspberry Pi (possible alternate solution)
+    * (possible) Raspberry Pi (possible alternate solution)
         * [pi2scart and pi2jamma](http://pi2jamma.info/)
             * from [ArcadeForge](http://arcadeforge.net/Pi2Jamma-Pi2SCART/PI2SCART::264.html)
-    * All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
+    * (possible) All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
         * [Game Elf](https://www.google.com/search?q=game+elf+JAMMA)
         * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
 * Input - 4 player controls + trackball + steering wheel
@@ -130,7 +130,7 @@ Components
     * Speakers and amp
         * Normal TV's have poor builtin audio
 * Cabinet
-    * Pre-cut MDF [Bar Top Cabinet Kits](https://www.arcadeworlduk.com/categories/arcade-cabinets-kits/bar-top-cabinet-kits.html) for LCD displays
+    * (possible) Pre-cut MDF [Bar Top Cabinet Kits](https://www.arcadeworlduk.com/categories/arcade-cabinets-kits/bar-top-cabinet-kits.html) for LCD displays
         * For people with limited time that don't care about CRT or 4 players or modular controls (might still drive JAMMA with a range of video adaptors?)
     * Custom Cabinet (chosen solution)
         * Base (Normal Table or Dresser)
@@ -226,6 +226,9 @@ Making of Mark2
 ![Bishi Bashi Controller wiring](./images/IMG_20211024_213708_0b.jpg)
 
 ![Added Flipdot marque and speakers](./images/IMG_20220510_202641_4.jpg)
+
+![Base - naked](./images/IMG_20221024_201551_0.jpg)
+![Base - folded for transport](./images/IMG_20221024_201923_3.jpg)
 
 Required Tools
 --------------
@@ -477,7 +480,7 @@ Set GroovyArcade to boot to LXDE as a frontend. You need to be in an existing X-
     pip install websockets
     make install_startup # ???
     make websocket
-```
+``` 
 
 Switchres
 ---------
@@ -504,3 +507,74 @@ Concept - when a game is selected with rhasspy-load-mame, the marque can be set 
 * [Flip dot display](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2060353.m570.l1311&_nkw=flip+dot+display&_sacat=0)?
 * [Flip-Dot Display Brought Out Of Retirement By New Drivers](https://hackaday.com/2017/11/21/flip-dot-display-brought-out-of-retirement-by-new-drivers/)
     * [Hanover FlipDot Display RS485 Driver](https://github.com/tuna-f1sh/node-flipdot)
+
+
+Overview
+--------
+
+I had some fun listing the interconnections
+
+```mermaid
+graph TD
+    PC[PC]
+    CRT[28inc CRT TV]
+    jamma_sw[JAMMA 2 way swticher]
+    supergun
+    atx[Power Supply] --ATXPower--> supergun
+    
+    PC --vga--> jpac
+    jpac --usb--> PC
+
+    ipac --usb--> PC
+    jpac <--JAMMA56--> jamma_sw <--JAMMA56--> supergun
+    supergun --SCART--> CRT
+    supergun --phono--> audio_switch
+    jamma_board[External  Real JAMMA Board] <--JAMMA56--> jamma_sw
+    PC --RS232-----> flipdott
+    PC --phono--> audio_switch
+    audio_switch --phone--> amplifyer --> speakers
+
+    microphone --usb--> Rhaspy
+
+    subgraph JAMMA
+        jpac
+        jamma_sw
+        supergun
+    end
+
+    joystick1 --DB15--> supergun
+    joystick2 --DB15--> supergun
+    joystick3 --DB15--> ipac
+    joystick4 --DB15--> ipac
+
+    joystick1 --spinner--> trackball
+    joystick2 --spinner--> trackball
+
+    trackball --> optipac --usb--> PC
+    wheel --custom--> uhid --usb--> PC
+    analogstick --usb--> PC
+
+
+    subgraph controls    
+        joystick1
+        joystick2
+        joystick3
+        joystick4
+        wheel
+        trackball
+        analogstick
+    end
+
+
+    subgraph ee[Emulated Machine]
+        PC
+        ATIRadion
+        i5
+        subgraph software
+            ArchLinux
+            GroovyArcade
+            Docker
+            Rhaspy
+        end
+    end
+```
