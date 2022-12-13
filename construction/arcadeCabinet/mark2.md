@@ -228,6 +228,7 @@ Making of Mark2
 ![Added Flipdot marque and speakers](./images/IMG_20220510_202641_4.jpg)
 
 ![Base - naked](./images/IMG_20221024_201551_0.jpg)
+
 ![Base - folded for transport](./images/IMG_20221024_201923_3.jpg)
 
 Required Tools

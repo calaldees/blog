@@ -213,6 +213,14 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * If your goal is success, you will never achieve it, because you will keep redefining it
     * It used to be possible for a human to be expert in all fields of human knowledge. We are FAR beyond that now.
     * [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/) - people play many different _games_ - try to identify what that is
+    * Competent people have a mental model of how to approach a common/regular task (e.g. debugging code). Competent people have constructed a model of what to do 'in advance of the problem'.
+        * e.g. removing an audience from a difficult student, dropping a lesson completely to tackle a racial or sexual slur.
+        * [On Feeling Competent](https://anja.kefala.info/on-feeling-competent.html)
+    * [Post 43: Intentionally Making Close Friends](https://www.neelnanda.io/blog/43-making-friends)
+        * Avoid smalltalk - get to the juicy stuff
+        * > If we aren’t both excited about this conversation, do something differently
+        * > recursive curiosity: asking an open-ended question that invites a detailed answer. Then, I introspect and try to notice excitement, find the part of their answer I find most interesting, and ask a follow-up open-ended question about it
+        * > follow-up once I identify someone cool! (how to stay in contact)
 
 Other Links/References
 ======================
@@ -278,6 +286,19 @@ Other Links/References
 * [You have finally reached the end of the internet!](https://hmpg.net/) - humor
 * [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) - things that have got better
     * This whole site it great [Gwern Branwen](https://www.gwern.net/index)
+* [Ideas That Changed My Life](https://collabfund.com/blog/ideas-that-changed-my-life/) Morgan Housel 2022
+    * Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking. 
+        * There is little correlation between climate change denial and scientific literacy. But there is a strong correlation between climate change denial and political affiliation.
+    * Everything’s been done before. The scenes change but the behaviors and outcomes don’t
+    * Self-interest can lead people to believe and justify nearly anything
+    * Sustainable sources of competitive advantage
+        * Learn faster than your competition.
+        * Empathize with customers more than your competition.
+        * Communicate more effectively than your competition.
+        * Be willing to fail more than your competition.
+        * Wait longer than your competition.
+    * Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works
+
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
@@ -315,3 +336,5 @@ Other Links/References
 * [Ambition As An Anxiety disorder](https://moontower.substack.com/p/moontower-154)
     * > Most successful people are just a walking anxiety disorder harnessed for productivity.
 * [Livening in a Van for 2 years](https://sean.cm/i/van-build/) and reflections
+* [The Thirty Facets Of The Big Five Personality](https://thingofthings.substack.com/p/the-thirty-facets-of-the-big-five)
+    * Each of 'The Big Five' have six facets
