@@ -86,56 +86,7 @@ Marry Berry Everyday (page 112)
     * Simmer for 5min (for mushrooms)
 
 
-Sweet Potato Satay Curry
-------------------------
-https://www.bbcgoodfood.com/recipes/sweet-potato-coconut-curry
 
-* Ingredients
-    * 4 tbsp olive oil
-    * 2 large onions
-    * 3 garlic cloves, crushed
-    * thumb-sized piece root ginger
-    * 1 tsp paprika
-    * 1/2 tsp cayenne
-    * 2 red chillies, deseeded and sliced
-    * 2 red peppers, deseeded and sliced
-    * 250g red cabbage
-    * 1kg sweet potatoes
-    * 300g passata
-    * 400ml coconut milk
-* Method
-    * Put in slow cooker
-    * 2 tbsp peanut butter (add at very end after cooking)
-
-
-Chickpea Curry
---------------
-Mel's recipe
-
-* Spices
-    * 1 tablespoon garam masala
-    * 2 teaspoons ground cumin
-    * 2 teaspoons ground paprika
-    * 1 teaspoon ground turmeric
-    * 1 teaspoon salt
-    * 1/2 teaspoon ground ginger
-    * 1/2 teaspoon ground cayenne pepper
-    * (TODO: Consider garlic powder quantity)
-* Ingredients
-    * 2 cans chickpeas (TODO: calculate grams of dry chickpeas?)
-    * 1 can chopped tomatoes
-    * 1 can coconut milk
-    * 1 Onion
-    * 4 cloves garlic
-* Method
-    * Put in pan + cook
-    * Mash chickpeas slightly
-
-Alternative
-https://www.aspicyperspective.com/chickpea-curry-in-the-slow-cooker/
-    1 tablespoon honey
-    1/4-1/2 teaspoon crushed red pepper , (optional)
-    Sweet potatos
 
 
 Soup - Chicken/Cream/Veg
@@ -210,7 +161,7 @@ Tin tomatoes
 Courgette
 Mushrooms
 Could add stock?
-1/4 fine ged and gree pepper (optional)
+1/4 fine red and green pepper (optional)
 Simmer for 30min
 
 
@@ -221,25 +172,6 @@ It’s an Italian based one. You chop or blitz up a carrot, onion and two celery
 Then add 2 chiken stock cubes, a tin of chopped tomatoes, a jar of passata (sieved tomatoes), a good squeeze of ketchup, tomato purée and salt and pepper. Then bring to the boil, turn down the heat and simmer for around 2 hours (mine usually takes an hour and a half)
 Pro tip- If you mix the tomato purée with a little hot water before adding it it combines better
 
-
-Joe's Caribbean Coconut Rice
----------------------------
-
-There wasn't much of a recipe tbh. It was just:
-* kidney beans, black eye beans (one can each). 
-* One can coconut milk and rice (water or stock for the rest of the moisture)
-* As for spices, it was salt, pepper, thyme, paprika and cayenne pepper.
-    * I found I needed slightly less paprika than I thought worked well (or it starts to taste more Mexican)
-* I started by frying onions then adding the spices to them.
-* Before they burn add the drained beans, stir, after a few more mins, eyeball the rice, throw that in and liquids.
-* Bring to a near boil ( not too hard or the coconut milk will split) then cover and cook as low as you can
-* I found in a thick pan I could even just cover it and take it off the heat completely. That way the bottom doesn't stick, and the rice will cook in the residual heat
-
-I tried 
-* 200ml bazmati rice
-* 1 can creamed coconul
-* 1 can kidney beans in chilli sauce
-It was a little overpowering on the coconut liquid and I used no stock. I need to try more beans? and double the rice?
 
 
 

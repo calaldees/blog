@@ -56,7 +56,7 @@ Components
         * ATX Case (cheap 4u rack case)
         * [ATI Radeon HD 5450](https://www.ebay.co.uk/sch/i.html?_nkw=Radeon+HD+5450) - Modifiable for driving 15khz CRT display
             * [A guide to connecting your Windows PC to an SD CRT TV, PVM or Arcade Monitor](https://www.aussiearcade.com/forum/arcade/m-a-m-e-emulation-projects-and-discussion/89704-a-guide-to-connecting-your-windows-pc-to-an-sd-crt-tv-pvm-or-arcade-monitor?viewfull=1)
-        * GroovyArcade [live-CD](https://github.com/substring/os/releases/)
+        * GroovyArcade [live-CD](https://github.com/substring/os/releases/) (write extracted iso with [rufus](https://rufus.ie/en/) in DD mode)
             * [GitLab Wiki](https://gitlab.com/groovyarcade/support/-/wikis/home)
             * Arch linux with hacked Radeon drivers for 15khzCGA CRT output
     * (possible) Raspberry Pi (possible alternate solution)
@@ -462,15 +462,19 @@ Set GroovyArcade to boot to LXDE as a frontend. You need to be in an existing X-
     # Arch Linux Docker Tutorial
     # https://linuxhint.com/arch-linux-docker-tutorial/
     sudo su root
-    pacman -Sy docker
-    systemctl start docker.service
-    systemctl enable docker.service
-    gpasswd -a arcade docker
+        systemctl disable systemd-networkd-wait-online.service
+        pacman -Sy docker    
+        systemctl start docker.service
+        systemctl enable docker.service
+        gpasswd -a arcade docker
 ```
 ```bash
     # Install rhasspy-load-mame
     pacman -Sy git
     pacman -Sy make
+
+    mkdir -p ~/code/
+    cd ~/code/
     git clone https://github.com/calaldees/rhasspy-load-mame.git
     cd rhasspy-load-mame
     make build

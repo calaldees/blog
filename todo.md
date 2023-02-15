@@ -33,3 +33,26 @@ Interesting
 [Welcome to the 21st Century: How To Plan For The Post-Covid Future](https://www.oreilly.com/tim/21stcentury/)
 [UCL Institute for Innovation and Public Purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about)
 [Trees for Life - Plant Trees as a volunteer in scotland](https://treesforlife.org.uk/)
+
+
+Business?
+--------
+
+* Website monitor - SMS alerter
+* Spectrum and Amiga releases
+  * sub contract out boxart
+
+Other
+-----
+
+* Teaching Computing Book
+* Fault Reporter for Arcade Club
+
+Game
+----
+
+* WebGL Shader for pallet shift
+* Voxel genetic algorithm for UFO spites (8 angle)
+* Guardian Hero sprite reverse + tween/interpolate frames
+  * Quadratic line and tween function
+

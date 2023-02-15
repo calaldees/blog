@@ -98,30 +98,46 @@ sed -i.  's/crtlr\s.*/crtlr      allan4p/g' ${PATH_MAME}/mame.ini
 
 # rhasspy-load-mame
 
+pacman -Sy git
+pacman -Sy make
+
 mkdir -p ~/code/
 cd ~/code/
 git clone https://github.com/calaldees/rhasspy-load-mame.git
 cd rhasspy-load-mame
 make build
+make start_service
+# go to localhost:12101 or `ip address :12101` and download 100mb of packages + restart
+# maybe set sound capture device `arecord` and sound output device
 
+pacman -Sy python-pip
 pip install websockets
+make websocket
 
+make install_lxde_startup
 
 
 # https://askubuntu.com/questions/50067/howto-save-alsamixer-settings
 alsamixer
 sudo alsactl store
 
-Set default capture device (FUCKING HELL!)
-
+# Set default capture device (FUCKING HELL!)
 # https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture/Troubleshooting#Setting_the_default_microphone/capture_device
+# If the sound devices keep changing order on boot
+# https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture#Set_the_default_sound_card
 #  see also https://stackoverflow.com/questions/36239212/how-to-configure-different-alsa-defaults-for-capture-through-one-device-and-play
 nano ~/.asoundrc
 ```
-pcm.mic {
-    # From `arecord -l`
+pcm.main {
     type hw
-    card 2
+    # from `aplay -L`
+    card PCH
+    device 0
+}
+pcm.mic {
+    # From `arecord -L`
+    type hw
+    card Device
     device 0
 }
 
@@ -131,7 +147,7 @@ pcm.!default
     playback.pcm
     {
         type plug
-        slave.pcm "dmix"
+        slave.pcm "main"
     }
     capture.pcm
     {

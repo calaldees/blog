@@ -151,3 +151,15 @@ I toughly enjoyed looking at some predictions of the future this new year.
 ----
 * The moon becomes used for some kind of resource extraction
 * Climate has dramatically changed
+
+
+Additions
+---------
+
+These are additions made after 2022. I've put these at the bottom to keep the diff clean.
+
+* Sounds like many western cities are to be "zoned" to reduce travel.
+    * the current use of cars is beyond our energy capacity (especially moving to electric). We don't have the infrastructure. Most cities are moving to a zoning system to reduce daily travel.
+    * Want to visit your elderly mum in the next zone and take her to the doctor? That may not be possible.
+    * Observation in Kent
+        * Kent needs to remove the grammar school 'choice' nonsense. Many kids in kent travel a significant distance to school. This fragments social circles and puts pressure on our transport system.

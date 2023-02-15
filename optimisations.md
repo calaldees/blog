@@ -82,6 +82,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Don't wait for birthdays/christmases. If you see something they would like, do it
     * You can't effectively care for others if you cant care for yourself
     * Idolising or elevating anyone will only lead to disappointment, when you realise that they are human and make just a many blunders as anyone else.
+    * [Psychology researchers find that a simple “talking to strangers” intervention is surprisingly effective](https://www.psypost.org/2022/12/psychology-researchers-find-that-a-simple-talking-to-strangers-intervention-is-surprisingly-effective-64561)
 * Personal Equipment
     * Daily Equipment
         * Pockets (Never leave the house without these in place)
@@ -153,6 +154,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Discipline gets shit done
         * Have a routine. Leaving things to 'when you feel in the mood' will not make progress
         * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
+        * [Screw motivation, what you need is discipline.](https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
         * Setup routines that have social consequences if you miss them (e.g. your move likely to be up at 8:30 sunday morning if your going to picked up my a friend to play tennis)
     * Remember that you are dying
     * Your parents are not you
