@@ -241,6 +241,8 @@ Other Links/References
 * [Alignment: Should you work hard?](https://jacobobryant.com/post/2019/alignment/) Jacob O'Bryant 2019
     * > I wish I hadn't worked so hard. This came from every male patient that I nursed ... All of the men I nursed deeply regretted spending so much of their lives on the treadmill of a work existence.
     * > Alignment is the situation in which there's a high correlation between the effort you put into life and the good that comes out. In other words, it's when your work is aligned with what's most important.
+    * [The Anti-Productivity Manifesto](https://invertedpassion.com/the-anti-productivity-manifesto/)
+        * > Productivity Treadmill ... the amount of work offered by the world is effectively infinite.
     * [Maybe you should do less 'work'](https://www.johnwhiles.com/posts/work.html)
         > If you optimally fill your time at work doing 'work' work, then this means that you are likely:
         > Not developing other skills

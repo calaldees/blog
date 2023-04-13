@@ -154,3 +154,78 @@ https://www.bbcgoodfood.com/recipes/sweet-potato-coconut-curry
     * Put in slow cooker
     * 2 tbsp peanut butter (add at very end after cooking)
 
+
+Vegetarian Lasangya (slow cooker)
+-------------------
+
+Inspired by https://www.bbcgoodfood.com/recipes/slow-cooker-vegetable-lasagne
+
+* Ingredients
+    * 2 onions, sliced
+    * 2 large garlic cloves, chopped
+    * 2 large courgettes, diced (400g)
+    * 1 red and 1 yellow pepper, deseeded and roughly sliced
+    * 400g (1 tin) can chopped tomatoes
+    * 2 tbsp tomato purée
+    * 2 tsp vegetable bouillon
+    * 15g fresh basil, chopped plus a few leaves
+    * 1 large aubergine, sliced across length or width for maximum surface area
+    * 6 wholewheat lasagne sheets (105g)
+    * 125g vegetarian buffalo mozzarella, chopped
+
+1. Ratatouille mix (20min? including cutting)
+    1. Fry Onion/Garlic (5min)
+    2. Add Corgets, red+yellow peppers, tinned toms, tom pure, boulion, basil
+    3. Simmer 5min
+2. Line slow cooker with (10min?)
+    1. layer of aubergine
+    2. layer of pasta sheet
+    3. 1/3 of the ratatouille mix
+    4. repeat
+3. Slow cook on High for 3 hours
+1. Sprinkle cheese + some basil
+
+
+Spiced Root and Lentil Casserole
+--------------------------------
+
+Inspired by
+https://www.bbcgoodfood.com/recipes/slow-cooker-spiced-root-lentil-casserole
+
+* 1 onion (fry)
+* 3 carrots (peel + uniform big chunks)
+* 5 parsnips (peel + uniform big chunks)
+* 3 cloves of garlic
+* 2 tablespoons mild curry powder
+* 1 tablespoons smoked paprica
+* 150g red lentils
+* 600ml stock
+* 2 bay leaves
+* 1 lemon (jucice to serve)
+
+Kill in pressure cooker or slow cook
+
+
+Creamy Mushroom Spagetti
+------------------------
+
+Inspired by https://pinchofyum.com/creamy-garlic-herb-mushroom-spaghetti
+
+* 2 tblspoons butter + Mushrooms (??)
+* 2 tabelspoons butter + 2 tblespoons flour + 1 tsp herbe-provance + 1.5 cup milk
+* Nice pasta
+* 
+
+* Pasta
+* Mushrooms
+    * high! 2 tablespoons of butter + Add one clove of the garlic (1min)
+    * Add the mushrooms and sauté for 5-10 minutes, until golden brown and softened.
+* Sauce
+    * > 2 tablespoons of butter 
+    * Add the garlic 1min
+    * Add the flour and herbes de provence. (Stir fry for a minute to cook out the flour taste.)
+    * Add the milk slowly, whisking to incorporate. 
+    * Let the mixture simmer until thickened. 
+    * Season with salt and pepper
+* Assemble
+    * Parsley
