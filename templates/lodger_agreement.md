@@ -72,7 +72,7 @@ The landlord’s address for service of notices (including notices of proceeding
 ## Respect for others 
 
 * The Lodger and Landlord must not: 
-    * act in an antisocial manner towards the Landlord or any visitor to the property
+    * act in an antisocial manner towards cohabiters or any visitor to the property
     * make excessive noise
     * allow any visitors to act in an antisocial manner
     * leave rubbish in inappropriate places
