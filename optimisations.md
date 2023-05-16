@@ -342,3 +342,17 @@ Other Links/References
 * [Livening in a Van for 2 years](https://sean.cm/i/van-build/) and reflections
 * [The Thirty Facets Of The Big Five Personality](https://thingofthings.substack.com/p/the-thirty-facets-of-the-big-five)
     * Each of 'The Big Five' have six facets
+* Pascals Wager
+    * > consider Pascal’s Wager: If you listen to the alarm ringers and we turn out to be wrong, the costs are minimal and reversible. But if you listen to the skeptics and they turn out to be wrong, the costs are much larger and harder to reverse.
+* [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
+    * Phones + Social media == youth depression/anxiety    
+* Rene Magritte
+    * A 'picture' of a pipe - is not a pipe "The Treachery of Images"
+* [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
+    * > Brainstorming ideas and solutions together is an extremely popular activity because it feels collaborative and creativity-enhancing even when it’s really not. 
+    * > Research has shown group brainstorming to be a waste of time. In addition, brainstorming ideas is often anti-collaborative.
+    * "there are no bad ideas" is toxic inclusivity
+    1. Identify the most important goal/decision at hand (this could turn into a discussion, or start with prepared material to work from)
+    2. Take suggestions for any and all, large or small, questions it might be helpful to answer
+    3. Once you have all your question, plot them according to how little you know and how critical it is to find out
+* [Twitter: Writing allows you to think - musiing over ChatGTP](https://twitter.com/paulg/status/1655925905527537666)
