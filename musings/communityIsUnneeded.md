@@ -29,20 +29,25 @@ The great facilitator of this all ... the smartphone. We don't speak to people a
 We don't "need" our communities. So we don't need to invest time in building/integrating with a community. We don't need to invest in social skills to interact with our community. We can be the biggest self serving assholes in the world and still get by with very little consequence. We don't need communities.
 
 "People are self centred, self serving, entitled and self profiteering". That is the mood that is often describe society in modern times.
-We don't know our neighbors. We don't need them.
+We don't know our neighbors. We don't need communities.
 
-People are entitled to health care
-People are entitled to education
-People are entitled to WiFi
-And they we seem surprised when people act in an entitled manner.
+People are entitled to health care,
+People are entitled to education,
+People are entitled to WiFi,
+And then we seem surprised when people act in an entitled manner.
 
 And when their wireless data breaks, they are agitated by the poor quality of the network infrastructure. Even vocalise it to all those nearby. Everyone that hears this also concludes that modern society is on the downturn, even 3rd world countries have better connectively than this.
 
-We don't "need" communities any more. We are facilitated by smartphones.
+We don't "need" communities any more. We are facilitated by the "services" that are accessible with smartphones. Our social contact is accessible with smartphones.
 
-The friend I was talking too finishes the story about her old friend she just saw a message from. "I was listening, you were talking about smartphones, carry on"
+The friend I was talking too finishes the story about her old friend she just saw a message from and finished her explanation of why the text message had grabbed her attention. "I was listening, you were talking about smartphones, carry on"
 
-So I withdrew from the breakfast conversation, I had work to do, emails were mounting up, and I needed to battle to avalanche of written communication that was part of my contractual obligations. I do this alone in an office.
+So I withdrew from the breakfast conversation, I had work to do, emails were mounting up, and I needed to battle to avalanche of written communication amassing that was part of my contractual obligations. Even though the emails come from other humans, I do this email review alone in an office.
 
 I think it's time to change career, work with my hands with groups of people. Maybe a tree surgeon? Maybe move house, live in a less populated area. Trouble is I can't. I've got a new mortgage and will need to keep working full time every day for the next 34 years. Maybe there will be a community waiting for me when I retire at 74. But then again, we don't 'need' communities do we?
 
+I'll say to the young people "Before the internet". And they will roll their eye's "Whatever granddad".
+
+People who have escaped North Korea, or done volunteering in deprived villages in Africa have said something interesting. Even though these people are leading shitty shitty lives, they struggle for food, family members die of infection or parasites. They support each other in a community and observers have remarked "they are happy, they are loved".
+
+Time to get back to work.
