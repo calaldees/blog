@@ -24,3 +24,12 @@ They should be off by default and enabled if I want that level of engagement.
 Stop taking my focus.
 My time does not belong to you.
 Your software and business addenda are not my concern.
+
+
+---
+
+2023-08-02
+I was preparing for running a sequence of interviews. Collating details about the candidates
+biddly-booop
+"Did you know that you are now able to edit videos in windows picture viewer via Chipcamp"
+I don't edit videos. This is not something I use my computer for. Why are you taking my focus! I'm preparing for interviews. Who ran this popup program? I didn't! and I'm the user. You are 'my' computer, I'm not 'your' user. I'm driving you! WHY DID YOU TAKE MY FOCUS FOR A PROGRAM I AM NOT INTERESTED IN OR WILL NEVER USE! xxxx OFF!

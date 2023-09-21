@@ -15,6 +15,7 @@ Tomato Soup
     * celery
     * about half as much water
 * blend slightly to thicken base, but only a little bit, we don't want it pureed
+* Serve with seedy tasty bread and butter
 
 
 

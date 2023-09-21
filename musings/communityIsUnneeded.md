@@ -24,7 +24,7 @@ You don't need your neighbors to bring you food, you can just get shopping deliv
 You must attend you children at all time (putting demands on parents time, who are already working full time)
 You have to make an additional trip to pickup your packages and sign for them ... or head to a new grey electronically controlled eyesore dropbox in the street (grey box's complete with multiple security cameras to prosecute those that might otherwise vandalise the obelisk or thief's stealing the high tech good it may contain). The joys and progress of modern technology allowing us full-time workers to continue to order our goods online and not have to speak to another human.
 
-The great facilitator of this all ... the smartphone. We don't speak to people ask how they are. We send them a text, and we can do that while in a queue for coffee, while talking to another friend in the queue. Our productivity has been multipled! Look how social we all are!
+The great facilitator of this all ... the smartphone. We don't speak to people ask how they are. We send them a text, and we can do that while in a queue for coffee, while talking to another friend in the queue. Our productivity has been multiplied! Look how social we all are!
 
 We don't "need" our communities. So we don't need to invest time in building/integrating with a community. We don't need to invest in social skills to interact with our community. We can be the biggest self serving assholes in the world and still get by with very little consequence. We don't need communities.
 
@@ -38,16 +38,22 @@ And then we seem surprised when people act in an entitled manner.
 
 And when their wireless data breaks, they are agitated by the poor quality of the network infrastructure. Even vocalise it to all those nearby. Everyone that hears this also concludes that modern society is on the downturn, even 3rd world countries have better connectively than this.
 
-We don't "need" communities any more. We are facilitated by the "services" that are accessible with smartphones. Our social contact is accessible with smartphones.
+We don't "need" communities any more. We are facilitated by the "services" that are accessible with smartphones. Our social contact is accessible with smartphones. The genie is out of the bottle and it's not going back in. This is the new state of things.
 
 The friend I was talking too finishes the story about her old friend she just saw a message from and finished her explanation of why the text message had grabbed her attention. "I was listening, you were talking about smartphones, carry on"
 
 So I withdrew from the breakfast conversation, I had work to do, emails were mounting up, and I needed to battle to avalanche of written communication amassing that was part of my contractual obligations. Even though the emails come from other humans, I do this email review alone in an office.
 
-I think it's time to change career, work with my hands with groups of people. Maybe a tree surgeon? Maybe move house, live in a less populated area. Trouble is I can't. I've got a new mortgage and will need to keep working full time every day for the next 34 years. Maybe there will be a community waiting for me when I retire at 74. But then again, we don't 'need' communities do we?
+Is this just the nature of progress? We are moving away from relying on 'people' and more reliant on 'technology'. Technology has improved our living standards at the expense of others factors. It's no 'better' or 'worse', it's simply a different time.
 
-I'll say to the young people "Before the internet". And they will roll their eye's "Whatever granddad".
+In the future, I'll say to the young people "Before the internet". And they will roll their eye's "Whatever granddad". Maybe some young people will hear the stories and be intrigued. Others will dismiss our ramblings from an irrelevant yesterday.
+
+
+---
+
+Addendum
+
+Maybe it's time to change career, work with my hands with groups of people. Maybe a tree surgeon? Maybe move house, live in a less populated area. Trouble is I can't. I've got a new mortgage and will need to keep working full time every day for the next 34 years. Maybe there will be a community waiting for me when I retire at 74. But then again, we don't 'need' communities do we?
+
 
 People who have escaped North Korea, or done volunteering in deprived villages in Africa have said something interesting. Even though these people are leading shitty shitty lives, they struggle for food, family members die of infection or parasites. They support each other in a community and observers have remarked "they are happy, they are loved".
-
-Time to get back to work.

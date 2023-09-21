@@ -141,6 +141,10 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * You need to develop a wide range of gut bacteria, protein sources and vitamins
         * Travelling is easier
         * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
+* Career
+    * Lucky people (somewhat) make their own luck
+        * [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+            * Share and talk about your expertise - create a network - make people aware of you
 * Attitudes and Ethos
     * A mood is contagious. You can sculpt this with skill and strength.
         * This is particularly important for children
@@ -173,6 +177,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * If one career does not go to plan, you have another. Limits the sense of failure
         * The world _will_ change in your working lifetime because the world is constantly changing
     * Understand the concept of _Compound Interest_ (in all aspects of life not just financially)
+        * [Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+            * > Knowledge and productivity are like compound interest. Given two people of approximately the same ability and one person who works ten percent more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest. The payoff of working more is not linear. 
     * Don't play zero sum games - look for solutions where every party gains
     * Humans act on 'Availability Heuristic'
     * No human is independent
@@ -302,7 +308,35 @@ Other Links/References
         * Be willing to fail more than your competition.
         * Wait longer than your competition.
     * Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works
-
+* [Infantilism as a Norm: Why it is worth rethinking age boundaries](https://iq.hse.ru/en/news/219491658.html)
+    * Delayed Self-identity
+    * > The sociocultural environment has also changed, and traditional roles are being devalued. ‘The goal “to be happy” is being replaced with the goal “to be successful”’
+* Cost
+    * Economics: If you build more roads they will immediately be used to capacity, this is because building the road made the 'cost' of driving lower. Cost can come in many forms, 'fisical', 'time', 'emotional', 'waste', 'social', 'additional tasks? scarcity? limits?'
+    * [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
+        * > the first price, usually paid in dollars, just to gain possession of the desired thing, whatever it is: a book, a budgeting app, a unicycle, a bundle of kale.
+        * > But then, in order to make use of the thing, you must also pay a second price.
+        > This is the effort and initiative required to gain its benefits, and it can be much higher than the first price.
+        * > A new novel, for example, might require twenty dollars for its first price—and ten hours of dedicated reading time for its second.
+        > Only once the second price is being paid do you see any return on the first one.
+        > Paying only the first price is about the same as throwing money in the garbage.
+* [John Carmack on Productivity Jan 2016](https://news.ycombinator.com/item?id=10845832)
+    * > I find these “shorter work weeks are just as effective” articles to be nonsense
+    * [June 2023 reprisal](https://news.ycombinator.com/item?id=36360980)
+* [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+    1. Develop self-awareness (you're not a productive as you think you are)
+    2. Give a shit
+    3. Minimize uncertainty
+        * > poorly defined goals can lead to poor productivity.  If it's unclear what you need to get done today, then there's a reasonable chance you won't actually do anything today
+    4. Commit to getting something done every day
+        * avoid just being "busy"
+    5. Never say "I'll finish it up tomorrow" or "I'll make up for it by coming in early/staying late/working the weekend".
+    6. Do not overpromise to make up for poor productivity. (I'll be awesome tomorrow - the reality is you wont)
+    7. Have an objective productivity metric
+    8. Accept that "the grind" is part of the job
+        * > "Son, i don't wake up every day and go to a place called fun. I wake up and go to a place called work"
+    * I still screw off during the day.  I am not a code grinding automaton.  I read Facebook, chat with others, Tweet, shop on Amazon, get coffee, read forums, write blog posts like this one and I'm totally fine with that.  
+* [Finish your projects - Don’t let fear, or that last 10%, hold you back.](https://github.com/readme/guides/finish-your-projects)
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
@@ -356,3 +390,8 @@ Other Links/References
     2. Take suggestions for any and all, large or small, questions it might be helpful to answer
     3. Once you have all your question, plot them according to how little you know and how critical it is to find out
 * [Twitter: Writing allows you to think - musiing over ChatGTP](https://twitter.com/paulg/status/1655925905527537666)
+* [No Screens Cafe](https://cmart.blog/no-screens-cafe/)
+* [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
+    * > Executive Function Theft (EFT) is the deliberate abdication of decision-making, tasks, and responsibilities that are perceived as administrative or repetitive, of lesser importance, or aren’t pleasant or shiny, to another person, with the result that the receiving person’s executive function becomes so exhausted that they are unable to participate in, contribute to, or enjoy higher level efforts. 
+* [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
+    * Just reading does not get shit done. Just thinking does not get shit done.
