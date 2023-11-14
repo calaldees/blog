@@ -395,3 +395,8 @@ Other Links/References
     * > Executive Function Theft (EFT) is the deliberate abdication of decision-making, tasks, and responsibilities that are perceived as administrative or repetitive, of lesser importance, or aren’t pleasant or shiny, to another person, with the result that the receiving person’s executive function becomes so exhausted that they are unable to participate in, contribute to, or enjoy higher level efforts. 
 * [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
     * Just reading does not get shit done. Just thinking does not get shit done.
+* GovLeaders.org [Doing a Job](https://govleaders.org/rickover.htm)
+    * Dude who made nuclear subs possible with his leadership style
+    * no formal job descriptions 
+    * ownership and autonomy of the job - responsibility
+    * don't keep moving role

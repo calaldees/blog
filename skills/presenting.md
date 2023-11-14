@@ -37,3 +37,4 @@ Presenting
     * Use eye contact
     * Hand gestures to bring people forward and refocus
     * If people are distracted (using their phone, or computer, or talking) - Have the courage to pause - wait for eye contact - nod or smile or raise -eyebrow - move on
+* [tedx_speaker_guide.pdf](https://storage.ted.com/tedx/manuals/tedx_speaker_guide.pdf)

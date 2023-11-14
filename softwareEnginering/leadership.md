@@ -122,3 +122,7 @@ Further Reading
 * [GitLab team handbook](https://about.gitlab.com/handbook/)
     * is the central repository for how we run the company
     * (interesting that the whole company process/ethos is in a repo - in markdown)
+* [Your Organization Probably Doesn't Want To Improve Things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
+    * > I ignore everything they say around work culture and the teams they want to build (I don't factor it into my decisions around whether it's a team I'd like to join because I know it isn't trustworthy)
+    * > Actually remove the staff that no one wants to work with or who terrorize their subordinates (if they are serious about performance)
+    * > Management saying there was no budget meant nothing - it is purely a thing they are forced to say, and if the person saying it was not particularly insightful, they even believed it.
