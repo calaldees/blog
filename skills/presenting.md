@@ -29,6 +29,7 @@ Presenting
   * Strategy: Practice with and/or Learn to use a mic (if needed)
 * Technique: Learn to project your voice
   * You can't speak normally. This is a different setting!
+  * Each - Word - Should - Be Clear (demo this speach - normal and then 'purposeful + projected')
 * Behaviour and crowd control
   * Don't start until you have everyone's attention
     * Stick to your guns
