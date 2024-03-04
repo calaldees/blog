@@ -337,6 +337,9 @@ Other Links/References
         * > "Son, i don't wake up every day and go to a place called fun. I wake up and go to a place called work"
     * I still screw off during the day.  I am not a code grinding automaton.  I read Facebook, chat with others, Tweet, shop on Amazon, get coffee, read forums, write blog posts like this one and I'm totally fine with that.  
 * [Finish your projects - Don’t let fear, or that last 10%, hold you back.](https://github.com/readme/guides/finish-your-projects)
+* If you feel that life is unfair then you will try to cheat or gamble. If you feel that life is fair, you work hard and earn your respect. If the only thing in your day that brings hope is a lottery ticket, or relief from alcohol or cigarette.
+    * from [Morgan Housel](https://www.youtube.com/watch?v=vOvLFT4v4LQ&t=1668s) 
+* People need a small amount of stress in their lives - if not, they invent stress's
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
@@ -400,3 +403,9 @@ Other Links/References
     * no formal job descriptions 
     * ownership and autonomy of the job - responsibility
     * don't keep moving role
+* [Cars suck, man](https://petargyurov.com/2024-01-14/cars-suck-man)
+    * Things that get worse over time - TV's and Cars - Enshitification
+* [Equity: The Thief of Human Potential - Thomas Sowell](https://www.youtube.com/watch?v=8WYi-64MejU)
+    * 'Fake unfairness' is worse then 'unfairness'
+    * If you want equity, you need additional structures and power to judge and enforce the different levels of 'unfairness'
+* [How to Study: A Brief Guide](https://cse.buffalo.edu/~rapaport/howtostudy.html) 2023 William J. Rapaport

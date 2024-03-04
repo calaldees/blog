@@ -15,8 +15,10 @@ Update: I was never able to the dos soundcard working and abandoned this laptop
         * put in `/dos/`
             * `fx.exe`
             * `ctmouse`
+    
     * dos [cd drivers](http://toogam.com/software/archive/drivers/drive/compactd/compactd.htm#rodriver)
         * `toshv218.sys`
+        * https://www.uwe-sieber.de/util_e.html
         * dos [File systems for hard drives](http://toogam.com/software/archive/drivers/filesys/filesys.htm)
     * OPL3 Soundcard in DOS
         * https://www.vogons.org/viewtopic.php?t=76228

@@ -1,4 +1,16 @@
 
+Chiken
+------
+
+(from https://www.gimmesomeoven.com/baked-chicken-breast/)
+
+* Luke warm salt water for 15min - rinse - pat dry
+* Coat in olive oil or butter
+* sprinkle with paprika, garlic powder, salt, pepper
+* Oven on 225 for 22min? (use meat thermomiter)
+* Let stand for 5 min to soak up jucies
+
+
 Humus
 ------
 * Tahin passte (sesemee paste)

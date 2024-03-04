@@ -18,6 +18,27 @@ Tomato Soup
 * Serve with seedy tasty bread and butter
 
 
+Holumi Frys
+-----------
+
+From pintch of nom Express pg 92
+
+* Holumi
+    * 200g Holumi - cut into 1cm strips
+    * 2 tablespoon cornflour
+    * 1 medium egg (beaten)
+    * pesle/mortar - 60g Chilli heatwave Doritos - 2tsp garlic granuals - 2tsp onion granuals - 2tsp paprika - 2tsp mild chili
+    * dunk holumi strips in cornflour -> dunk egg -> dunk coating
+    * Spray with oil
+    * Oven 220c on baking paper 15-20min
+
+* Dip
+    * 150g yohurt
+    * 1tsp garic granuals
+    * 2tsp lemon juice
+    * 1 spring onions - finely diced
+    * salt + pepper
+
 
 Butternut Squash and Feta Risotto
 ---------------------------------
@@ -184,7 +205,7 @@ Inspired by https://www.bbcgoodfood.com/recipes/slow-cooker-vegetable-lasagne
     3. 1/3 of the ratatouille mix
     4. repeat
 3. Slow cook on High for 3 hours
-1. Sprinkle cheese + some basil
+4. Sprinkle cheese + some basil
 
 
 Spiced Root and Lentil Casserole

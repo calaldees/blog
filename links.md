@@ -365,3 +365,6 @@ to misc cool stuff
     * NDAs and contracts keep most artist's work uncredited and locked away, forever
 * [Smart drugs aren’t so smart after all](https://www.bps.org.uk/research-digest/smart-drugs-arent-so-smart-after-all)
     * New study finds that so-called ‘smart drugs’ reduce the quality of effort, and increase time taken to complete a decision-making task in cognitively healthy people.
+
+* [The “Let Them Theory”: A Life Changing Mindset Hack That 15 Million People Can’t Stop Talking About](https://open.spotify.com/episode/6Z2wR3WNIHlhJDELXNYcTi)
+    * Mel Robbins Postcast

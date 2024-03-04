@@ -79,7 +79,7 @@ Objectives with Key Results
 ---------------------------
 
 https://felipecastro.com/en/okr/what-is-okr/
-
+https://martin.sh/engaging-okr-checkins-with-hill-charts/
 https://medium.com/startup-tools/okrs-5afdc298bc28
 
 Quantifiable Measurable Objectives

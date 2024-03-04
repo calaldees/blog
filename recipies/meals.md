@@ -173,6 +173,21 @@ Then add 2 chiken stock cubes, a tin of chopped tomatoes, a jar of passata (siev
 Pro tip- If you mix the tomato purée with a little hot water before adding it it combines better
 
 
+Sausage Mac n Cheese
+--------------------
+
+From pinch of nom Express pg142
+
+* Oven 220c
+    * 200g Cherry toms (cut in half)
+    * 4 sausages - coated in oil and garlic granuals
+        * after browed - cut into slices and oven a bit more to crispen
+* sauce
+    * 500ml skimmed milk + 25g reduced fat spread (heat on hob)
+    * mix in
+        * 3 tablespoons of cornflour (mixed in 3 tablespoons of cold water)
+        * 100g mature cheese
+        * 1/2 teaspoon of mustard powder
 
 
 Fish Pie
