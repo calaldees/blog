@@ -22,9 +22,14 @@ Inspired by https://github.com/meltopian/sharednotes/blob/main/Mel's%20Anime%20R
 * My Hero Academia
 * His and her circumstances
 * Rakugo
+* Pluto
+  * Spinoff from Astroboy
+* Freedom Project
+  * Moon colonly told the earth is uninhabitable - one kid knows the earth is ok
 * Saikano (She the ultimate weapon)
 * Battelcrest of the stars
 * Movies
   * Summer wars
   * Patima Inverted
   * Redline
+* Time of Eve (OVA)
