@@ -21,7 +21,10 @@ Inspired by https://github.com/meltopian/sharednotes/blob/main/Mel's%20Anime%20R
 * Naruto
 * My Hero Academia
 * His and her circumstances
-* Rakugo
+* Adult slice
+  * Rakugo
+  * fune-wo-amu - Writing a Dictionary
+  * Overtake! Unsponsored F4 team and a photographer
 * Pluto
   * Spinoff from Astroboy
 * Freedom Project
@@ -33,3 +36,31 @@ Inspired by https://github.com/meltopian/sharednotes/blob/main/Mel's%20Anime%20R
   * Patima Inverted
   * Redline
 * Time of Eve (OVA)
+* Mod Psycho 100
+* Ranking of Kings
+* Glass Mask
+* Yaktate Japan
+* Madoka
+* Made in Abys
+* Kinos Journey (original)
+* Beast Stars
+* Spy Family
+* Dr Stone
+* Full Metal Alchemist (Brotherhood)
+* Shubuya 15 (Live action)
+* Attack on Titan
+* Toradora
+
+* Inazuma 11
+* Dress up Darling
+* Delicious in Dungeon
+  * Cooking the monsters as we kill them
+* Apocathary Diraires
+* Freren (story after the rpg)
+* Shadows House
+  * Good setup
+* Ajin
+  * 3d cell animated - imortals
+* Horimia
+* Love is War (Kagisama)
+* 

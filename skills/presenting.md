@@ -39,3 +39,4 @@ Presenting
     * Hand gestures to bring people forward and refocus
     * If people are distracted (using their phone, or computer, or talking) - Have the courage to pause - wait for eye contact - nod or smile or raise -eyebrow - move on
 * [tedx_speaker_guide.pdf](https://storage.ted.com/tedx/manuals/tedx_speaker_guide.pdf)
+* [ How I do (and don’t) prepare a talk for a tech conference ](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
