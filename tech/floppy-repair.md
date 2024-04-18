@@ -11,3 +11,9 @@
 * https://www.atari-forum.com/viewtopic.php?t=33193
 
 * Could you build a device that cleans and magnetises a disk?
+
+https://laughingsquid.com/floppy-disk-autoloader/
+https://dwellertech.blogspot.com/2012/02/converting-all-my-amiga-disks.html?m=1
+
+* https://www.ami64.com/adf2disk-service
+    * £5 per disk - can print custom labels - you need to provide adf files

@@ -368,3 +368,8 @@ to misc cool stuff
 
 * [The “Let Them Theory”: A Life Changing Mindset Hack That 15 Million People Can’t Stop Talking About](https://open.spotify.com/episode/6Z2wR3WNIHlhJDELXNYcTi)
     * Mel Robbins Postcast
+
+* [The Set-Up-To-Fail Syndrome](https://hbr.org/1998/03/the-set-up-to-fail-syndrome)
+    * > When an employee fails—or even just performs poorly—managers typically do not blame themselves
+* [Growth is a mind cancer](https://manuelmoreale.com/growth-is-a-mind-cancer)
+    * Growth at all costs is problematic

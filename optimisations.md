@@ -409,3 +409,5 @@ Other Links/References
     * 'Fake unfairness' is worse then 'unfairness'
     * If you want equity, you need additional structures and power to judge and enforce the different levels of 'unfairness'
 * [How to Study: A Brief Guide](https://cse.buffalo.edu/~rapaport/howtostudy.html) 2023 William J. Rapaport
+* [The Teen Mental Illness Epidemic is International, Part 1: The Anglosphere](https://www.afterbabel.com/p/international-mental-illness-part-one)
+    * > smartphones and the phone-based childhood. The first smartphone with a front-facing camera (the iPhone 4) came out in 2010

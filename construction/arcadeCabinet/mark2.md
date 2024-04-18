@@ -103,6 +103,9 @@ Components
         * [U-HID Nano](https://www.ultimarc.com/control-interfaces/u-hid-en/u-hid-nano/) for steering wheel
             * 9 physical pin interface can be configured with software to drive pins as combination of analog axis or buttons 
             * [U-HID at arcadeworld.uk - config options](https://www.arcadeworlduk.com/products/U-HID-Nano-Human-Interface-Device.html)
+        * GitHub [Spinner Mouse Game Controller](https://github.com/carlosefr/spinner-mouse)
+            * Open build your own
+            * With pedal
     * Cables
         * Joysticks are DB15 normal neo-geo pads
             * pinout diagram can be found in supergun pdf manual
