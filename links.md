@@ -373,3 +373,9 @@ to misc cool stuff
     * > When an employee fails—or even just performs poorly—managers typically do not blame themselves
 * [Growth is a mind cancer](https://manuelmoreale.com/growth-is-a-mind-cancer)
     * Growth at all costs is problematic
+* [The diminishing half-life of knowledge](https://rednafi.com/zephyr/diminishing_half_life_of_knowledge/)
+* [The relationship between team diversity and team performance: reconciling promise and reality through a comprehensive meta-analysis registered report](https://osf.io/preprints/psyarxiv/nscd4)
+    * [](https://twitter.com/cremieuxrecueil/status/1782856671091380497)
+        * > Does diversity make teams work better?
+          > Apparently not!
+          > A new, comprehensive preregistered meta-analysis found that, whether the diversity was demographic, cognitive, or occupational, its relationship with performance was near-zero.
