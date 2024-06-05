@@ -210,6 +210,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * [You Are Not ‘Behind’](https://zackkanter.com/2016/01/13/you-are-not-behind/)
     * > Do what you love and you’ll (-never-work-a-day-in-your-life-) work super fucking hard all the time with no separation or any boundaries and also take everything extremely personally
         * [The Modern Trap of Turning Hobbies Into Hustles](https://repeller.com/trap-of-turning-hobbies-into-hustles/)
+    * [Half-ass it](https://everythingchanges.us/blog/half-ass-it/)
+        * > Do half (or less) of what you would ordinarily do. Then see what happens. Consider it an experiment 
     * If you had infinite free time, what would you do? ... If you lived a life of leisure?
         * > well my flatmate is quite bored most of the time ironically 
           > the problem is that you may be free... but nobody else is. and life is about people
@@ -411,3 +413,6 @@ Other Links/References
 * [How to Study: A Brief Guide](https://cse.buffalo.edu/~rapaport/howtostudy.html) 2023 William J. Rapaport
 * [The Teen Mental Illness Epidemic is International, Part 1: The Anglosphere](https://www.afterbabel.com/p/international-mental-illness-part-one)
     * > smartphones and the phone-based childhood. The first smartphone with a front-facing camera (the iPhone 4) came out in 2010
+* [Will your past achievements prevent your next promotion?](https://www.diplomacy.edu/blog/in-praise-of-random-promotions/)
+    * > the best way to improve efficiency in an enterprise is to promote people randomly
+    * > A new approach to politics: Random independent parliamentarians

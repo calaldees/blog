@@ -379,3 +379,9 @@ to misc cool stuff
         * > Does diversity make teams work better?
           > Apparently not!
           > A new, comprehensive preregistered meta-analysis found that, whether the diversity was demographic, cognitive, or occupational, its relationship with performance was near-zero.
+
+* [Business Booms and Depressions Since 1775 : An Accurate Charting of the Past and Present Trend of Price Inflation, Federal Debt, Business, National Income, Stocks and Bond Yields with a Special Study of Postwar Periods ](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
+* [The world has (probably) passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
+    * Millions die prematurely from local air pollution, but we can reduce this number significantly.
+* [Why Fact Checking of Audacious Claims About Nuclear Power Projects is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/) 2024
+    * todo read
