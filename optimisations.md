@@ -221,6 +221,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
                 Curiosity --> Smartness --> Curiosity
             ```
     * If your goal is success, you will never achieve it, because you will keep redefining it
+      * [Do Quests not Goals](https://www.raptitude.com/2024/08/do-quests-not-goals/)
+        * my quote/mantra "gettin shit done"
     * It used to be possible for a human to be expert in all fields of human knowledge. We are FAR beyond that now.
     * [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/) - people play many different _games_ - try to identify what that is
     * Competent people have a mental model of how to approach a common/regular task (e.g. debugging code). Competent people have constructed a model of what to do 'in advance of the problem'.

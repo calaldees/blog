@@ -11,18 +11,18 @@ https://greatcurryrecipes.net/2020/03/31/chicken-katsu-curry-authentic-japanese-
 * Carrot (grated)
 * Ginger (2.5cm)
 * Garlic (5 cloves)
-* 2 tablespoons curry powder
+* 2 tablespoons curry powder (maybe less)
 * 1/2 teaspoon of tumeric
 * 1 teaspoon of honey
-* 2 teaspoons of soy sauce
 * 250ml Coconut milk
-* 250ml of chicken stock
+* 150ml of chicken stock (double strength) (was 250 but was too watery)
+* 2 teaspoons of soy sauce (optional)
 
 * Crush up some breadsticks in a pestle and mortar
 * beat egg
 * saucer of conflour
-* drip chicken breast in -> cornflower -> egg -> breadcrumbs
-* Air fryer for 15min?
+* drip chicken breast strips in -> cornflower -> egg -> breadcrumbs -> spray oil
+* Air fryer for 20min?
 
 
 Spiced Chicken
