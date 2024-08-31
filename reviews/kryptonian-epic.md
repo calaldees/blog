@@ -1,10 +1,25 @@
-* "The Kryptonian Epic" Max Landis DC inspired universe
-  * Below is a set of a links to a screenwriter, who has had a turbulent 'canceled' career in recent years, but is still releasing exceptionally interesting content. He conveys an entire saga, retelling his own reinterpretation of superman. He does this by just talking to the camera and then ups the anti by getting some of his friends dressed in cosplay and filming re-enactments in a theatre. It's a really impressive and immersive way of storytelling that is somewhere between 'writing' and 'a movie'.
-  * Other projects (precursors to the "The Kryptonian Epic")
-    * [Death and Return of Superman](https://www.youtube.com/watch?v=0PlwDbSYicM) 2012 16min short film
-      * Rant about the comic book "Death and Return of Superman" with actor friends in cosplay (Elija Wood, Simon Peg)
-    * [Death and Return of Superman Pitch by Max Landis](https://www.youtube.com/watch?v=6RWMc-EdDRY) 2014 42min
-      * A new movie pitch/idea of how to make "Death and Return of Superman" into a legitimate movie
+The Kryptonian Epic
+===================
+
+"The Kryptonian Epic" Max Landis DC inspired universe.
+
+Below is a set of a links to a screenwriter, who has had a turbulent 'canceled' career in recent years, but is still releasing exceptionally interesting content. 
+He conveys an entire saga, retelling his own reinterpretation of superman. He does this by just talking to the camera and then ups the anti by getting some of his friends dressed in cosplay and filming re-enactments in a theatre. 
+It's a really impressive and immersive way of storytelling that is somewhere between 'writing', 'theater performance' and 'a movie'.
+
+Earlier Projects
+----------------
+
+Pieces released before to the "The Kryptonian Epic" was conceived. These show Max's style of storytelling and passion for the subject.
+
+* [Death and Return of Superman](https://www.youtube.com/watch?v=0PlwDbSYicM) 2012 16min short film
+  * Rant about the comic book "Death and Return of Superman" with actor friends in cosplay (include Elija Wood, Simon Peg)
+* [Death and Return of Superman Pitch by Max Landis](https://www.youtube.com/watch?v=6RWMc-EdDRY) 2014 42min
+  * A new movie pitch/idea of how to make "Death and Return of Superman" into a legitimate movie. The pitch never got accepted.
+
+
+The Kryptonian Epic
+-------------------
   * DC GRAPHIC NOVEL [SUPERMAN: AMERICAN ALIEN](https://www.dc.com/graphic-novels/superman-american-alien-2015/superman-american-alien) 2016
     * [amazon.co.uk](https://www.amazon.co.uk/Superman-American-Alien-Max-Landis/dp/1401262562)
     * The first 7 comic books of the Kryptonian Epic
@@ -19,8 +34,8 @@
     * Playlist: [The Kryptonian Epic](https://www.youtube.com/playlist?list=PL6ZoU17dorUP7ue-m22oyZ0KKT96Pynwv)
       * Max's own playlist, but it's in release order not chronological order, has not been updated in a while and is missing items
 
-
----
+Summary/Overview
+-----------------
 
 (This came from the first pinned comment to https://www.youtube.com/watch?v=s9xb8XrfZ9E)
 

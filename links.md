@@ -385,3 +385,5 @@ to misc cool stuff
     * Millions die prematurely from local air pollution, but we can reduce this number significantly.
 * [Why Fact Checking of Audacious Claims About Nuclear Power Projects is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/) 2024
     * todo read
+* [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
+  * Design of super cheap maintainable solar farm.

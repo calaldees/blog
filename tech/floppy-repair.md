@@ -17,3 +17,5 @@ https://dwellertech.blogspot.com/2012/02/converting-all-my-amiga-disks.html?m=1
 
 * https://www.ami64.com/adf2disk-service
     * £5 per disk - can print custom labels - you need to provide adf files
+
+* [PC Floppy Copy Protection: Formaster Copy-Lock](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-formaster.html)
