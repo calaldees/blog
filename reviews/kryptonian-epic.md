@@ -23,7 +23,7 @@ The Kryptonian Epic
   * DC GRAPHIC NOVEL [SUPERMAN: AMERICAN ALIEN](https://www.dc.com/graphic-novels/superman-american-alien-2015/superman-american-alien) 2016
     * [amazon.co.uk](https://www.amazon.co.uk/Superman-American-Alien-Max-Landis/dp/1401262562)
     * The first 7 comic books of the Kryptonian Epic
-    * (I got this second hand after I had watched most of the videos below - it filled in some gaps but did missing this not stop me enjoying the video pitches)
+    * (I got this second hand after I had watched most of the videos below - it filled in some gaps but this did not stop me enjoying the video pitches)
   * Youtube [announcement](https://www.youtube.com/watch?v=7EScNz-wywY) 2020 8min
     * Max Landis announces a continuation to 'Superman: America Alien' to be delivered as theatre/pitches on his youtube channel
     * Make superman work as a character and a world
@@ -38,7 +38,6 @@ Summary/Overview
 -----------------
 
 (This came from the first pinned comment to https://www.youtube.com/watch?v=s9xb8XrfZ9E)
-
 
 
 So seeing as we're nearing the end of this weird multimedia project of collective projected imagination about the nice man in the red and blue and all his strange pals, I, a humble witness to the madness, have knocked together a guide to the whole of the Kryptonian Epic, a sort of directory that maps each "book" of the epic to the videos which tell their stories. If you watched any of these and felt you were missing some context, or if you need a reminder, this is for you, for everyone's who's been connecting dots and tracing lines across the infinite. It's a been a ride, and we're near the end, all of us, waiting for the worlds to collide and be soaked clean in fire and blood.  
