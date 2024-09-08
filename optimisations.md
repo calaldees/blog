@@ -233,6 +233,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > If we aren’t both excited about this conversation, do something differently
         * > recursive curiosity: asking an open-ended question that invites a detailed answer. Then, I introspect and try to notice excitement, find the part of their answer I find most interesting, and ask a follow-up open-ended question about it
         * > follow-up once I identify someone cool! (how to stay in contact)
+        * Use the question "why". Use humor 25% of the answers. Mirror there phrases passionatly (you're paying attention). laugh. Be authentic
+    * Explicitly when reading highlight 2 words you thought were advanced and want to use more in your daily life. Do this every day
 
 Other Links/References
 ======================
