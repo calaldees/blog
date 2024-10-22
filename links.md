@@ -197,7 +197,7 @@ to misc cool stuff
 
 * [The Problem with Solar Energy in Africa](https://www.youtube.com/watch?v=7OpM_zKGE4o) 20min video
     * Describes decay in transmission and size of infrastructure
-    * ENds with the software problem if distribution
+    * Ends with the software problem if distribution
 
 * [When Is the Revolution in Architecture Coming?](https://www.currentaffairs.org/2021/04/when-is-the-revolution-in-architecture-coming)
     * Wonderful visual article about building architecture
@@ -262,7 +262,7 @@ to misc cool stuff
     * Sunlight keeps you alive - NOT taking vitamin D supplements
 
 * [Cooling the London Underground](https://www.ianvisits.co.uk/articles/cooling-the-tube-engineering-heat-out-of-the-underground-20873/)
-    * The rock has absorbed all the heat for 100+ years and is not radiating heat
+    * The rock has absorbed all the heat for 100+ years and is now radiating heat
 
 * [Why does science news suck so much?](http://backreaction.blogspot.com/2022/06/why-does-science-news-suck-so-much.html)
     * confidence level?
@@ -332,6 +332,10 @@ to misc cool stuff
     * Had one to one support
     * Cognitive apprenticeship
         * would model patterns of reasoning by thinking aloud
+* [Children should be allowed to get bored, expert says](https://www.bbc.co.uk/news/education-21895704)
+    * Develop creativity and reflection
+    * Human interaction
+    * Explore
 
 
 * [Honestly, it's probably the phones](https://noahpinion.substack.com/p/honestly-its-probably-the-phones) - The most plausible explanation for teenage unhappiness.
@@ -387,3 +391,9 @@ to misc cool stuff
     * todo read
 * [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
   * Design of super cheap maintainable solar farm.
+* [Lawful but Awful? Control over Legal Speech by Platforms, Governments, and Internet Users ](https://lawreview.uchicago.edu/online-archive/lawful-awful-control-over-legal-speech-platforms-governments-and-internet-users) 2024
+  * Any tech company that says "free speech on our platform" immediately backtracks, because it is not functional or profitable.
+  * Option 1 - Tech companies police speech and set rules
+  * Option 2 - Government sets broadcast legislation rules
+  * Option 3 - (new concept) Middleware allows users to opt into types of content
+* [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)

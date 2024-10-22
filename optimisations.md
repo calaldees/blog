@@ -225,6 +225,12 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * my quote/mantra "gettin shit done"
     * It used to be possible for a human to be expert in all fields of human knowledge. We are FAR beyond that now.
     * [What Game Are You Playing?](https://www.autodidacts.io/what-game-are-you-playing/) - people play many different _games_ - try to identify what that is
+    * [Anatomy of an internet argument](https://defenderofthebasic.substack.com/p/anatomy-of-an-internet-argument)
+      * > I used to feel like, we *knew* how to make the world a better place, and the *only* reason we’re not doing it is because “people suck/are bad/evil/stupid”.
+      * > This is a very difficult way to live life, it’s also just flat out false. 
+      * >    I realize I had no idea that there are good reasons to be opposed to solution X
+      * >    Or that a lot of people don’t understand why solution X is good, and they actually change their mind when someone explains it
+      * >    Or that solution X is actually bad/not working. They are on my side, in that they also want to solve the problem, but they are skeptical that X is the way
     * Competent people have a mental model of how to approach a common/regular task (e.g. debugging code). Competent people have constructed a model of what to do 'in advance of the problem'.
         * e.g. removing an audience from a difficult student, dropping a lesson completely to tackle a racial or sexual slur.
         * [On Feeling Competent](https://anja.kefala.info/on-feeling-competent.html)

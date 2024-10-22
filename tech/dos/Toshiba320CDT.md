@@ -10,14 +10,15 @@ Update: I was never able to the dos soundcard working and abandoned this laptop
     * iso [Toshiba Satellite 320 CDT & CDS Tools & Utilities multilang](https://archive.org/details/s-320-tools-utilities)
         * Sound and graphics drivers
 * DOS
-    * [Guide to CONFIG.SYS & AUTOEXEC.BAT version 3.04](https://madsenworld.dk/con_auto/index-uk.htm)
+    * [Guide to CONFIG.SYS & AUTOEXEC.BAT version 3.04](https://madsenworld.dk/con_auto/index-uk.htm) [waybackmachine](https://web.archive.org/web/20240903110032/https://madsenworld.dk/con_auto/index-uk.htm)
     * [Useful DOS software](https://sta.c64.org/dosprg.html)
         * put in `/dos/`
             * `fx.exe`
             * `ctmouse`
-    
-    * dos [cd drivers](http://toogam.com/software/archive/drivers/drive/compactd/compactd.htm#rodriver)
+            * `pkunzip` (source?)
+    * dos [cd drivers](http://toogam.com/software/archive/drivers/drive/compactd/compactd.htm#rodriver) [waybackmachine](https://web.archive.org/web/20221228045857/http://toogam.com/software/archive/drivers/drive/compactd/compactd.htm#rodriver) [DOS Days](https://www.dosdays.co.uk/topics/Software/drivers.php)
         * `toshv218.sys`
+        * consider Oak? where?
         * https://www.uwe-sieber.de/util_e.html
         * dos [File systems for hard drives](http://toogam.com/software/archive/drivers/filesys/filesys.htm)
     * OPL3 Soundcard in DOS
@@ -29,7 +30,8 @@ Update: I was never able to the dos soundcard working and abandoned this laptop
     * https://dos.fandom.com/wiki/BLASTER_Variable
     * http://wiki.freedos.org/wiki/index.php/Country_codes
     * https://en.wikipedia.org/wiki/Code_page
-
+* PCMCIA Flash
+  * [](https://web.archive.org/web/20240603170156/https://www.tssc.de/site/default.aspx#http://www.tssc.de/site/products/enablers/ataenab/default.aspx)
 
 
 ## config.sys
