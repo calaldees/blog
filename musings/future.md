@@ -10,6 +10,7 @@ I toughly enjoyed looking at some predictions of the future this new year.
     * Scary accurate
 * Oh, 2022! [Looking 10 years](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
 * [Ten years ago, I predicted 2022. Did I get it right?](https://www.youtube.com/watch?v=NYj3DnI81AQ) Tom Scott YouTube 10min
+* [Carl Sagan Predicts the Decline of America: Unable to Know “What’s True,” We Will Slide, “Without Noticing, Back into Superstition & Darkness” (1995)](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html) 2025
 
 (Being HTTP and centralised, I wonder how many of the resources above will be accessible, maybe IPSF and web3 will solve that, I digress)
 

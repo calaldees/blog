@@ -7,14 +7,14 @@ Katsu Curry
 Inspired by
 https://greatcurryrecipes.net/2020/03/31/chicken-katsu-curry-authentic-japanese-style/
 
-* Onion
-* Carrot (grated)
+* Onion x2
+* Carrot x2 (grated)
 * Ginger (2.5cm)
 * Garlic (5 cloves)
-* 2 tablespoons curry powder (maybe less)
-* 1/2 teaspoon of tumeric
-* 1 teaspoon of honey
-* 250ml Coconut milk
+* 3 tablespoons curry powder
+* 1 teaspoon of tumeric
+* 1 tablespoon of honey
+* 400ml Coconut milk
 * 150ml of chicken stock (double strength) (was 250 but was too watery)
 * 2 teaspoons of soy sauce (optional)
 

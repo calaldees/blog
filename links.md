@@ -397,3 +397,38 @@ to misc cool stuff
   * Option 2 - Government sets broadcast legislation rules
   * Option 3 - (new concept) Middleware allows users to opt into types of content
 * [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
+* [Stammtisch](https://www.npr.org/2024/12/22/nx-s1-5233033/holidays-loneliness-cure-stammtisch) - German concept. Socialiing in public spaces at a particular time.
+* [Richard Scary: Childrens Art books](https://yalereview.org/article/chris-ware-richard-scarry)
+* [Britain’s postwar sugar craze confirms harms of sweet diets in early life](https://www.science.org/content/article/britain-s-postwar-sugar-craze-confirms-harms-sweet-diets-early-life) - End of sugar rationing boosted diabetes, hypertension rates years later
+* [Meteorite 200 times larger than one that killed dinosaurs reset early life](https://www.chemistryworld.com/news/meteorite-200-times-larger-than-one-that-killed-dinosaurs-reset-early-life/4020391.article) - A giant meteorite that slammed into Earth over 3 billion years ago devastated early microbial life in the oceans, but also freed up a nutrient bonanza.
+* [A Particle Physics Course for High-School Students](https://ppc.web.cern.ch/) 2023
+* [How a simple math error sparked a panic about black plastic kitchen utensils](https://nationalpost.com/news/canada/black-plastic) - 'You have to make sure your numbers are correct before you scare the pants off people'
+* [An academic Great Gatsby Curve – How much academic success is inherited?](https://blogs.lse.ac.uk/impactofsocialsciences/2024/10/21/an-academic-great-gatsby-curve-how-much-academic-success-inherited/)
+* [Cannabis pollen dispersal across the United States](https://www.nature.com/articles/s41598-024-70633-x)
+    * Entire crops contaminated and destroyed
+* [Mirror Bacteria Research Poses Significant Risks, Dozens of Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419)
+    * Synthetic biologists make artificial cells, but one particular kind isn't worth the risk.
+* [The Shape of a Mars Mission](https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm)
+    * Shuttle trajectory to get to mars!
+* [On Nostalgia for Physical Media](https://www.sicpers.info/2025/02/on-nostalgia-for-physical-media/)
+    * TODO: READ Physical Media
+* [Carbon capture more costly than switching to renewables, researchers find](https://techxplore.com/news/2025-02-carbon-capture-renewables.html)
+* [Nuclear fusion: it’s time for a reality check](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check)
+* [The Demoralization is just Beginning](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html)
+    * The west has failed to produce meaningful value and got lost
+* [1989: Has the WALKMAN Changed SOCIETY Forever? | The Late Show | Retro Tech | BBC Archive](https://youtu.be/qXG-RGCatwA?si=voXW43jFc8buOUGa&t=725)
+    * timestamp link above predicts out tiktoc!
+* [Thread of historical photos you've (probably) never seen before](https://threadreaderapp.com/thread/1899669092325380429.html)
+    * The actual X feed has loads of people contributing interesting pictures too
+* [Why layoffs don’t work](https://thehustle.co/originals/why-layoffs-dont-work)
+    * Plubiting stock prices, retraining, often symptons of larger strategic issues
+* [Supply Life](https://supplylife.com/) - Food intolerance blood tests at home
+* [Violence alters human genomes for generations, researchers discover](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/)
+* [People are bad at reporting what they eat. That’s a problem for dietary research](https://www.science.org/content/article/people-are-bad-reporting-what-they-eat-s-problem-dietary-research)
+    * Studies that use surveys to link dietary patterns to human health may be irredeemably biased, new paper suggests
+    * Everybody lies!!!
+* [Is Your X Feed F*cking With You?](https://www.ismyxfeedfucked.com/)
+    * Discover how your feed is influencing you - anonymous and private. No account needed](https://www.ismyxfeedfucked.com/)
+* [metaculus.com](https://www.metaculus.com/)
+    * People voting on the likely hood of stuff. Interesting ... but hokum .. 
+* [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)

@@ -33,3 +33,9 @@ Balsamic Vinegar Onions
 * Method
     * Sweat onion for 15min
     * Add vinegar + sugar + cook until sticky (5min)
+
+
+Oat Pancakes
+------------
+
+Inspired from [](https://www.loveandlemons.com/oatmeal-pancakes/)

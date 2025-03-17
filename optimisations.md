@@ -239,7 +239,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > If we aren’t both excited about this conversation, do something differently
         * > recursive curiosity: asking an open-ended question that invites a detailed answer. Then, I introspect and try to notice excitement, find the part of their answer I find most interesting, and ask a follow-up open-ended question about it
         * > follow-up once I identify someone cool! (how to stay in contact)
-        * Use the question "why". Use humor 25% of the answers. Mirror there phrases passionatly (you're paying attention). laugh. Be authentic
+        * Use the question "why". Use humor 25% of the answers. Mirror there phrases passionately (you're paying attention). laugh. Be authentic
     * Explicitly when reading highlight 2 words you thought were advanced and want to use more in your daily life. Do this every day
 
 Other Links/References
@@ -309,7 +309,7 @@ Other Links/References
 * [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) - things that have got better
     * This whole site it great [Gwern Branwen](https://www.gwern.net/index)
 * [Ideas That Changed My Life](https://collabfund.com/blog/ideas-that-changed-my-life/) Morgan Housel 2022
-    * Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking. 
+    * Everyone belongs to a tribe and underestimates how influential that tribe is on their thinking.
         * There is little correlation between climate change denial and scientific literacy. But there is a strong correlation between climate change denial and political affiliation.
     * Everything’s been done before. The scenes change but the behaviors and outcomes don’t
     * Self-interest can lead people to believe and justify nearly anything
@@ -328,10 +328,10 @@ Other Links/References
     * [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
         * > the first price, usually paid in dollars, just to gain possession of the desired thing, whatever it is: a book, a budgeting app, a unicycle, a bundle of kale.
         * > But then, in order to make use of the thing, you must also pay a second price.
-        > This is the effort and initiative required to gain its benefits, and it can be much higher than the first price.
+          > This is the effort and initiative required to gain its benefits, and it can be much higher than the first price.
         * > A new novel, for example, might require twenty dollars for its first price—and ten hours of dedicated reading time for its second.
-        > Only once the second price is being paid do you see any return on the first one.
-        > Paying only the first price is about the same as throwing money in the garbage.
+        * > Only once the second price is being paid do you see any return on the first one.
+        * > Paying only the first price is about the same as throwing money in the garbage.
 * [John Carmack on Productivity Jan 2016](https://news.ycombinator.com/item?id=10845832)
     * > I find these “shorter work weeks are just as effective” articles to be nonsense
     * [June 2023 reprisal](https://news.ycombinator.com/item?id=36360980)
@@ -347,10 +347,10 @@ Other Links/References
     7. Have an objective productivity metric
     8. Accept that "the grind" is part of the job
         * > "Son, i don't wake up every day and go to a place called fun. I wake up and go to a place called work"
-    * I still screw off during the day.  I am not a code grinding automaton.  I read Facebook, chat with others, Tweet, shop on Amazon, get coffee, read forums, write blog posts like this one and I'm totally fine with that.  
+    * I still screw off during the day.  I am not a code grinding automaton.  I read Facebook, chat with others, Tweet, shop on Amazon, get coffee, read forums, write blog posts like this one and I'm totally fine with that.
 * [Finish your projects - Don’t let fear, or that last 10%, hold you back.](https://github.com/readme/guides/finish-your-projects)
 * If you feel that life is unfair then you will try to cheat or gamble. If you feel that life is fair, you work hard and earn your respect. If the only thing in your day that brings hope is a lottery ticket, or relief from alcohol or cigarette.
-    * from [Morgan Housel](https://www.youtube.com/watch?v=vOvLFT4v4LQ&t=1668s) 
+    * from [Morgan Housel](https://www.youtube.com/watch?v=vOvLFT4v4LQ&t=1668s)
 * People need a small amount of stress in their lives - if not, they invent stress's
 
 ### other mental models
@@ -367,7 +367,7 @@ Other Links/References
 * [We Are All Confident Idiots](https://psmag.com/social-justice/confident-idiots-92793) - David Dunning 2017
     * > In many cases, incompetence does not leave people disoriented, perplexed, or cautious. Instead, the incompetent are often blessed with an inappropriate confidence, buoyed by something that feels to them like knowledge.
 * [How To Win At "Risk" By Using Systems Thinking](https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by)
-    * Systems Thinking gives you an advantage in almost every area of life - even the game of Risk. 
+    * Systems Thinking gives you an advantage in almost every area of life - even the game of Risk.
 * [The Myth of the Myth of the Lone Genius](https://rogersbacon.substack.com/p/the-myth-of-the-myth-of-the-lone)
 * [Historical language records reveal a surge of cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
     * > Can entire societies become more or less depressed over time? Here, we look for the historical traces of cognitive distortions, thinking patterns that are strongly associated with internalizing disorders such as depression and anxiety, in millions of books published over the course of the last two centuries in English, Spanish, and German. We find a pronounced “hockey stick” pattern: Over the past two decades the textual analogs of cognitive distortions surged well above historical levels, including those of World War I and II, after declining or stabilizing for most of the 20th century. Our results point to the possibility that recent socioeconomic changes, new technology, and social media are associated with a surge of cognitive distortions.
@@ -394,7 +394,7 @@ Other Links/References
 * Pascals Wager
     * > consider Pascal’s Wager: If you listen to the alarm ringers and we turn out to be wrong, the costs are minimal and reversible. But if you listen to the skeptics and they turn out to be wrong, the costs are much larger and harder to reverse.
 * [Why Some Researchers Think I’m Wrong About Social Media and Mental Illness](https://jonathanhaidt.substack.com/p/why-some-researchers-think-im-wrong)
-    * Phones + Social media == youth depression/anxiety    
+    * Phones + Social media == youth depression/anxiety
 * Rene Magritte
     * A 'picture' of a pipe - is not a pipe "The Treachery of Images"
 * [Brainstorm Questions Not Ideas](https://www.muledesign.com/blog/brainstorm-questions)
@@ -407,12 +407,12 @@ Other Links/References
 * [Twitter: Writing allows you to think - musiing over ChatGTP](https://twitter.com/paulg/status/1655925905527537666)
 * [No Screens Cafe](https://cmart.blog/no-screens-cafe/)
 * [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
-    * > Executive Function Theft (EFT) is the deliberate abdication of decision-making, tasks, and responsibilities that are perceived as administrative or repetitive, of lesser importance, or aren’t pleasant or shiny, to another person, with the result that the receiving person’s executive function becomes so exhausted that they are unable to participate in, contribute to, or enjoy higher level efforts. 
+    * > Executive Function Theft (EFT) is the deliberate abdication of decision-making, tasks, and responsibilities that are perceived as administrative or repetitive, of lesser importance, or aren’t pleasant or shiny, to another person, with the result that the receiving person’s executive function becomes so exhausted that they are unable to participate in, contribute to, or enjoy higher level efforts.
 * [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
     * Just reading does not get shit done. Just thinking does not get shit done.
 * GovLeaders.org [Doing a Job](https://govleaders.org/rickover.htm)
     * Dude who made nuclear subs possible with his leadership style
-    * no formal job descriptions 
+    * no formal job descriptions
     * ownership and autonomy of the job - responsibility
     * don't keep moving role
 * [Cars suck, man](https://petargyurov.com/2024-01-14/cars-suck-man)
@@ -426,3 +426,11 @@ Other Links/References
 * [Will your past achievements prevent your next promotion?](https://www.diplomacy.edu/blog/in-praise-of-random-promotions/)
     * > the best way to improve efficiency in an enterprise is to promote people randomly
     * > A new approach to politics: Random independent parliamentarians
+* [You don't know how bad most things are nor precisely how they're bad](https://www.lesswrong.com/posts/PJu2HhKsyTEJMxS9a/you-don-t-know-how-bad-most-things-are-nor-precisely-how)
+  * Tiny monkey brain is tiny
+* [Personality Basins](https://near.blog/personality-basins/)
+  * > If you have a favorite song that your friend thinks sounds terrible, this is because they are literally experiencing it differently from you due to the latter two variables given to this function. They don’t think the thing that you hear sounds terrible, they think the thing that they hear sounds terrible, and it is probably very dissimilar from what you hear
+  * > Most people around you want to personality-capture you in some way. Your boss might want you to work harder, your children might want you to give them more attention, and political parties want you to vote for them. Some of these things will be beneficial for you as well, but it’s easy to get trapped into bad habits when your adversary is sufficiently motivated and intelligent
+  * > change your environment. If both you and your environment are a constant, you shouldn’t expect to end up in a different basin any time soon
+    > ... new things will likely involve new environments and new people
+    > commitment to a partner is devalued due to the ease of finding alternatives, the effects of which can be seen by how discontent much of the population is with dating apps.
