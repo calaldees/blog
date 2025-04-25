@@ -1,5 +1,6 @@
 
 Insightful articles paulgraham
-https://www.unclepaul.io/
-http://paulgraham.com
+https://paulgraham.com/kids.html
 
+
+See [[unlimitedChoice]]

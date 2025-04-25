@@ -391,6 +391,8 @@ to misc cool stuff
     * todo read
 * [Can Solar Costs Keep Shrinking?](https://unchartedterritories.tomaspueyo.com/p/can-solar-costs-keep-shrinking)
   * Design of super cheap maintainable solar farm.
+* [Understanding Solar Energy](https://www.construction-physics.com/p/understanding-solar-energy)
+    * Awesome breakdown about the practicalities and costs of solar energy
 * [Lawful but Awful? Control over Legal Speech by Platforms, Governments, and Internet Users ](https://lawreview.uchicago.edu/online-archive/lawful-awful-control-over-legal-speech-platforms-governments-and-internet-users) 2024
   * Any tech company that says "free speech on our platform" immediately backtracks, because it is not functional or profitable.
   * Option 1 - Tech companies police speech and set rules
@@ -432,3 +434,23 @@ to misc cool stuff
 * [metaculus.com](https://www.metaculus.com/)
     * People voting on the likely hood of stuff. Interesting ... but hokum .. 
 * [The Evolution of Tunnel Boring Machines](https://www.construction-physics.com/p/the-evolution-of-tunnel-boring-machines)
+* [The Bitter Prediction](https://4zm.org/2025/04/05/bitter-prediction.html)
+    * AI is more effective. Coding is fun. But machines will take the fun away with raw productiveness
+    * Example of hex editing the money in UFO Enemy unknown taking away the fun of the game
+* [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
+    * The 14 Reasons Why these Tariffs Will Not Bring Manufacturing Back
+    * beautifully written
+* [The Origins of Wokeness](https://paulgraham.com/woke.html)
+* [Sarah Wynn-Williams's 'Careless People'](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf)
+    * summary of facebooks evil - shocking
+* [What a refugee camp reveals about economics](https://archive.is/uUF3V)
+    * In Dzaleka, Malawi, everyone receives $9 a month
+    * Refugee's are not allowed to work - this would take jobs from citizens
+    * People make hand crafts, build there own huts, play football and go to church. Babys exploding (even with contraception) because people want children (they are fun and purposeful). Little/No education infra.
+    * [HN Comments](https://news.ycombinator.com/item?id=43589309)
+* [ai-2027](https://ai-2027.com/)
+    * Cool fiction/fact/prediction about the rise of AI in society and how it will end
+* [Stoop](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
+    * Hanging around outside your house with extra chairs and tea
+* [Unsong Book](https://unsongbook.com/)
+    * Apparently a masterpiece?

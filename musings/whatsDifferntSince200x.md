@@ -7,12 +7,12 @@ The old world is dead
 * Dating
   * 100's of potentials - mass app swipe left
   * Rather than being able to choose from 6 people - you have almost infinate
-* [Children should be board](./childrenShouldBeBored.md)
+* [Children should be bored](./childrenShouldBeBored.md)
   * Reduced Creativity
   * Reduced Autonamy (given the news feed, given the satnav route)
 * You don't own your computer - you don't choose to install software on it - someone else with other agendas installs software on it
 
 
-People don't find or explore content themselfs
+People don't find or explore content themselfs (See [[unlimitedChoice]])
 
 

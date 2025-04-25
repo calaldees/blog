@@ -39,3 +39,16 @@ Oat Pancakes
 ------------
 
 Inspired from [](https://www.loveandlemons.com/oatmeal-pancakes/)
+
+
+Cajun Mix (for chips)
+---------
+
+* teaspoons
+    * 1.5 salt
+    * 1.5 onion powder
+    * 1.0 garlic powder
+    * 1.0 smoked paprika
+    * 0.75 dried thyme
+    * 0.5 cayenne pepper
+    * 0.5 teaspoon black pepper

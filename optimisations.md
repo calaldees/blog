@@ -434,3 +434,10 @@ Other Links/References
   * > change your environment. If both you and your environment are a constant, you shouldn’t expect to end up in a different basin any time soon
     > ... new things will likely involve new environments and new people
     > commitment to a partner is devalued due to the ease of finding alternatives, the effects of which can be seen by how discontent much of the population is with dating apps.
+* > The mind finds what it's looking for, even if it has to create it to find it
+    * [Not everyone can be happy: your thoughts create your reality](https://youtu.be/TA7o2q_KiPE?si=WGX5VWi4xtdjGEko&t=410) YouTube 12min PsycHacks
+* [Why I don't discuss politics with friends](https://shwin.co/blog/why-i-dont-discuss-politics-with-friends)
+    1. Most people don't have political views, they have political tribes
+    2. Developing the political reasoning skills to graduate from tribes to views is incredibly difficult
+    3. Most people don't want to graduate from tribes to views
+    * > Often when someone asks "who did you vote for", what they're actually doing is verifying your adherence to group culture

@@ -5,10 +5,14 @@ Train Gates Dont work
 
 * Gate attendents do nothing
     * Wave last weeks ticket (they don't even look)
+        * Or mobile qr code
+        * Or just say how you changed train and some other bollocks
     * Slipstream (take no action)
     * physically push through (take no action - hoody up)
 * Canterbury
     * Climb over gate
+* Check ticket on train
+    * My season ticket card is cracked ... Then how did you get though the barriers? daily? you've been doing this for months? good ruse man
 
 * Waste of money and infrastructure to maintain barriers, power them, mechanically service them, internet connections for them, operators that do very little don't need to be employed
 

@@ -15,3 +15,9 @@ TODO: USB bus controller for motherboard?
     * [vintage3d.org/driver](https://www.vintage3d.org/driver.php)
 
 * [Megapost: Last versions of software for older operating systems](https://jetsetruri.neocities.org/blog/2024-04-23_megapost)
+
+
+* [Fastest DOS Machine ever](https://hackaday.com/2025/03/22/the-fastest-ms-dos-gaming-pc-ever/)
+    * Some modern moderboards support ISA with an adaptor board. So you can use PCIe graphics and install Windows98 from USB in a few seconds.
+* [win98-quickinstall](https://github.com/oerg866/win98-quickinstall)
+    * like nlite, but for windows98
