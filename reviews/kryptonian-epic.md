@@ -32,7 +32,7 @@ The Kryptonian Epic
     * Probably worth skipping the music tracks/videos to get into the story and return to them later when you know the characters
   * Other (maybe for reference in future)
     * Playlist: [The Kryptonian Epic](https://www.youtube.com/playlist?list=PL6ZoU17dorUP7ue-m22oyZ0KKT96Pynwv)
-      * Max's own playlist, but it's in release order not chronological order, has not been updated in a while and is missing items
+      * Max's own playlist, but it's in release order not chronological order
 
 Summary/Overview
 -----------------

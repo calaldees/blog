@@ -454,3 +454,43 @@ to misc cool stuff
     * Hanging around outside your house with extra chairs and tea
 * [Unsong Book](https://unsongbook.com/)
     * Apparently a masterpiece?
+* [The Coming Knowledge-Work Supply-Chain Crisis](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply) 2025
+    * > The meta-challenge here is that we’re using tools optimized for the constraint of yesterday (production capacity) while facing a completely different constraint today (judgement capacity). The organizations that thrive will be those that recognize this fundamental shift and redesign their workflows accordingly.
+* [The_Great_Automatic_Grammatizator (short story)- roalddahl predicted AI](https://roalddahl.fandom.com/wiki/The_Great_Automatic_Grammatizator_(short_story)) and how people would use and react to it - SciFi is an important social commentary
+* [If you are useful, it doesn’t mean you are valued](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean) - The difference can be subtle
+    * Useful means a workhorse to get meaningful things done
+    * Being valued is being asked for your opinion and being involved in direction
+* [Museum of Failure](https://museumoffailure.com/)
+    * Museum of Failure is a collection of failed products and services from around the world
+    * Innovation needs failure. All progress is built on learning from past failures and mistakes. The museum provides unique insight into the tricky business of innovation.
+* [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) 2025 - Thoughts from a senior dev - AI is here
+    * [HN Comments](https://news.ycombinator.com/item?id=44163063)
+        * > Did Photoshop kill graphic artists? Did film kill theatre? Not really. Things changed, sure. Was it “better”? There’s no counterfactual, so who knows? But change was inevitable.
+          > What’s clear is this tech is here now, and complaining about it feels a bit like mourning the loss of punch cards when terminals showed up.
+* [Why GUIs are built at least 2.5 times - Or - Why I Think Lean Software Development is Wrong](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
+    * > it is a process of discovery, of trying to find out What Is Right,
+      > ...
+      > The goal isn’t to Produce, the goal is to find out What We Should Build.
+      > ...
+      > So much of what is essential for Making Great Products, will look like “Waste”, when viewed through a manufacturing lens.
+* [Rwanda: Hate Radio 1993](https://rwandanstories.org/genocide/hate_radio.html)
+    * Interesting case study. Use of radio with an illiterate population to mobilize the unemployed to violence of a number of years
+    * 400,000 deaths (excluding disease)
+    * [HN Comments](https://news.ycombinator.com/item?id=44209833)
+* [The Visual World of 'Samurai Jack'](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack)
+* [Trying to teach in the age of the AI homework machine](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the) 2025
+    * The essay (output) is not what is valued - it's the students process and understanding in getting there
+    * > So a lot of AI work gets past my bullshit filter. The result is that grading and giving feedback — always a chore for teachers since time immemorial — now feels more adversarial and less collaborative. Which I hate;
+    * > to borrow a popular metaphor — they were using a 'forklift at the gym.'
+    * > There’s a big difference between having ChatGPT compose your emails because you don’t want to do it yourself and having AI compose your emails because you can’t do it yourself.
+    * > I’m going ask students to keep their devices put away and work their ideas onto the page by hand. Students will turn in hand-written freewrites, take notes on paper, mark up printed out readings, and receive line notes in colored ink — all that old school methodology that did successfully educate a number of generations before personal computers came along
+    * Trouble with pen and paper - most students are now not adept at it - and there will be kickback from from the 'disadvantaged/special' category that can't interface with it.
+* [The Recurring Cycle of 'Developer Replacement' Hype](https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/)
+    * No code was going to replace devs - it did not - it just made more roles for skilled db admins to untangle and interface with the no-code slop
+    * Cloud was going to remove sys-admins. They were just needed as dev-ops engineers
+* [American Disruption](https://stratechery.com/2025/american-disruption/)
+    * Manufacturing veteran talk about tariffs and the future of US manufacturing
+* [Dead Reckoning](https://www.damninteresting.com/dead-reckoning/)
+    * Long-Form/Podcast: The 18th century misadventures of HMS Wager and her reluctant crew
+    * Written by Alan Bellows • Non-Fiction • September 2019
+    * Crazy story! TODO read

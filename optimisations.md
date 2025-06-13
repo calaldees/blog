@@ -352,6 +352,24 @@ Other Links/References
 * If you feel that life is unfair then you will try to cheat or gamble. If you feel that life is fair, you work hard and earn your respect. If the only thing in your day that brings hope is a lottery ticket, or relief from alcohol or cigarette.
     * from [Morgan Housel](https://www.youtube.com/watch?v=vOvLFT4v4LQ&t=1668s)
 * People need a small amount of stress in their lives - if not, they invent stress's
+* [WisdomStoics](https://x.com/WisdomStoics/status/1923051880818541002)
+    * Assassin hour:
+        * Dedicate one hour a day where you operate like a silent assassin: no distractions, no excuses, no mercy
+        * Attack you most critical task with total focus
+        * 60 minuets of pure execution in "assassin mode" is worth 4 hours of normal effort
+    * People might create problems for you. But fixing your life if your responsibility
+    * Hard
+        * Marriage is hard. Devoice is hard. Choose your hard
+        * Obesity is hard. Being fit is hard. Choose your hard
+        * Being in debt is hard. Being financially disciplined is hard. Choose your hard
+        * Starting a business is hard. Working 9 to 5 job is hard. Choose your hard.
+        * Life will never be easy, but you can choose your hard
+    * A big part of being happy is being exited. Be exited for everything - making a cup of tea, seeing a friend, the next episode of your favorite show, buying something you've been saving up for, sunsets, traveling, falling in love. Live a life you are exited about.
+    * Be comfortable with being alone
+    * Ignoring red flags because you want to "see the good in people" will cost you later
+    * It's ok to outgrow people, jobs, places and even the person you once were ... it's proof you refused to settle for anything less than your full potential
+    * People who can't communicate think everything is an argument. People who lack accountability think everything is an attack.
+
 
 ### other mental models
 * [Mental Models: The Best Way to Make Intelligent Decisions (~100 Models Explained)](https://fs.blog/mental-models)
@@ -441,3 +459,9 @@ Other Links/References
     2. Developing the political reasoning skills to graduate from tribes to views is incredibly difficult
     3. Most people don't want to graduate from tribes to views
     * > Often when someone asks "who did you vote for", what they're actually doing is verifying your adherence to group culture
+* [Smart People Don't Chase Goals; They Create Limits](https://www.joanwestenberg.com/smart-people-dont-chase-goals-they-create-limits/)
+    * > A goal is a win condition. Constraints are the rules of the game. But not all games are worth playing. And some of the most powerful forms of progress emerge from people who stopped trying to win and started building new game boards entirely.
+    * > Setting goals feels like action. It gives you the warm sense of progress without the discomfort of change. You can spend hours calibrating, optimizing, refining your goals. You can build a Notion dashboard. You can make a spreadsheet. You can go on a dopamine-fueled productivity binge and still never do anything meaningful.
+    * > There’s a kind of internal rebellion that occurs when you set a goal you don’t believe in. You drag your heels. You sabotage yourself. You procrastinate, but not because you’re lazy. Because you’re not aligned.
+      > Anti-goals are constraints disguised as aversions. The entrepreneur who says, "I never want to work with clients who drain me" is sketching a boundary around their time, energy, and identity. It’s not a goal. It’s a refusal. And refusals shape lives just as powerfully as ambitions.
+    * > John Boyd: Do you want to be someone, or do you want to do something?
