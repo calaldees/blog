@@ -52,3 +52,15 @@ Cajun Mix (for chips)
     * 0.75 dried thyme
     * 0.5 cayenne pepper
     * 0.5 teaspoon black pepper
+
+
+Chips/Fries
+-----
+
+https://www.seriouseats.com/perfect-french-fries-recipe
+
+1. Boil (10min): 1000ml water + 15ml(?) vinegar + 10g salt for 10min (cold to boiling)
+2. Dry/Drain (5min) - on baking gauz
+3. Fry (50sec): 200deg/c for 50 seconds (adding chips/mass lowers the temperature. small batches - hot as you can get the oil!)
+4. Freeze (overnight)
+5. Fry(3min to 4min): Cook at 200deg/c (don't let it drop below 180deg/c)

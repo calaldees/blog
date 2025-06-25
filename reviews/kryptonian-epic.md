@@ -33,6 +33,8 @@ The Kryptonian Epic
   * Other (maybe for reference in future)
     * Playlist: [The Kryptonian Epic](https://www.youtube.com/playlist?list=PL6ZoU17dorUP7ue-m22oyZ0KKT96Pynwv)
       * Max's own playlist, but it's in release order not chronological order
+  * [YouTube #kryptonianepic](https://www.youtube.com/hashtag/kryptonianepic)
+    * Out of order - but has some interesting bytes that may not be in the other lists?
 
 Summary/Overview
 -----------------
