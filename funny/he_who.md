@@ -1,50 +1,50 @@
 He/She who ...
 ==========
 
-smelt it, dealt it
-denied it, supplied it
-deduced it, produced it
-cursed it, dispersed it
-refuted it, tooted it
-resented it, presented it
-lambasted it, blasted it
-mocked it, concocted it
-shunned it, gunned it
-rued it, brewed it
-exposed it, composed it
-addressed it, egressed it
-denigrated it, generated it
-renounced it, pronounced it
-policed it, unleashed it
-copped it, dropped it
-rejected it, projected it
-slated it, created it
-detested it, divested it
-failed it, exhaled it
-discovered it, uncovered it
-roasted it, posted it
-detracted it, enacted it
-jeered it, reared it
-scented it, vented it
-scored it, formed it
-attacked it, unpacked it
-knew it, grew it
-insulted it, sculpted it
-fought it, brought it
-spurned it, churned it
-disclaimed it, aimed it
-detected it, ejected it
-revealed it unsealed it
-said it, bred it
-beheld it, expelled it
-stated it, collated it
-detracted it, extracted it
-regaled it, mailed it
-reported it, flaunted it
-feared it, engineered it
-narrated it, evacuated it
-maligned it, refined it
-related it, created it
+* smelt it, dealt it
+* denied it, supplied it
+* deduced it, produced it
+* cursed it, dispersed it
+* refuted it, tooted it
+* resented it, presented it
+* lambasted it, blasted it
+* mocked it, concocted it
+* shunned it, gunned it
+* rued it, brewed it
+* exposed it, composed it
+* addressed it, egressed it
+* denigrated it, generated it
+* renounced it, pronounced it
+* policed it, unleashed it
+* copped it, dropped it
+* rejected it, projected it
+* slated it, created it
+* detested it, divested it
+* failed it, exhaled it
+* discovered it, uncovered it
+* roasted it, posted it
+* detracted it, enacted it
+* jeered it, reared it
+* scented it, vented it
+* scored it, formed it
+* attacked it, unpacked it
+* knew it, grew it
+* insulted it, sculpted it
+* fought it, brought it
+* spurned it, churned it
+* disclaimed it, aimed it
+* detected it, ejected it
+* revealed it unsealed it
+* said it, bred it
+* beheld it, expelled it
+* stated it, collated it
+* detracted it, extracted it
+* regaled it, mailed it
+* reported it, flaunted it
+* feared it, engineered it
+* narrated it, evacuated it
+* maligned it, refined it
+* related it, created it
 
 
 References
