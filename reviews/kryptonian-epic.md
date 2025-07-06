@@ -27,19 +27,22 @@ The Kryptonian Epic
   * Youtube [announcement](https://www.youtube.com/watch?v=7EScNz-wywY) 2020 8min
     * Max Landis announces a continuation to 'Superman: America Alien' to be delivered as theatre/pitches on his youtube channel
     * Make superman work as a character and a world
+  * [SUPERMAN: The Starlight Emperor - Trailer](https://www.youtube.com/watch?v=vYradE77lJg)
+    * Trailer made 4 years after the project started. Kind of showcases the mix of storytelling, theatre and animation. No spoilers.
   * Playlist: [The Kryptonian Epic In Order](https://www.youtube.com/playlist?list=PLKah2nGaqN71_vsV7jH01dEYyGpoG8uli)
     * 35 videos (as of July 2023) (some are 2 hours long!)
     * Probably worth skipping the music tracks/videos to get into the story and return to them later when you know the characters
   * Other (maybe for reference in future)
     * Playlist: [The Kryptonian Epic](https://www.youtube.com/playlist?list=PL6ZoU17dorUP7ue-m22oyZ0KKT96Pynwv)
       * Max's own playlist, but it's in release order not chronological order
-  * [YouTube #kryptonianepic](https://www.youtube.com/hashtag/kryptonianepic)
+  * YouTube [#kryptonianepic](https://www.youtube.com/hashtag/kryptonianepic)
     * Out of order - but has some interesting bytes that may not be in the other lists?
+
 
 Summary/Overview
 -----------------
 
-(This came from the first pinned comment to https://www.youtube.com/watch?v=s9xb8XrfZ9E)
+(This came from the first pinned comment to https://www.youtube.com/watch?v=s9xb8XrfZ9E) 2024
 
 
 So seeing as we're nearing the end of this weird multimedia project of collective projected imagination about the nice man in the red and blue and all his strange pals, I, a humble witness to the madness, have knocked together a guide to the whole of the Kryptonian Epic, a sort of directory that maps each "book" of the epic to the videos which tell their stories. If you watched any of these and felt you were missing some context, or if you need a reminder, this is for you, for everyone's who's been connecting dots and tracing lines across the infinite. It's a been a ride, and we're near the end, all of us, waiting for the worlds to collide and be soaked clean in fire and blood.  

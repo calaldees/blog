@@ -494,3 +494,10 @@ to misc cool stuff
     * Long-Form/Podcast: The 18th century misadventures of HMS Wager and her reluctant crew
     * Written by Alan Bellows • Non-Fiction • September 2019
     * Crazy story! TODO read
+* [Battery-electric "Infinity Train" will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
+    * for mining downhill - change the battery with freight downhill, then use battery to get train back to to top/mine on battery
+* [All-seeing eye](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy) 2025 - Vera C. Rubin Observatory
+    * can image the entire sky every night
+    * First time, get alerts for special events to get other telescopes to capture them
+    * Mad Mad Mad amounts of data
+* [Why Some LED Lights Feel Uncomfortable: Understanding PWM Flicker and Better Alternatives](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)

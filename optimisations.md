@@ -465,3 +465,23 @@ Other Links/References
     * > There’s a kind of internal rebellion that occurs when you set a goal you don’t believe in. You drag your heels. You sabotage yourself. You procrastinate, but not because you’re lazy. Because you’re not aligned.
       > Anti-goals are constraints disguised as aversions. The entrepreneur who says, "I never want to work with clients who drain me" is sketching a boundary around their time, energy, and identity. It’s not a goal. It’s a refusal. And refusals shape lives just as powerfully as ambitions.
     * > John Boyd: Do you want to be someone, or do you want to do something?
+* [Want to meet people, try charging them for it?](https://notes.eatonphil.com/2025-06-28-want-to-meet-people-charge-them.html)
+    * Charge for a meeting, but all the money goes to charities you have selected
+    * [](https://eatonphil.com/chat.html)
+        * > Please send me an email with the following to help me out:
+            * Your name
+            * Your LinkedIn
+            * What are we talking about?
+            * In-person or remote?
+            * If in-person, when will you be in NYC?
+            * If remote, what is your timezone and best hours?
+        * https://www.charitynavigator.org/
+            * Does it have an independent board
+            * Assets division?
+            * Whistle-blower policy
+            * Meeting minuets
+* [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/) 2025
+    * Called 'FSRS' algorithm (Jarrett Ye)
+    * [Anki](https://apps.ankiweb.net/) supports FSRS
+    * What is the best frequency - we know more now
+    * Graph of learning from large amounts of data
