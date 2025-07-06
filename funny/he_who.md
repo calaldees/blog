@@ -58,7 +58,9 @@ Physical manifestation idea
 ---------------------------
 
 * It would be wonderful to pay to have this commission to be written by hand in calligraphy, on quality paper, and present it framed in a bathroom.
+* The item could start with a large flamboyant "He/She who ..." followed by smaller text for the phrases.
 * The framing/ink would have to be moisture resistant, as bathrooms can become steamy and we would not want the masterpiece to degrade.
 * All of the phrases above do not have to be used. Personally select the best ones. They are not in any particular order and can be re-ordered for comic effect or progression.
 * Size. At the discretion of the creator. Bathrooms are normally smaller than livingrooms. Portrait may be a better orientation?
 * There could be an opportunity for an appropriate item of artwork to round off the bottom corner (or top corner? or both). This could be a simple as a toilet, or could be more evocative. Discretion of the creator. Any border at discretion of creator.
+* (TODO: I will think and hunt around for some text styles or decor examples that might be relevant)
