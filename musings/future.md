@@ -8,8 +8,10 @@ I toughly enjoyed looking at some predictions of the future this new year.
 * [Image 87 of The New York herald (New York, N.Y.), May 7, 1922, (SECTION SEVEN) ](https://www.loc.gov/resource/sn83045774/1922-05-07/ed-1?sp=87&r=0.3,0.239,0.702,0.331,0)
     * Predictions about 2022 from 1922
     * Scary accurate
-* Oh, 2022! [Looking 10 years](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
-* [Ten years ago, I predicted 2022. Did I get it right?](https://www.youtube.com/watch?v=NYj3DnI81AQ) Tom Scott YouTube 10min
+* Oh, 2022! [Looking 10 years](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html) -> 2023
+* Tom Scott
+    * 2012 -> [Ten years ago, I predicted 2022. Did I get it right?](https://www.youtube.com/watch?v=NYj3DnI81AQ) Tom Scott YouTube 10min
+    * 2014 -> [2030: Privacy's Dead. What happens next?](https://www.youtube.com/watch?v=_kBlH-DQsEg)
 * [Carl Sagan Predicts the Decline of America: Unable to Know “What’s True,” We Will Slide, “Without Noticing, Back into Superstition & Darkness” (1995)](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html) 2025
 
 (Being HTTP and centralised, I wonder how many of the resources above will be accessible, maybe IPSF and web3 will solve that, I digress)

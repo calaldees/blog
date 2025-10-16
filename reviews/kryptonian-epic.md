@@ -27,7 +27,7 @@ The Kryptonian Epic
   * Youtube [announcement](https://www.youtube.com/watch?v=7EScNz-wywY) 2020 8min
     * Max Landis announces a continuation to 'Superman: America Alien' to be delivered as theatre/pitches on his youtube channel
     * Make superman work as a character and a world
-  * [SUPERMAN: The Starlight Emperor - Trailer](https://www.youtube.com/watch?v=vYradE77lJg)
+  * [SUPERMAN: The Starlight Emperor - Trailer](https://www.youtube.com/watch?v=vYradE77lJg) 2025 1min
     * Trailer made 4 years after the project started. Kind of showcases the mix of storytelling, theatre and animation. No spoilers.
   * Playlist: [The Kryptonian Epic In Order](https://www.youtube.com/playlist?list=PLKah2nGaqN71_vsV7jH01dEYyGpoG8uli)
     * 35 videos (as of July 2023) (some are 2 hours long!)

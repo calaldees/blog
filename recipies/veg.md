@@ -61,6 +61,19 @@ from "Cooking from scratch"
     * diced parsley
 
 
+Kumi's Chickpea Curry
+---------------------
+
+Chickpea curry-->(Asian style)
+Soak chickpeas overnight so they’re nice and soft.
+Next morning, boil them with about half a teaspoon of salt.
+While that’s going, chop up 1 onion, 1 tomato, 2 green chillies, 3 garlic cloves, and a small piece of ginger.
+Heat a pan with just a teaspoon of oil, toss in a bay leaf, a star anise, a cardamom pod, and a little piece of cinnamon. Toast them gently to wake up the flavors.
+Add your chopped onion, chillies, garlic, and ginger. Saute until the onions turn golden or translucent. Add in the tomatoes and let them cook down a bit.
+Now add about 1/3 teaspoon turmeric, half a teaspoon of red chilli powder, and any herbs you love. Mix in the boiled chickpeas and adjust the salt (remember, you already added some while boiling) and water based on the required consistency (I add it until the Chickpeas of half covered with water, so that it goes well with rice or bread). Cook it for 4-7 mins on medium flame.
+Finish it off with a little butter and fresh coriander on top and you’re good to go! :slightly_smiling_face:
+
+
 Really Good Vegetarian Meatloaf (Really!)
 --------------------------------
 

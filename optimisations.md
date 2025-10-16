@@ -145,6 +145,13 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Lucky people (somewhat) make their own luck
         * [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
             * Share and talk about your expertise - create a network - make people aware of you
+* Communication
+    * ReFraming (Superpower): You can say the same thing - but the framing radically alters how it's received.
+        * That's stupid -> That is unwise
+        * You're dumb -> you have misunderstood
+        * Stop being a pussy -> have fortitude
+        * Consider your audience and self-edit/frame maturely and correctly when needed
+        * You can reframe almost anything
 * Attitudes and Ethos
     * A mood is contagious. You can sculpt this with skill and strength.
         * This is particularly important for children
@@ -241,6 +248,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > follow-up once I identify someone cool! (how to stay in contact)
         * Use the question "why". Use humor 25% of the answers. Mirror there phrases passionately (you're paying attention). laugh. Be authentic
     * Explicitly when reading highlight 2 words you thought were advanced and want to use more in your daily life. Do this every day
+    * Receiving Feedback
+        * > [Readers] are always right about something that they point out, but they’re usually wrong about what’s actually the problem.
 
 Other Links/References
 ======================

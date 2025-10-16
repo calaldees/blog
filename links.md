@@ -496,8 +496,49 @@ to misc cool stuff
     * Crazy story! TODO read
 * [Battery-electric "Infinity Train" will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
     * for mining downhill - change the battery with freight downhill, then use battery to get train back to to top/mine on battery
-* [All-seeing eye](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy) 2025 - Vera C. Rubin Observatory
+* Omega Telescope! [All-seeing eye](https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy) 2025 - Vera C. Rubin Observatory
     * can image the entire sky every night
     * First time, get alerts for special events to get other telescopes to capture them
     * Mad Mad Mad amounts of data
 * [Why Some LED Lights Feel Uncomfortable: Understanding PWM Flicker and Better Alternatives](https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521)
+* [AI Cameras Change Driver Behavior at Intersections - Unblinking eyes could lower the vehicular death toll](https://spectrum.ieee.org/ai-intersection-monitoring) 2025
+    * AI Cameras auto fining you
+    * The future from 'Demolition Man'?
+    * Unfortunately, without community and consequences there is little other way to manage this
+        * As people got more transport (e.g. more freedom) communities became harder to regulate
+* [Teacher Staff: leaving the profession: at capacity: There is no 'surplus'](https://www.linkedin.com/posts/colincattanacheducation_an-uncomfortable-truth-in-our-schools-activity-7349700695949746176-l5ss/)
+* [](https://www.linkedin.com/posts/matthewwemyss_a-computer-can-never-be-held-accountable-activity-7350418828696154114-i6te)
+    * > A computer can never be held accountable - therefore a computer must never make a management decision
+    * From a 1979 IBM training slide.
+* [There is No Meritocracy Without Lottocracy](https://assemblingamerica.substack.com/p/there-is-no-meritocracy-without-lottocracy) - Why random selection is necessary to create stable meritocratic institutions
+* [https://ui.adsabs.harvard.edu/abs/2010PhyA..389..467P/abstract](https://ui.adsabs.harvard.edu/abs/2010PhyA..389..467P/abstract)
+    * Promoting randomly is more effective than humans choosing who to promote
+* [Historical Tech Tree](https://www.historicaltechtree.com/)
+    * A huge horizontal scrolling webpage that has our tech tree!
+* [Reflecting on My Failure to Build a Billion-Dollar Company](https://sahillavingia.com/reflecting) 2025
+    * 10 year reflection on company growth
+    * VC's are assholes ... double your money every month WTF!? Rather than build something of value
+    * > happiness is about an expectation of positive change
+* [Training language models to be warm and empathetic makes them less reliable and more sycophantic](https://arxiv.org/abs/2507.21919) 2025
+* ['Universal cancer vaccine' trains the immune system to kill any tumor ](https://newatlas.com/cancer/universal-cancer-vaccine/)
+    * mRNA could cure cancer?
+* [The first professional online IQ test.](https://www.riotiq.com/)
+* [Cool People](https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf)
+    * > Cool and good, however, are not the same. Cool people are perceived to be more extraverted, hedonistic, powerful, adventurous, open, and autonomous, whereas good people are more conforming, traditional, secure, warm, agreeable, universalistic, conscientious, and calm. This pattern is stable across countries, which suggests that the meaning of cool has crystallized on a similar
+* [High-Fidelity Simultaneous Speech-To-Speech Translation](https://arxiv.org/abs/2502.03382)
+    * Real time speech translators
+* [Fast](https://www.catherinejue.com/fast) canges thing
+* [Slow](https://michaelnotebook.com/slow/index.html)
+    * What problems can human beings only solve over a very long period of time? And how can we build institutions that solve those problems?
+* [The physics of sales](https://howtogrow.substack.com/p/the-physics-of-sales)
+    * > BUYER-PULL > SELLER-PUSH
+    * > BUYER-PULL theory, which states that the primary force that closes a deal is a buyer trying to accomplish a project on their to-do list.
+* [The Peter principle revisited: A computational study](https://ui.adsabs.harvard.edu/abs/2010PhyA..389..467P/abstract)
+    * Promoting randomly is more effective than choosing to promote (As tasks at one level may not translate to tasks at another level)
+* [Sega Accused Of Using Police To Recover Nintendo Dev Kits It Had "Negligently Disposed Of"](https://www.timeextension.com/news/2025/09/sega-accused-of-using-police-to-recover-nintendo-dev-kits-it-had-negligently-disposed-of)
+    * Wild story of the UK police being the attack animals of big corps
+* [Why Today’s Humanoids Won’t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
+    * Humanoid robots are a long long long way off because we have no way of teaching them touch. We can train audio and images and text, we have lots of that, we don't have touch data.
+    * Humanoid robots will not be safe around humans, they can't be lent on for support, they cant move safely without touch.
+    * They will not move like humans and will not be universally dextrous
+* [Hoverfly Migration + pollen](https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622)
