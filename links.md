@@ -542,3 +542,10 @@ to misc cool stuff
     * Humanoid robots will not be safe around humans, they can't be lent on for support, they cant move safely without touch.
     * They will not move like humans and will not be universally dextrous
 * [Hoverfly Migration + pollen](https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622)
+* [How Anti-Cybercrime Laws Are Being Weaponized to Repress Journalism](https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php)
+    * take note of the pattern ...
+    * > Section 24, which made it illegal to publish false information online that was deemed to be “grossly offensive,” “indecent,” or even merely an “annoyance”—has been especially ripe for abuse
+    * > reinstate prison sentences for “defamation,” “insults,” and the “dissemination of data likely to disturb public order or undermine human dignity”
+* [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is) The Baumol Effect and Jevons paradox are related
+    * Jevons Paradox, which means, “We’ll spend more on what gets more productive”
+    * Baumol Effect, which means, “We’ll spend more on what doesn’t get more productive.”

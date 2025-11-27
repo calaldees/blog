@@ -56,13 +56,13 @@ Components
         * ATX Case (cheap 4u rack case)
         * [ATI Radeon HD 5450](https://www.ebay.co.uk/sch/i.html?_nkw=Radeon+HD+5450) - Modifiable for driving 15khz CRT display
             * [A guide to connecting your Windows PC to an SD CRT TV, PVM or Arcade Monitor](https://www.aussiearcade.com/forum/arcade/m-a-m-e-emulation-projects-and-discussion/89704-a-guide-to-connecting-your-windows-pc-to-an-sd-crt-tv-pvm-or-arcade-monitor?viewfull=1)
-        * GroovyArcade [live-CD](https://github.com/substring/os/releases/) (write extracted iso with [rufus](https://rufus.ie/en/) in DD mode)
+        * GroovyArcade [live-CD](https://github.com/substring/os/releases/) (write extracted iso with [rufus](https://rufus.ie/en/) in DD mode or https://etcher.balena.io/)
+            * is Arch linux with hacked Radeon drivers for 15khzCGA CRT output
             * [GitLab Wiki](https://gitlab.com/groovyarcade/support/-/wikis/home)
-            * Arch linux with hacked Radeon drivers for 15khzCGA CRT output
-    * (possible) Raspberry Pi (possible alternate solution)
+    * (possible? alternate) Raspberry Pi
         * [pi2scart and pi2jamma](http://pi2jamma.info/)
             * from [ArcadeForge](http://arcadeforge.net/Pi2Jamma-Pi2SCART/PI2SCART::264.html)
-    * (possible) All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
+    * (possible?) All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
         * [Game Elf](https://www.google.com/search?q=game+elf+JAMMA)
         * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
 * Input - 4 player controls + trackball + steering wheel
