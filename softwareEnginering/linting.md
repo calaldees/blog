@@ -19,7 +19,21 @@ People fear enforcing auto-formatters/linters on existing codebase's because:
 * Damage/loss to valuable code history (If applied to the whole repo)
     * Every line that is formatted obscures the original history. The original history/comments/intent are berried
 
-Solution
+
+Solution: `.git-blame-ignore-revs` (Current)
+--------
+
+* `.git-blame-ignore-revs` plain text file
+    * `commit_hash_here # Comment about why this commit is ignored`
+* `git config --global blame.ignoreRevsFile .git-blame-ignore-revs`
+* GitHub picks up this file automatically
+    * https://docs.github.com/en/repositories/working-with-files/using-files/viewing-and-understanding-files#ignore-commits-in-the-blame-view
+* https://graphite.com/guides/git-blame-ignore-revs#step-3-configuring-git-to-use-the-ignore-file
+* https://git-scm.com/docs/git-blame#Documentation/git-blame.txt---ignore-revs-filefile
+* https://gist.github.com/kateinoigakukun/b0bc920e587851bfffa98b9e279175f2
+
+
+Solution: Rewrite history (Old)
 --------
 Replay code formatting to every previous commit to preserve the original author + date + message.
 The commit-hash's will have changed by the history will be preserved.
