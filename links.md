@@ -549,3 +549,8 @@ to misc cool stuff
 * [Why AC is cheap, but AC repair is a luxury](https://a16z.substack.com/p/why-ac-is-cheap-but-ac-repair-is) The Baumol Effect and Jevons paradox are related
     * Jevons Paradox, which means, “We’ll spend more on what gets more productive”
     * Baumol Effect, which means, “We’ll spend more on what doesn’t get more productive.”
+* [Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
+* [When Stick Figures Fought](https://animationobsessive.substack.com/p/when-stick-figures-fought) 
+    * Xiao Xiao 2001
+    * Nike lawsuite
+* [#314: How wealth dies: THE NOTIONAL VALUE TRAP](https://surplusenergyeconomics.wordpress.com/2025/11/02/314-how-wealth-dies/) 2025

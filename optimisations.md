@@ -250,6 +250,8 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Explicitly when reading highlight 2 words you thought were advanced and want to use more in your daily life. Do this every day
     * Receiving Feedback
         * > [Readers] are always right about something that they point out, but they’re usually wrong about what’s actually the problem.
+    * [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
+        * Work to make yourself redundant (and not the constant middleman)
 
 Other Links/References
 ======================
