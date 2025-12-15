@@ -16,7 +16,7 @@ sudo pacman --sync --refresh \
     base-devel \
     chromium \
     docker \
-    python-pip \
+    uv \
     make \
     git \
     p7zip \
@@ -107,11 +107,8 @@ git clone https://github.com/calaldees/rhasspy-load-mame.git
 cd rhasspy-load-mame
 make build
 make start_service
-# go to localhost:12101 or `ip address :12101` and download 100mb of packages + restart
+# open http://localhost:12101  - or `ip address :12101` and download 100mb of packages + restart
 # maybe set sound capture device `arecord` and sound output device
-
-pacman -Sy python-pip
-pip install websockets
 make websocket
 
 make install_lxde_startup

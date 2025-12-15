@@ -459,22 +459,46 @@ I set about making my own voice recondition UI interface.
 ## Run on `rhasspy-load-mame` on GroovyArcade at startup
 
 Tested on _GroovyArcade 2021.01_.
-Set GroovyArcade to boot to LXDE as a frontend. You need to be in an existing X-session for `swtichres` to work.
+Set GroovyArcade to boot to LXDE as a frontend. (You need to be in an existing X-session for `swtichres` to work.)
+
+```
+# Set desktop boot frontend lxkde
+# Set locale/keyboard
+sudo pacman --sync --refresh \
+    base-devel \
+    chromium \
+    docker \
+    uv \
+    make \
+    git \
+    p7zip \
+    dosbox \
+&& true
+sudo usermod -aG docker $USER
+sudo chmod 666 /var/run/docker.sock
+# restart
+systemctl start docker.service
+
+
+    qt6-base \
+    icu \
+
+
+```
 
 ```bash
     # Arch Linux Docker Tutorial
     # https://linuxhint.com/arch-linux-docker-tutorial/
     sudo su root
         systemctl disable systemd-networkd-wait-online.service
-        pacman -Sy docker    
+        pacman -Sy docker
         systemctl start docker.service
         systemctl enable docker.service
         gpasswd -a arcade docker
 ```
 ```bash
     # Install rhasspy-load-mame
-    pacman -Sy git
-    pacman -Sy make
+    pacman -Sy git make uv
 
     mkdir -p ~/code/
     cd ~/code/
@@ -482,13 +506,11 @@ Set GroovyArcade to boot to LXDE as a frontend. You need to be in an existing X-
     cd rhasspy-load-mame
     make build
     make start_service
-    # go to localhost:12101 or `ip address :12101` and download 100mb of packages + restart
+    open http://localhost:12101
+    # goto localhost:12101 or `ip address :12101`. click download 100mb of packages + restart
 
-    pacman -Sy python-pip
-    pip install websockets
-    make install_startup # ???
     make websocket
-``` 
+```
 
 Switchres
 ---------
@@ -532,7 +554,7 @@ graph TD
     jamma_board[External  Real JAMMA Board]
     flipdott[FlipDott Display]
     24v[24V PSU] --> flipdott
-    
+
     PC --vga--> jpac
     jpac --usb--> PC
 
@@ -567,7 +589,7 @@ graph TD
     analogstick --usb--> PC
 
 
-    subgraph controls    
+    subgraph controls
         joystick1
         joystick2
         joystick3
