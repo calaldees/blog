@@ -554,3 +554,16 @@ to misc cool stuff
     * Xiao Xiao 2001
     * Nike lawsuite
 * [#314: How wealth dies: THE NOTIONAL VALUE TRAP](https://surplusenergyeconomics.wordpress.com/2025/11/02/314-how-wealth-dies/) 2025
+    * Macro level breakdown of how 'real world value' and 'money (proxy value)' are diverging
+* [The Polyglot Neuroscientist Resolving How the Brain Parses Language](https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/)
+    * > “You can think of the language network as a set of pointers,” Fedorenko said. “It’s like a map, and it tells you where in the brain you can find different kinds of meaning. It’s basically a glorified parser that helps us put the pieces together — and then all the thinking and interesting stuff happens outside of [its] boundaries.”
+* [Just 0.001% hold three times the wealth of poorest half of humanity, report finds](https://www.theguardian.com/inequality/2025/dec/10/just-0001-hold-three-times-the-wealth-of-poorest-half-of-humanity-report-finds)
+* [Making Democracy Work: Fixing and Simplifying Egalitarian Paxos (Extended Version)](https://arxiv.org/abs/2511.02743)
+    * > Not relying on a single leader allows the protocol to maintain non-zero throughput with up to   crashes of any processes out of a total of  . The protocol furthermore allows any process to execute a command   fast, in   message delays, provided no more than      other processes fail, and all concurrently submitted commands commute with  ; the latter condition is often satisfied in practical systems. `
+* [The Ion Fury controversy.](https://forums.digitalspy.com/discussion/2349398/the-ion-fury-controversy)
+    * [Ion Furore](https://web.archive.org/web/20190826090817/https://medium.com/@sophnar0747/ion-furore-19b2aa371c6b) [again?](https://web.archive.org/web/20210131033440/https://medium.com/@sophnar0747/ion-furore-19b2aa371c6b)
+    * [Ion Fury Studio Apologizes For Developers’ ‘Sexist And Transphobic’ Comments, Will Patch Out Offensive Jokes](https://kotaku.com/ion-fury-studio-apologizes-for-developers-sexist-and-tr-1837382905)
+* [Tinnitus Neuromodulator](https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php)
+    * A website to identify your tinnitus frequencies to help build resistance to it.
+* YouTube [Patrick Winston: How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) 1 hour
+    * [HN Comments](https://news.ycombinator.com/item?id=45095849)

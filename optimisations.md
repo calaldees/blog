@@ -496,3 +496,6 @@ Other Links/References
     * [Anki](https://apps.ankiweb.net/) supports FSRS
     * What is the best frequency - we know more now
     * Graph of learning from large amounts of data
+* [Thin Desires Are Eating Your Life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
+    * Short term dopamine scales - 'Thick desires' takes years and don't scale, but are real and rewarding.
+* [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
