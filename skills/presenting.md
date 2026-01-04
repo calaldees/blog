@@ -6,8 +6,7 @@ Presenting
   1. "umm" or "errr"
     * Anecdotes: Told the CEO 213 ums + 42 ums = 255 ums
     * Strategy: Practice a talk to someone and ask them to bang the table every time you do this.
-  2. "Basically", "Simply", "So", "Ok", "Just" ...
-    * or any other superfluous word
+  2. "Basically", "Simply", "So", "Ok", "Just" ... (or any other superfluous word)
     * You are on a word budget. Ration your words!
     * "All you have to do", "Basically" or "Simply" should be banned. These trivialise a subject
     * Stop asking of things are "ok". If you need too, Deliberately request a response and pause sufficiently if needed to get this response.
@@ -22,21 +21,30 @@ Presenting
       * Bring all the adaptors and cables you need (with sufficient length)
     * Maybe slack screen share as primary
 * Physical Space
-  * Look where the lights are
-* Hands should be free
+  * Look where the lights are - are you in shadow?
+  * Don't turn the lights off (people need to see you more than the screen)
+* Both hands should be free (sometimes hold a prop - like a pen, for use with pointing)
   * Technique: Use your hands and stage position to tell a story
     * Interpretive dance
   * Strategy: Practice with and/or Learn to use a mic (if needed)
 * Technique: Learn to project your voice
   * You can't speak normally. This is a different setting!
-  * Each - Word - Should - Be Clear (demo this speach - normal and then 'purposeful + projected')
-* Behaviour and crowd control
-  * Don't start until you have everyone's attention
+  * Each - Word - Should - Be Clear (demo this speech - normal and then 'purposeful + projected')
+* Behavior and crowd control
+  * Don't start until you have everyone's attention (even with adults)
     * Stick to your guns
     * Stop talking when they loose focus - they will look back at you to find out why you've paused and they will probably find you silently making eye contact back at them. This shows you know and are aware.
   * To bring people back with no-verbal queues
     * Use eye contact
     * Hand gestures to bring people forward and refocus
     * If people are distracted (using their phone, or computer, or talking) - Have the courage to pause - wait for eye contact - nod or smile or raise -eyebrow - move on
+
+Additional
+----------
 * [tedx_speaker_guide.pdf](https://storage.ted.com/tedx/manuals/tedx_speaker_guide.pdf)
 * [ How I do (and don’t) prepare a talk for a tech conference ](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
+* [Getting into public speaking](https://james.brooks.page/blog/getting-into-public-speaking)
+  * Everything is a story
+  * Big fonts. Bigger still
+  * Take off your lanyard
+  * Be yourself, but also be a performer

@@ -8,7 +8,7 @@ Fast forward to 2010+. The best quality information on the planet is freely avai
 Has "access to information" eradicated class inequality.
 No.
 
-I was 15 years old and trying to program in Pascal - no books - no network/people
+When I was 15 years old, I tried to program in Pascal - no books - no network of people. Just a few friends at school and access to magazines.
 
 Why are there people that are starting degree programs and have never written a line of code?
 You would not start an art degree if you'rd never picked up a paintbrush.
@@ -16,11 +16,13 @@ You would not start a music degree if you've never picked up an instrument.
 Why is this different for Computing?
 
 There are so many free quality resources available in seconds and all the software is free.
-The problem is not access to information .. 
-the problem is people are lazy, unmotivated and unable to think strategically and action things in their lives.
-Or maybe the average person is just not capable of this.
-Or why bother? Even if we don't self-actualise we have our basic needs met. Why play the game of trying to self improve?
+The problem is not access to information ..
+The problem is people are unable to think strategically and action things in their lives.
+The average person is distracted and disarmed by social media 'likes', 'in game achievements' and shock outrage that is akin to fiction.
 
-Lean to cod
-(well not quite)
+Or why bother to learn any new skills? The road is too long. Even if we don't self-actualize we have our basic needs met. Why play the game of trying to self improve? AI can already solve most code problems that you could solve even with 3 years of hard study.
 
+You don't even need to type the first search correctly.
+Try both of these searches in Google or an LLM
+'Learn to cod'
+'Lean to code'

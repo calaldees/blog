@@ -69,10 +69,17 @@ Caribbean Black Eyed Peas
 
 Stir Fry Pork
 -------------
-Ian's recipe
 
+
+* Cooking plain rice + stream to dry(ish)
 * Pork diced (marinade in soy sauce for a few hours)
-* Cooking rice + cool to room temperature
+* fresh green beans (or other veg that's crunchy)
+* Fry greens (so they sear and brown)
+* Fry pork
+* Chuck in rice
+* Chuck in a beaten egg
+
+Ian's recipe
 * Fry pork with finely chopped garlic, ginger and chilli,
 * add some chopped veggies - stuff like spring onion, brocolli, peas
 * Season with a bit more soy sauce and salt/pepper to taste

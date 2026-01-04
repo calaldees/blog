@@ -499,3 +499,11 @@ Other Links/References
 * [Thin Desires Are Eating Your Life](https://www.joanwestenberg.com/thin-desires-are-eating-your-life/)
     * Short term dopamine scales - 'Thick desires' takes years and don't scale, but are real and rewarding.
 * [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+* [How I rebooted my social life](https://takes.jamesomalley.co.uk/p/this-might-be-oversharing) [HN Comments](https://news.ycombinator.com/item?id=46453114)
+    * Work from home - middle age - amazon/deliveroo - partner - boardband/netflix - online comms == never leave house
+    * Community has invisible norms and you all must comply - city is freedom as everyone can be individual
+    * Communities require
+        * A community needs a common connection or interest
+        * A place for people to interact informally
+        * A mechanism for new people to join, to prevent it from decaying over time
+        * (regular - to plan around - allocate time)
