@@ -252,6 +252,15 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > [Readers] are always right about something that they point out, but they’re usually wrong about what’s actually the problem.
     * [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
         * Work to make yourself redundant (and not the constant middleman)
+* Meta-cognition
+    * "Why did I react like that?"
+    * Constant inner voice. Why? Why are there two of you? Are you the listener? or are you the speaker? This inner voice is always judging and planning and it will never stop. It is the source of all your issues. It's having imaginary conversations with people without having them
+* "The comedian does not decide if the joke is funny. The audience do"
+* [Good Person](https://www.youtube.com/shorts/qmIdvB84Trk)
+    * Kindness to strangers or animals does not make you a good person. Kindness to the people in your own home (family) is the measure. Everything external is "Image Management"
+* [How a real parent handles disrespect](https://www.youtube.com/shorts/6VEEvC3Jd14)
+    * kid was mildly disrespectful to his mum "chill out". Dad immediately asked him to do pushups and squats and then asked, "Should you talk to you mum like that", You don't want other people talking to her like that, so don't do it yourself
+
 
 Other Links/References
 ======================

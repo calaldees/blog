@@ -567,3 +567,22 @@ to misc cool stuff
     * A website to identify your tinnitus frequencies to help build resistance to it.
 * YouTube [Patrick Winston: How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) 1 hour
     * [HN Comments](https://news.ycombinator.com/item?id=45095849)
+* [Scientists research man missing 90% of his brain who leads a normal life](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.3679117/scientists-research-man-missing-90-of-his-brain-who-leads-a-normal-life-1.3679125)
+    * 90% of brain is fluid. Man an IQ of 84 and can still work
+* [Humans peak in midlife: A combined cognitive and personality trait perspective](https://www.sciencedirect.com/science/article/pii/S0160289625000649) 2025
+    * 20 year olds have peak fluid intelligence, but experience and empathy make people useful.
+    * Traits converge between 40to60 years old at 'peek'
+* Physics
+    * [Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/)
+        * Best science article eva
+        * Raleigh scattering
+    * [The Physics of Parabolic Microphones: Frequency Dependence of Gain](https://legallyblindbirding.net/2023/10/13/frequency-dependence-of-parabolic-microphone-gain/)
+* [Japan to revise romanization rules for first time in 70 years](https://www.japantimes.co.jp/news/2025/08/21/japan/panel-hepburn-style-romanization/) 2025
+* [Why Effort Scales Superlinearly with the Perceived Quality of Creative Work](https://markusstrasser.org/creative-work-landscapes.html) 2025
+* [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/posts/65-of-hacker-news-posts-have-negative-sentiment-and-they-outperform/)
+* [Design Thinking Books You Must Read (updated)](https://www.designorate.com/design-thinking-books/) 2024
+    * Design thinking involves everything we build
+* [The mysterious black fungus from Chernobyl that may eat radiation](https://www.bbc.co.uk/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation)
+* [Hold on to Your Hardware](https://マリウス.com/hold-on-to-your-hardware/) 2026
+    * > the industry’s priorities have fundamentally changed
+    * > nothing is yours, nothing is private

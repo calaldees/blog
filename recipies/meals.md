@@ -49,22 +49,38 @@ From 'Cooking from Scratch'
 Caribbean Black Eyed Peas
 -------------------------
 
-* 8 spring onions
-* 3 smoked bacon (rinds removed + diced)
-* 2 cloves garlic
-* 250g rice
-* 1 can tomatoes
-* 1 can kidney beans
-* 1 fresh red chilli
-* 2 bay leaves
-* .5 teaspoon of
-    * tumeric
-    * cumin
-    * thyme
-* 375ml chicken stock
+Can be frozen into individual packets.
+Recipe can be scaled up to cook in huge batches.
+Buy the beans dry for ultra cheapness.
+Can be cooked in one massive pot.
+
+* Ingredients
+    * Fresh bits
+        * 8 spring onions (a normal bunch from supermarket)
+        * 1 fresh red chilli
+        * 500g cooking bacon (rinds and fat removed - this is the time consuming bit) (should be cheap at supermarket)
+        * Fresh lime (optional - see end)
+    * Cupboard bits
+        * 2 cloves garlic
+        * 250g rice
+        * 1 can tomatoes
+        * 1 can black eye beans (or kidney beans)
+        * 2 bay leaves
+        * .5 teaspoon of
+            * tumeric
+            * cumin
+            * thyme
+        * 375ml chicken stock
+        * Lime juice (need to measure - I chug 1/8th of a bottle in)
+* Method
+    * Cook bacon - drain excess fat multiple times
+    * Add everything else (apart from spring onion)
+    * (optional) Sometimes I cut up a fresh lime and chuck it all in - including the rind
+    * Low/Med heat for 30min (can do longer if desired)
+    * Stir in sliced spring onion before serving
 * Serve
     * 1 lime cut into wedges
-    * Additional lime juice
+    * Additional lime juice to drizzle
 
 
 Stir Fry Pork

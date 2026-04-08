@@ -62,6 +62,7 @@ Components
     * (possible? alternate) Raspberry Pi
         * [pi2scart and pi2jamma](http://pi2jamma.info/)
             * from [ArcadeForge](http://arcadeforge.net/Pi2Jamma-Pi2SCART/PI2SCART::264.html)
+        * [Building a 24-bit Arcade CRT Display Adapter, From Scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
     * (possible?) All-in-one Emulated off the shelf JAMMA board (possible alternate solution)
         * [Game Elf](https://www.google.com/search?q=game+elf+JAMMA)
         * [Pandoas Box](https://www.google.com/search?q=pandora%27s+box+JAMMA)
