@@ -61,6 +61,35 @@ from "Cooking from scratch"
     * diced parsley
 
 
+Red Lentil Curry
+-----------------
+
+Inspired by https://rainbowplantlife.com/vegan-red-lentil-curry/
+
+* Spices - Fry for 60 seconds in coconut oil
+    * 2tsp Curry Powder
+    * 1tsp Garam Masala
+    * 1tsp Cumin
+    * 1tsp Tumeric
+    * .5tsp Coriander
+    * 4 Cloves Garlic (crushed)
+    * 2inch Ginger (grated)
+    * 2 fresh red Chillies - or chili powder to taste
+* Bulk
+    * 250ml Red lentils
+    * 375ml Vegetable stock
+    * 1 can chopped tomatoes
+    * 1 can coconut milk
+    * 1 tablespoon Almond butter (can do more)
+* Fresh
+    * Coriander
+
+Lightly boil for for 30min
+
+My thing - Optional:
+* 2 chunky parsnips for body
+
+
 Kumi's Chickpea Curry
 ---------------------
 

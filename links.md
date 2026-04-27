@@ -586,3 +586,5 @@ to misc cool stuff
 * [Hold on to Your Hardware](https://マリウス.com/hold-on-to-your-hardware/) 2026
     * > the industry’s priorities have fundamentally changed
     * > nothing is yours, nothing is private
+* [Let's talk space toilets!](https://mceglowski.substack.com/p/lets-talk-space-toilets)
+    * The state of space toilets - past and future
