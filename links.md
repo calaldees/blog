@@ -588,3 +588,8 @@ to misc cool stuff
     * > nothing is yours, nothing is private
 * [Let's talk space toilets!](https://mceglowski.substack.com/p/lets-talk-space-toilets)
     * The state of space toilets - past and future
+* [Why not Venus?](https://mceglowski.substack.com/p/why-not-venus)
+    * Life in the clouds?
+* [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
+    * The scale and size of refineries is insane!
+    * Great diagrams of cracking
