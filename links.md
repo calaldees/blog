@@ -593,3 +593,10 @@ to misc cool stuff
 * [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
     * The scale and size of refineries is insane!
     * Great diagrams of cracking
+* [The quiet disappearance of the free-range childhood](https://bigthink.com/mind-behavior/the-quiet-disappearance-of-the-free-range-childhood/)  When can a kid play outside alone? Two parents, one stranger, and the state collide.
+    * TO READ
+    * [Always On, Always Connected, Always Searching, Always Distracted](https://leejo.github.io/2025/06/10/always_on/)
+* [Vocal Guide](https://jesperordrup.github.io/vocal-guide/)
+    * Styles and examples
+* [AI Killed My Job: Translators](https://www.bloodinthemachine.com/p/ai-killed-my-job-translators)
+* [Heritability of human life span is about 50% when heritability is redefined to be something different](https://dynomight.net/lifespan/)
