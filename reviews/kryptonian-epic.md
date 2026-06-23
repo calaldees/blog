@@ -32,6 +32,9 @@ The Kryptonian Epic
   * Playlist: [The Kryptonian Epic In Order](https://www.youtube.com/playlist?list=PLKah2nGaqN71_vsV7jH01dEYyGpoG8uli)
     * 35 videos (as of July 2023) (some are 2 hours long!)
     * Probably worth skipping the music tracks/videos to get into the story and return to them later when you know the characters
+    * I think I started with [Superman: Agent Of Batman - Pitch by Max Landis - #kryptonianepic](https://www.youtube.com/watch?v=MpLW3cB-U58). (caution - the audio quality is not great for this particular video)
+      * I don't think (other than the finale parts) the order overly matters. Landis is constantly name dropping and citing other parts. I don't think there is really a thing as spoilers. It's more about you as a watcher understanding the world and characters and you piece that together without too much order. Maybe in future I will come up with my own run order.
+      * I don't think the technical chronological order as presented works as a way to induct new watchers. I recommend starting with 'Agent of Batman'
   * Other (maybe for reference in future)
     * Playlist: [The Kryptonian Epic](https://www.youtube.com/playlist?list=PL6ZoU17dorUP7ue-m22oyZ0KKT96Pynwv)
       * Max's own playlist, but it's in release order not chronological order
