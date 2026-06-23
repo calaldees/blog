@@ -3,9 +3,9 @@ The Kryptonian Epic
 
 "The Kryptonian Epic" Max Landis DC inspired universe.
 
-Below is a set of a links to a screenwriter, who has had a turbulent 'canceled' career in recent years, but is still releasing exceptionally interesting content. 
-He conveys an entire saga, retelling his own reinterpretation of superman. He does this by just talking to the camera and then ups the anti by getting some of his friends dressed in cosplay and filming re-enactments in a theatre. 
-It's a really impressive and immersive way of storytelling that is somewhere between 'writing', 'theater performance' and 'a movie'.
+Below is a set of a links to a screenwriter, who has had a turbulent 'canceled' career in recent years, but is still releasing exceptionally interesting content.
+He conveys an entire saga, retelling his own reinterpretation of superman. He does this by just talking to the camera and then ups the anti by getting some of his friends dressed in cosplay, filming re-enactments in a theatre and short amateur animated sequences with an original soundtrack.
+It's a really impressive and immersive way of storytelling that is somewhere between 'writing', 'theatre performance' and 'a movie' series.
 
 Earlier Projects
 ----------------
