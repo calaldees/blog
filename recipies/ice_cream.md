@@ -11,3 +11,11 @@ Nuttela and peanut butter Ice Cream
 * 1/2 nuttela
 * 1/2 peanut butter
 * Dollop nutella and peanut butter chunks before freezer
+
+
+Coconut Sorbet
+--------------
+
+* 1 Can coconut milk (full fat) (400ml?)
+* 125ml Cocunut water?
+* 75g sugar

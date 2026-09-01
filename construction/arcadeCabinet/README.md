@@ -43,4 +43,3 @@ Other references
             * getvan.co.uk
             * anyvan.com
             * uship.com
-

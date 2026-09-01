@@ -600,3 +600,9 @@ to misc cool stuff
     * Styles and examples
 * [AI Killed My Job: Translators](https://www.bloodinthemachine.com/p/ai-killed-my-job-translators)
 * [Heritability of human life span is about 50% when heritability is redefined to be something different](https://dynomight.net/lifespan/)
+* [It's a shame what's happened to radio (jimgrey.net)](https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/) 2009 + 2026
+    * [HN Comments](https://news.ycombinator.com/item?id=48999825)
+* [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
+    * > Some of my worries about having kids were right, though. They definitely make you less productive. I know having kids makes some people get their act together, but if your act was already together, you’re going to have less time to do it in.
+    * > All the people I admire most are builders. I have devoured biographies and studied many great founders. Unfortunately this led me to an uncomfortable conclusion: most of them are horrible parents.
+    * > great fathers and great achievers rarely overlap

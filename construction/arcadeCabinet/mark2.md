@@ -163,6 +163,15 @@ Components
             * (3*25.5cm (p1 + p2 + trackball) + 2*21.5cm (p3 + p4)) == 120cm
         * Added flip-dot marque (width 131cm)
 
+Other Projects
+--------------
+
+* Instructions and Hardware for other GroovyMame projects
+    * [Building a GroovyMAME + CRT Emudriver PC in 2025](https://www.buriedbits.org/building-a-groovymame-crt-emudriver-pc-in-2025)
+    * [last amd cpu with built in emudriver compatible gpu](https://forum.arcadecontrols.com/index.php?topic=167184.0)
+    * [GroovyMAME real-time tips and configuration](https://github.com/antonioginer/GroovyMAME/blob/groovymame0289/docs/groovymame/real-time.md)
+        * `-nosleep -autoframedelay -framedelay 0 -sound part -audio_latency 0`
+
 
 Making of Mark2
 ---------------
@@ -404,6 +413,9 @@ Steering Wheel
         * z-axis = break 5v
         * button 1 = gear low/high
         * button 2 = (button on shifter) [for ChaseHQ turbo]
+    * The U-HID has to be programmed/configured/setup with software. Each pin can be a button or an analog axis and needs to be configured.
+    * Sadly - Ultramarc only offers a _Windows_ configuration utility
+        * There is a 3rd party linux-cli [Ultimarc-linux](https://github.com/katie-snow/Ultimarc-linux), but it's fiddly
     * ![U_Config screenshot of U-HID Nano](./images/U_Config.gif)
     * [UConfig_wheel.xml](./UConfig_wheel.xml)
 * MAME Config
@@ -456,6 +468,7 @@ I set about making my own voice recondition UI interface.
         * Launch MAME
         * Duck volume on activating keyword
         * `grep` game names
+* People can browse a list of games on their mobile phones at [spludlow.co.uk](https://data.spludlow.co.uk/mame/machine) - web accessible mame lists
 
 ## Run on `rhasspy-load-mame` on GroovyArcade at startup
 
@@ -530,7 +543,7 @@ https://github.com/substring/os/blob/2020.03/overlay/groovyarcade/home/arcade/.a
 
 
 
-Marque
+Marque (Concept)
 ------
 
 Concept - when a game is selected with rhasspy-load-mame, the marque can be set with RS232 serial.
@@ -538,6 +551,44 @@ Concept - when a game is selected with rhasspy-load-mame, the marque can be set 
 * [Flip dot display](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2060353.m570.l1311&_nkw=flip+dot+display&_sacat=0)?
 * [Flip-Dot Display Brought Out Of Retirement By New Drivers](https://hackaday.com/2017/11/21/flip-dot-display-brought-out-of-retirement-by-new-drivers/)
     * [Hanover FlipDot Display RS485 Driver](https://github.com/tuna-f1sh/node-flipdot)
+
+
+Vertical Screen Mount (2026)
+---------------------
+
+* Playing Vertical 3:4 games on an Horizontal 4:3 screen is sub standard.
+* Display is interlaced (flickery) and visably burly (scaled).
+* The real soluton == a vertical display.
+* Originally I could not do this, the TV was not designed to be mounted this way.
+* I created a custom read cutout to support the screen when phycally oriented at 3:4.
+* The mount will be custom to the TV you have.
+* Yes; you have to physically man-handle the screen to rotate it, but if you want the _real deal experience_ you've gotta put in some work.
+
+`mame.ini`
+```ini
+autorotate      0 # TODO? What?
+```
+
+
+Light Guns (Concept)
+----------
+
+* [Ultramarc: AimTrak Light Gun With Recoil](https://www.ultimarc.com/light-guns/aimtrak-light-gun/aimtrak-light-gun-with-recoil/)
+* Should work with GroovyMame and a CRT?
+
+
+GroovyArcade Update
+-------------------
+
+* Arch linux is fragile - updating one system package could break lots of other linked libraries
+
+* If after a system update `lxde` wont start
+* `startlxde` fails because x is not loaded
+```
+nano ~/.xinitrc
+    # Add to bottom
+    exec startlxde
+```
 
 
 Overview
