@@ -606,3 +606,22 @@ to misc cool stuff
     * > Some of my worries about having kids were right, though. They definitely make you less productive. I know having kids makes some people get their act together, but if your act was already together, you’re going to have less time to do it in.
     * > All the people I admire most are builders. I have devoured biographies and studied many great founders. Unfortunately this led me to an uncomfortable conclusion: most of them are horrible parents.
     * > great fathers and great achievers rarely overlap
+* [Smaller reactors bring nuclear power closer to fulfilling its promise](https://www.nature.com/articles/d41586-026-02506-4)
+    * Details about small reactors and fuel - the fuel needs to be carefully made to the right tolerances
+* [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+    * The Windows 95 naked baby hologram - everyone is outrages about everything
+* [The Real Cost of Owning a Home](https://ericturner.dev/posts/cost-of-home-ownership/)
+    * A real breakdown of transfer costs (estate agents and solicitors), maintinence
+    * A reasonably convincing argument
+* [The contagion of fear](https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/)
+    * Story of an undergraduate that played a prank by announcing a computer virus escaped the computer lab and caused chaos
+    * Average people need to rely on experts for advice - that's the way the world works
+    * Most of the top AI guys are not security experts or economists, so it's hard for them to comment on these areas
+    * > Carl Segan: extraordinary claims require extraordinary evidence
+* [Teleoperated Humans](https://www.jefftk.com/p/teleoperated-humans)
+    * We already have SatNav, where people don't need to know a city and can drive there.
+    * The computer takes care of the overall strategy and the human is good at responding to real world responses.
+    * Expand that to many more occupations - you could have a fair more junior operator following AI instruction.
+    * e.g. we already can take a photo of a circiet board and give a model number and the AI can give details of the exact capacitor to replace. The human can use the soldering iron and bring it into reality.
+    * The big distiction between using AI to support your own choice of hobby/activity/repair and a business entity teleoperating a host of humans.
+    * Many many more jobs will be assisted SatNav-able

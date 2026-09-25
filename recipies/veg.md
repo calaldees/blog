@@ -293,3 +293,11 @@ Inspired by https://pinchofyum.com/creamy-garlic-herb-mushroom-spaghetti
     * Season with salt and pepper
 * Assemble
     * Parsley
+
+
+---
+
+
+Investigate
+
+* [SuperVeg](https://blueprint.bryanjohnson.com/blogs/news/how-to-make-my-anti-aging-lunch-live-to-120)
