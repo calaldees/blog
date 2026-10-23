@@ -622,6 +622,18 @@ to misc cool stuff
     * We already have SatNav, where people don't need to know a city and can drive there.
     * The computer takes care of the overall strategy and the human is good at responding to real world responses.
     * Expand that to many more occupations - you could have a fair more junior operator following AI instruction.
-    * e.g. we already can take a photo of a circiet board and give a model number and the AI can give details of the exact capacitor to replace. The human can use the soldering iron and bring it into reality.
-    * The big distiction between using AI to support your own choice of hobby/activity/repair and a business entity teleoperating a host of humans.
+    * e.g. we already can take a photo of a circuit board and give a model number and the AI can give details of the exact capacitor to replace. The human can use the soldering iron and bring it into reality.
+    * The big distinction between using AI to support your own choice of hobby/activity/repair and a business entity teleoperating a host of humans.
     * Many many more jobs will be assisted SatNav-able
+* [BUY. USE. TROW AWAY. REPEAT? How Consumer Policy Can Enable a Circular Economy: Executive Summary and Policy Recommendations](https://storage02.forbrukerradet.no/media/2026/09/260915executive-summary-and-policy-recommendations.pdf) 15.09.2026
+* [The darker side of being a doctor](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
+    * A surgeon talks about the intensity of his job and colleagues taking their own life due to overwork
+* [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host) 2026
+    * We’re witnessing the death of hosting in America. The share of adults who say they regularly have friends over has declined 70 percent since 1975
+    * [Americans’ Social Activity Has Steeply Declined in the Past 30 Years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
+        * Most activities are down 20% in 20 years
+* [Why were Victorian elites so effective?](https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/)
+    * The biggest empire the world has ever seen was run by a small elite who partied all night, drank liters of port, and stayed in bed until the afternoon.
+* [Mosquitoes are a choice](https://worksinprogress.co/issue/mosquitoes-are-a-choice/)
+    * We can genitally engineer the solution
+* [Denmark set to allow return of 'physical force' to maintain order in schools](https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html)

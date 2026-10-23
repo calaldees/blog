@@ -38,6 +38,9 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Tidy consistently/constantly
         * Every item should have a place where it goes. If you ever find the object not in it's correct place and it is not actively in use, return it to it's correct location.
         * By virtue of moving around your house you will clean/tidy as you go
+        * You want to touch items as little as possible:
+            * open the letter, file it, recycle the envelope - deal with the item
+            * You do not want to move constantly moving items to access other items - where should this object exist
         * Water droplets left in the shower will turn into crap, wipe them every day
             * Plastic body scrubbers do not retain water and smell like sponges or flannels
         * You will have multiple people using shared facilities. Keep all bottles/items out of the bathroom, (this inhibits efficient cleaning as they all have to moved to wipe any surface).
@@ -49,10 +52,12 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Bunk-beds (space efficient)
         * Desk under bed
     * If you haven't used an item in a year, you probably don't need it. (Sell, pass-on-for-free or dispose)
+    * Buying anything is matched by disposing of something equivalent.
     * Activation energy of a task - consider/craft this carefully
         * Guitar on stand in room mean the pickup/put-down energy is minimal
         * Console shelves (see projects)
-        * todo-list as a visible piece of paper on desk is more effective than in a notebook with a cover
+        * todo-list as a visible piece of paper on desk is more effective than in a notebook with a cover that needs opening
+    * Enter the house, place your phone on charge by the door the moment you walk in. Do not have the phone in your pocket when you are in your own home. Protect your mental space.
 * Social
     * No personal use of social media (facebook)
         * These detract from genuine human interactions, trivialize other people
@@ -129,18 +134,30 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
 * Food
     * Powdered food
         * You don't need to eat/drink it every day, but have it to hand
-        * Every meal takes a considerable mental overhead and timesync
-            * Inventory what you have in the cupboards/freezer/fridge
-            * Consider potential recipes, collate ingredients list
-            * Logistically acquire ingredients (transport + time)
-            * Prepare the food
-            * Clean all of infrastructure that was used to prepare the food
-        * Meals are worth the preparation overhead if they facilitate social interaction
+    * Problem: Every meal takes a considerable mental overhead and timesync: (The goal is to reduce this fatigue)
+        * Inventory what you have in the cupboards/freezer/fridge
+        * Consider potential recipes, collate ingredients list
+        * Logistically acquire ingredients (transport + time)
+        * Prepare the food
+        * Clean all of infrastructure that was used to prepare the food
+    * Have 6 meals that are varied that you can cook without mental overhead. Cook in batch and rotate them in the freezer
+    * Solution: Batch cook simple meals. Be able to reheat a meal in minuets.
+        * Raw ingredients are cheap - 12 chicken thighs are £5. You food costs will go down
+        * Protein and vegetables (increase these) are better than processed foods like bread and cheese (reduce these).
+        * Supplement protein every day. Most people are in a protein deficit.
+        * Mash a whole bag of potatoes + season and freeze them
+        * Don't let anyone suggest takout. Be able to cater for 8 guests (including vegetarians) at all times.
+    * Meals are worth the preparation overhead if they facilitate social interaction
     * Diet variety is mandatory
         * Picky eaters form social barriers
         * You need to develop a wide range of gut bacteria, protein sources and vitamins
         * Travelling is easier
         * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
+    * Breakfast is the biggest lie. Your body must be good at regularly using stored energy.
+        * If possible: Move to one meal a day (evening). Drink black coffee for breakfast and lunch (0 calories and preserves fast).
+* Health - Your fitness is the engine that facilitates everything you do (see routine below)
+    * Run 3to4 times a week - 3k (15min) (I does not have to be a marathon, regular is good), stretch tendons for 5min after - Running is non negotiable
+    * Push ups and Pull ups 3to4 times a week - 2 sets of max reps - Upper body strength exercise is non negotiable
 * Career
     * Lucky people (somewhat) make their own luck
         * [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
@@ -176,7 +193,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
     * Research/Understand a range of mental models
         * > “All models are wrong but some are useful” — George Box
     * Things that aren’t your fault can still be your responsibility
-    * There are things that a factually true, but the world becomes better if you actively act as if they are not true
+    * There are things that a factually true, but the world becomes better if you actively act as if they are _not_ true
         * Fixed vs Growth mindset
         * Racial inequality
     * Have more than one career plan/path/skill-set
@@ -201,6 +218,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > There is a cult of ignorance ... The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that "my ignorance is just as good as your knowledge"
     * We do not know what skills children will need in a future that we know nothing about
     * When rattled, ask yourself: How will I feel in 10min/10hours/10days/10months/10years
+        * Preventing an immediate reaction puts you in control
     * Be an active citizen - Report things
         * Dead Swans, Anti social behaviour (locking bins), Don't just walk-on-by
         * [localplan.canterbury.gov.uk](https://localplan.canterbury.gov.uk/)
@@ -246,7 +264,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * > If we aren’t both excited about this conversation, do something differently
         * > recursive curiosity: asking an open-ended question that invites a detailed answer. Then, I introspect and try to notice excitement, find the part of their answer I find most interesting, and ask a follow-up open-ended question about it
         * > follow-up once I identify someone cool! (how to stay in contact)
-        * Use the question "why". Use humor 25% of the answers. Mirror there phrases passionately (you're paying attention). laugh. Be authentic
+        * Use the question "why". Use humour 25% of the answers. Mirror there phrases passionately (you're paying attention). laugh. Be authentic
     * Explicitly when reading highlight 2 words you thought were advanced and want to use more in your daily life. Do this every day
     * Receiving Feedback
         * > [Readers] are always right about something that they point out, but they’re usually wrong about what’s actually the problem.
@@ -291,7 +309,7 @@ Other Links/References
     * You need 2 of - Interesting, Meaningful, Well-defined
     * Careful of SUPER EXITING activities
     * Get board more often
-    * Dive deep into a topic - more knowlege prompts more questions
+    * Dive deep into a topic - more knowledge prompts more questions
     * Attempt a deliberate rubbish first draft
 * [Crazy New Ideas](http://paulgraham.com/newideas.html)
     * Look for domain experts challenging the status quo
@@ -325,7 +343,7 @@ Other Links/References
     * > And sometimes the rare exceptions are so important to spot that we charge experts with the task. But the heuristics are so hard to beat that the experts themselves might be tempted to secretly rely on them, 
 * [the agony of eros: dating](https://ava.substack.com/p/the-agony-of-eros-dating)
     * Communicate - cut to the subtext as quickly as possible
-* [You have finally reached the end of the internet!](https://hmpg.net/) - humor
+* [You have finally reached the end of the internet!](https://hmpg.net/) - humour
 * [My Ordinary Life: Improvements Since the 1990s](https://www.gwern.net/Improvements) - things that have got better
     * This whole site it great [Gwern Branwen](https://www.gwern.net/index)
 * [Ideas That Changed My Life](https://collabfund.com/blog/ideas-that-changed-my-life/) Morgan Housel 2022
