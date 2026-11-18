@@ -468,7 +468,9 @@ I set about making my own voice recondition UI interface.
         * Launch MAME
         * Duck volume on activating keyword
         * `grep` game names
-* People can browse a list of games on their mobile phones at [spludlow.co.uk](https://data.spludlow.co.uk/mame/machine) - web accessible mame lists
+* People can browse a list of games on their mobile phones with web accessible mame lists
+    * [spludlow.co.uk](https://data.spludlow.co.uk/mame/machine)
+    * [ArcadeItalia](https://adb.arcadeitalia.net/lista_mame.php)
 
 ## Run on `rhasspy-load-mame` on GroovyArcade at startup
 

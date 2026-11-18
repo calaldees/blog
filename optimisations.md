@@ -35,6 +35,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * A sink that is full of shit, is not usable as a sink for other things
         * Every item that is dirty is unusable until it is cleaned
         * Get a dishwasher (it cleans better (bacteria), with less water)
+        * Wipe surfaces down (see water droplets below)
     * Tidy consistently/constantly
         * Every item should have a place where it goes. If you ever find the object not in it's correct place and it is not actively in use, return it to it's correct location.
         * By virtue of moving around your house you will clean/tidy as you go
@@ -44,8 +45,6 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Water droplets left in the shower will turn into crap, wipe them every day
             * Plastic body scrubbers do not retain water and smell like sponges or flannels
         * You will have multiple people using shared facilities. Keep all bottles/items out of the bathroom, (this inhibits efficient cleaning as they all have to moved to wipe any surface).
-    * Kitchen sponges are bacterial colonies
-        * Put them in microwave for 60seconds often
     * Bleach shoes
         * The moment they smell, cleanse them (50deg bleach - higher will melt the glue)
     * A beds take a known area of a room
@@ -73,6 +72,15 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
                 * If I am talking to someone and they browse their phone, I stop talking
         * You should actively push/correct/inspire and help other to grow
             * Assist them with lessons, training, health. If you don't have the skills, point them at others that do
+    * 50%:50% rule
+        * Carol Dweak says everything is 100% effort - Anyone can do anything - This is incorrect
+        * IQ worshippers say IQ is everything. There are things that some people cannot accomplish. This is incorrect, high IQ in itself can yield little.
+        * The answer is the middle
+        * This works for Achievement, Wealth, Health
+        * Getting angry at someone for not understanding does not mean they are lazy - they just can't see it
+    * An IQ gap of 30 points prevents communication
+        * There are things that you can see that other cannot
+        * There are things that others can see that you cannot (There will be someone smarter)
     * Actively contact/visit people cycle
         * List the people that you want to keep social ties with
             * Your list will be manageable
@@ -152,12 +160,15 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * Picky eaters form social barriers
         * You need to develop a wide range of gut bacteria, protein sources and vitamins
         * Travelling is easier
-        * If you are well nourished and exercise you will be more mobile and more resistant/recover from illness or physical injury quicker
-    * Breakfast is the biggest lie. Your body must be good at regularly using stored energy.
+        * If you are well nourished and exercise you will be more mobile, more resistant/recover from illness or physical injury quicker
+        * Most people need to supplement protein intake (See powdered food above)
+    * Breakfast is the biggest lie. Your body must be good at regularly using stored energy. (Don't run all day every day with glucose + insulin)
         * If possible: Move to one meal a day (evening). Drink black coffee for breakfast and lunch (0 calories and preserves fast).
-* Health - Your fitness is the engine that facilitates everything you do (see routine below)
+* Health
+    * Your fitness is the engine that facilitates everything you do (see routine below)
     * Run 3to4 times a week - 3k (15min) (I does not have to be a marathon, regular is good), stretch tendons for 5min after - Running is non negotiable
     * Push ups and Pull ups 3to4 times a week - 2 sets of max reps - Upper body strength exercise is non negotiable
+    * Get significant sleep
 * Career
     * Lucky people (somewhat) make their own luck
         * [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
@@ -184,6 +195,7 @@ They are not a gospel for everybody, but a few of the ideas may be relevant to y
         * [why-procrastination-is-about-managing-emotions-not-time](https://www.bbc.com/worklife/article/20200121-why-procrastination-is-about-managing-emotions-not-time)
         * [Screw motivation, what you need is discipline.](https://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
         * Setup routines that have social consequences if you miss them (e.g. your move likely to be up at 8:30 sunday morning if your going to picked up my a friend to play tennis)
+    * There are things that 'not true', but if you believe them, the world is better
     * Remember that you are dying
     * Your parents are not you
         * Their judgements should not affect your life
